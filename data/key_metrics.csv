@@ -1,0 +1,11 @@
+,value
+total_users,3000.0
+total_activity_records,48754.0
+avg_dau,813.0
+retention_7d,0.814
+retention_30d,0.576
+premium_rate,0.1287
+ai_coach_usage,0.2553
+training_plan_usage,0.3492
+avg_session_duration,26.7
+avg_workouts_per_day,1.21

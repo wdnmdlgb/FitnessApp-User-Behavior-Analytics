@@ -1,0 +1,3001 @@
+﻿user_id,country,gender,age,registration_date,acquisition_channel,is_premium
+U00001,UK,Female,32,2026-01-04,Organic Search,1
+U00002,Sweden,Female,38,2026-01-25,Organic Search,0
+U00003,Sweden,Male,24,2026-01-08,Social Media,0
+U00004,UK,Female,24,2026-01-04,Social Media,0
+U00005,France,Female,28,2026-01-18,Organic Search,0
+U00006,Germany,Male,18,2026-02-23,Paid Ads,0
+U00007,UK,Male,23,2026-01-03,Social Media,1
+U00008,Poland,Male,40,2026-01-22,Social Media,0
+U00009,France,Male,33,2026-01-02,Organic Search,1
+U00010,UK,Male,29,2026-01-07,Referral,0
+U00011,UK,Female,30,2026-01-02,Paid Ads,0
+U00012,Germany,Male,25,2026-02-03,App Store,0
+U00013,Italy,Male,22,2026-02-09,Influencer,0
+U00014,Germany,Male,25,2026-01-08,App Store,0
+U00015,Poland,Male,30,2026-01-29,Influencer,0
+U00016,France,Female,23,2026-01-12,Organic Search,1
+U00017,Germany,Female,28,2026-02-17,Organic Search,0
+U00018,Italy,Male,16,2026-01-02,Social Media,0
+U00019,Poland,Female,34,2026-02-02,Organic Search,0
+U00020,France,Female,30,2026-02-15,Social Media,1
+U00021,UK,Male,30,2026-01-01,Social Media,0
+U00022,UK,Male,29,2026-01-09,Paid Ads,0
+U00023,France,Female,29,2026-02-23,Social Media,0
+U00024,UK,Male,27,2026-01-01,Influencer,0
+U00025,Germany,Male,26,2026-01-04,Social Media,0
+U00026,UK,Female,30,2026-01-29,Organic Search,0
+U00027,UK,Female,32,2026-01-02,Referral,0
+U00028,Germany,Male,43,2026-01-18,Influencer,1
+U00029,France,Male,20,2026-01-24,Social Media,0
+U00030,Germany,Male,31,2026-01-03,Paid Ads,0
+U00031,UK,Female,29,2026-01-16,Organic Search,1
+U00032,Poland,Female,37,2026-01-21,Social Media,0
+U00033,Spain,Female,29,2026-01-21,Organic Search,0
+U00034,Poland,Female,30,2026-01-01,Organic Search,0
+U00035,Germany,Male,41,2026-01-22,Organic Search,0
+U00036,UK,Male,31,2026-01-28,Influencer,0
+U00037,Spain,Female,26,2026-01-07,Organic Search,0
+U00038,UK,Female,22,2026-01-20,App Store,0
+U00039,Netherlands,Female,32,2026-01-07,Organic Search,0
+U00040,Germany,Female,21,2026-02-23,Referral,0
+U00041,Germany,Female,31,2026-02-23,Referral,0
+U00042,UK,Female,27,2026-01-08,Organic Search,0
+U00043,Belgium,Female,21,2026-01-20,Paid Ads,0
+U00044,France,Female,29,2026-01-28,Influencer,0
+U00045,UK,Male,31,2026-02-10,Referral,0
+U00046,France,Female,31,2026-01-21,App Store,0
+U00047,Poland,Male,22,2026-01-18,Organic Search,0
+U00048,France,Male,26,2026-01-18,Organic Search,1
+U00049,Sweden,Male,28,2026-01-30,Organic Search,0
+U00050,Germany,Male,20,2026-01-16,Social Media,0
+U00051,Spain,Other,16,2026-02-01,Social Media,0
+U00052,Germany,Male,29,2026-02-23,Referral,0
+U00053,France,Male,24,2026-01-16,App Store,0
+U00054,UK,Female,23,2026-01-27,Influencer,0
+U00055,France,Male,36,2026-01-01,Organic Search,1
+U00056,Germany,Female,23,2026-01-25,Social Media,1
+U00057,France,Male,26,2026-01-11,Influencer,0
+U00058,Germany,Male,19,2026-01-20,Social Media,0
+U00059,Spain,Male,29,2026-01-01,Influencer,0
+U00060,Netherlands,Male,23,2026-01-21,Social Media,0
+U00061,Belgium,Male,29,2026-01-02,Social Media,0
+U00062,Germany,Female,23,2026-01-07,Organic Search,0
+U00063,Netherlands,Female,33,2026-01-07,Organic Search,0
+U00064,Italy,Other,32,2026-01-11,Social Media,0
+U00065,UK,Female,26,2026-01-28,App Store,1
+U00066,Poland,Female,35,2026-02-05,Social Media,0
+U00067,UK,Male,30,2026-02-23,Influencer,0
+U00068,France,Male,27,2026-01-08,Influencer,0
+U00069,Italy,Female,27,2026-01-02,Social Media,0
+U00070,Poland,Male,21,2026-01-03,Organic Search,0
+U00071,Netherlands,Male,29,2026-01-02,Referral,0
+U00072,Germany,Male,24,2026-02-23,Social Media,0
+U00073,Italy,Female,22,2026-01-31,Influencer,0
+U00074,Poland,Male,26,2026-01-14,Organic Search,0
+U00075,Germany,Male,30,2026-01-28,Influencer,0
+U00076,UK,Male,22,2026-02-10,Organic Search,0
+U00077,Germany,Female,29,2026-01-02,Influencer,0
+U00078,France,Female,28,2026-01-24,Social Media,0
+U00079,Netherlands,Female,43,2026-01-07,Organic Search,0
+U00080,UK,Female,22,2026-01-02,Paid Ads,0
+U00081,Spain,Female,34,2026-01-24,Organic Search,0
+U00082,Sweden,Female,23,2026-01-26,Influencer,0
+U00083,Belgium,Female,36,2026-02-23,Organic Search,0
+U00084,UK,Female,24,2026-02-06,Referral,0
+U00085,France,Male,28,2026-01-30,Paid Ads,0
+U00086,UK,Male,28,2026-01-03,Paid Ads,0
+U00087,UK,Female,17,2026-01-03,Influencer,0
+U00088,Italy,Female,36,2026-02-08,Influencer,0
+U00089,Sweden,Male,32,2026-01-25,Organic Search,0
+U00090,Germany,Male,37,2026-01-18,Social Media,0
+U00091,Poland,Male,38,2026-01-11,Influencer,0
+U00092,Belgium,Male,28,2026-02-22,Social Media,0
+U00093,France,Other,16,2026-01-21,Organic Search,1
+U00094,Germany,Male,27,2026-01-04,Organic Search,0
+U00095,Germany,Male,27,2026-01-23,Organic Search,0
+U00096,Germany,Male,34,2026-01-07,Organic Search,1
+U00097,Germany,Male,24,2026-01-15,Influencer,1
+U00098,Italy,Female,19,2026-01-02,Referral,0
+U00099,Germany,Male,32,2026-01-05,Organic Search,0
+U00100,France,Female,33,2026-01-10,Social Media,0
+U00101,Germany,Male,32,2026-01-15,Social Media,1
+U00102,France,Female,30,2026-01-06,Social Media,0
+U00103,Germany,Male,23,2026-01-03,Referral,0
+U00104,Spain,Female,20,2026-01-14,Organic Search,0
+U00105,Netherlands,Female,20,2026-01-07,Social Media,0
+U00106,Netherlands,Male,26,2026-02-23,Influencer,0
+U00107,Germany,Male,23,2026-01-05,Social Media,0
+U00108,Poland,Male,24,2026-01-15,Social Media,0
+U00109,Germany,Male,23,2026-01-04,Influencer,0
+U00110,Netherlands,Female,33,2026-01-07,App Store,0
+U00111,UK,Male,16,2026-01-03,Influencer,0
+U00112,Netherlands,Male,28,2026-01-14,Social Media,1
+U00113,UK,Male,35,2026-01-06,Influencer,0
+U00114,Netherlands,Male,23,2026-01-11,Social Media,0
+U00115,Sweden,Female,30,2026-02-23,Organic Search,1
+U00116,Italy,Female,23,2026-02-06,Organic Search,0
+U00117,Germany,Male,30,2026-01-22,Social Media,0
+U00118,Sweden,Male,25,2026-02-03,Social Media,0
+U00119,France,Male,28,2026-01-06,Referral,0
+U00120,France,Female,39,2026-01-20,Organic Search,0
+U00121,Netherlands,Male,30,2026-01-20,Social Media,0
+U00122,Italy,Male,25,2026-01-08,Organic Search,0
+U00123,Germany,Female,31,2026-01-09,Referral,1
+U00124,Sweden,Male,30,2026-01-11,App Store,0
+U00125,UK,Female,34,2026-01-24,Social Media,0
+U00126,UK,Male,37,2026-02-17,Influencer,0
+U00127,France,Female,29,2026-01-15,Influencer,1
+U00128,Sweden,Female,20,2026-01-17,Influencer,0
+U00129,Spain,Male,41,2026-01-12,App Store,0
+U00130,Poland,Male,37,2026-01-03,Paid Ads,0
+U00131,Germany,Female,28,2026-01-18,Social Media,1
+U00132,UK,Female,35,2026-01-01,Social Media,0
+U00133,France,Female,18,2026-01-27,Social Media,0
+U00134,France,Male,18,2026-01-04,Social Media,0
+U00135,Poland,Male,40,2026-01-01,Influencer,1
+U00136,Belgium,Male,35,2026-01-11,Organic Search,0
+U00137,France,Female,28,2026-01-05,Referral,0
+U00138,Germany,Male,27,2026-01-13,Influencer,1
+U00139,Italy,Male,16,2026-01-11,Influencer,1
+U00140,Germany,Female,35,2026-02-23,Social Media,0
+U00141,Netherlands,Male,34,2026-01-01,Organic Search,0
+U00142,Spain,Male,36,2026-01-03,App Store,0
+U00143,Spain,Male,26,2026-01-26,Referral,0
+U00144,UK,Female,25,2026-01-05,Social Media,0
+U00145,Germany,Male,30,2026-01-11,Referral,0
+U00146,UK,Male,19,2026-01-10,Influencer,0
+U00147,Netherlands,Male,16,2026-01-07,Paid Ads,0
+U00148,Germany,Female,39,2026-01-14,Referral,0
+U00149,France,Male,30,2026-01-21,Social Media,0
+U00150,Sweden,Other,16,2026-01-15,Organic Search,0
+U00151,Germany,Female,29,2026-01-07,Influencer,0
+U00152,Sweden,Male,21,2026-01-01,Organic Search,0
+U00153,Sweden,Female,39,2026-01-04,Referral,0
+U00154,UK,Female,35,2026-01-01,Organic Search,0
+U00155,Germany,Female,23,2026-01-07,Social Media,0
+U00156,UK,Female,18,2026-01-13,Influencer,0
+U00157,Spain,Male,23,2026-01-14,Influencer,0
+U00158,Italy,Male,28,2026-01-02,App Store,0
+U00159,Spain,Male,32,2026-02-02,Influencer,0
+U00160,Netherlands,Male,24,2026-01-02,Referral,0
+U00161,Belgium,Male,29,2026-02-11,App Store,0
+U00162,Spain,Female,18,2026-02-07,Organic Search,0
+U00163,UK,Other,31,2026-01-04,Influencer,0
+U00164,Germany,Female,29,2026-01-08,Paid Ads,0
+U00165,Belgium,Male,28,2026-01-08,Referral,1
+U00166,Netherlands,Male,28,2026-01-03,Organic Search,0
+U00167,UK,Female,26,2026-01-16,App Store,0
+U00168,Netherlands,Female,24,2026-01-20,Organic Search,1
+U00169,Sweden,Male,28,2026-02-23,App Store,0
+U00170,UK,Female,35,2026-01-11,Social Media,0
+U00171,Sweden,Other,24,2026-01-11,App Store,0
+U00172,Germany,Male,38,2026-01-07,Social Media,0
+U00173,Germany,Male,27,2026-01-10,Influencer,0
+U00174,Belgium,Female,29,2026-01-02,Social Media,0
+U00175,Belgium,Male,20,2026-02-23,Organic Search,0
+U00176,Netherlands,Female,30,2026-01-15,Organic Search,0
+U00177,UK,Male,23,2026-01-02,Paid Ads,0
+U00178,Poland,Other,36,2026-01-04,Social Media,0
+U00179,Spain,Male,24,2026-01-06,Social Media,0
+U00180,Netherlands,Male,32,2026-02-11,Social Media,0
+U00181,Poland,Female,30,2026-01-22,Influencer,1
+U00182,France,Male,30,2026-01-07,App Store,0
+U00183,Germany,Male,24,2026-02-08,Social Media,0
+U00184,Netherlands,Female,29,2026-01-09,Influencer,0
+U00185,UK,Female,32,2026-02-08,Referral,0
+U00186,Sweden,Female,35,2026-01-23,Influencer,0
+U00187,Germany,Female,26,2026-01-09,App Store,0
+U00188,Italy,Female,29,2026-01-15,Organic Search,0
+U00189,Netherlands,Other,18,2026-01-21,Social Media,0
+U00190,Germany,Female,33,2026-01-16,Paid Ads,0
+U00191,Netherlands,Female,24,2026-01-08,App Store,1
+U00192,Netherlands,Male,29,2026-01-20,Organic Search,0
+U00193,Austria,Female,24,2026-01-29,Organic Search,1
+U00194,UK,Female,30,2026-01-30,Influencer,0
+U00195,UK,Other,17,2026-01-04,App Store,0
+U00196,UK,Male,16,2026-01-23,Influencer,0
+U00197,Belgium,Male,32,2026-01-11,Influencer,0
+U00198,UK,Other,27,2026-01-11,Referral,0
+U00199,Germany,Male,19,2026-02-09,Social Media,0
+U00200,Germany,Female,38,2026-01-30,App Store,0
+U00201,Italy,Female,29,2026-02-01,Social Media,1
+U00202,Germany,Female,32,2026-01-12,Organic Search,0
+U00203,Germany,Female,33,2026-01-08,Social Media,1
+U00204,Germany,Male,23,2026-01-14,Influencer,0
+U00205,Spain,Female,21,2026-01-06,Paid Ads,0
+U00206,France,Female,27,2026-01-25,Influencer,1
+U00207,UK,Female,26,2026-01-01,Organic Search,0
+U00208,Germany,Female,23,2026-01-24,App Store,0
+U00209,Germany,Male,37,2026-01-01,Paid Ads,1
+U00210,France,Female,34,2026-02-10,App Store,0
+U00211,UK,Female,37,2026-01-13,Influencer,0
+U00212,Spain,Male,29,2026-01-02,Organic Search,0
+U00213,Sweden,Male,31,2026-01-22,Social Media,0
+U00214,Spain,Male,23,2026-02-23,Paid Ads,0
+U00215,Germany,Female,26,2026-02-10,App Store,0
+U00216,France,Male,16,2026-01-10,Paid Ads,1
+U00217,Sweden,Female,39,2026-01-14,Referral,0
+U00218,France,Male,24,2026-01-18,Referral,0
+U00219,Netherlands,Female,23,2026-01-26,Referral,0
+U00220,UK,Other,30,2026-01-04,Referral,0
+U00221,UK,Female,33,2026-01-09,Influencer,1
+U00222,UK,Female,16,2026-01-06,Influencer,0
+U00223,Italy,Male,27,2026-01-06,Organic Search,0
+U00224,France,Male,31,2026-02-05,Social Media,0
+U00225,Netherlands,Female,25,2026-01-01,App Store,0
+U00226,France,Female,25,2026-02-02,Influencer,0
+U00227,Germany,Male,27,2026-01-16,Paid Ads,1
+U00228,Germany,Male,27,2026-02-23,Social Media,0
+U00229,Germany,Male,34,2026-01-13,Social Media,0
+U00230,Spain,Male,30,2026-01-01,Social Media,0
+U00231,Germany,Female,23,2026-02-10,Organic Search,0
+U00232,Sweden,Female,41,2026-01-23,Social Media,0
+U00233,Sweden,Female,35,2026-01-05,Influencer,0
+U00234,Spain,Male,36,2026-01-22,Paid Ads,1
+U00235,Austria,Male,30,2026-01-17,App Store,0
+U00236,France,Male,30,2026-01-23,App Store,0
+U00237,Italy,Male,26,2026-01-16,Organic Search,0
+U00238,UK,Male,28,2026-01-24,Social Media,0
+U00239,UK,Male,39,2026-01-20,Social Media,0
+U00240,Sweden,Female,35,2026-01-14,Organic Search,0
+U00241,UK,Male,35,2026-01-19,App Store,0
+U00242,Spain,Female,45,2026-01-01,Organic Search,1
+U00243,Netherlands,Female,28,2026-01-02,Paid Ads,0
+U00244,Germany,Female,27,2026-01-06,Social Media,0
+U00245,Italy,Female,34,2026-01-26,Social Media,0
+U00246,Germany,Male,17,2026-01-23,Organic Search,0
+U00247,Spain,Male,16,2026-02-23,Social Media,0
+U00248,Netherlands,Male,31,2026-01-21,Paid Ads,0
+U00249,Italy,Female,23,2026-01-19,Social Media,0
+U00250,Poland,Male,23,2026-01-06,App Store,0
+U00251,Sweden,Male,23,2026-01-20,Social Media,0
+U00252,Germany,Female,29,2026-02-09,Organic Search,1
+U00253,Germany,Female,34,2026-01-06,Social Media,0
+U00254,France,Other,43,2026-01-03,Influencer,0
+U00255,France,Female,31,2026-01-07,Organic Search,1
+U00256,Poland,Male,39,2026-01-08,Organic Search,0
+U00257,Germany,Female,29,2026-02-12,Influencer,0
+U00258,UK,Male,17,2026-01-23,Paid Ads,0
+U00259,Netherlands,Female,23,2026-01-17,Paid Ads,0
+U00260,Spain,Male,27,2026-01-16,Organic Search,0
+U00261,Italy,Male,35,2026-02-22,Organic Search,0
+U00262,Germany,Other,32,2026-02-22,Social Media,0
+U00263,France,Female,29,2026-01-03,Referral,0
+U00264,Spain,Male,25,2026-01-08,Social Media,0
+U00265,Germany,Female,16,2026-01-11,Social Media,0
+U00266,France,Female,31,2026-01-14,Paid Ads,0
+U00267,Germany,Female,28,2026-01-10,Referral,0
+U00268,Italy,Female,27,2026-01-08,Organic Search,0
+U00269,Germany,Female,28,2026-01-21,Referral,0
+U00270,Sweden,Female,27,2026-01-14,Influencer,0
+U00271,Germany,Female,20,2026-01-10,Organic Search,1
+U00272,Germany,Female,25,2026-01-16,Paid Ads,0
+U00273,UK,Female,21,2026-01-21,Organic Search,0
+U00274,Spain,Male,26,2026-01-02,App Store,0
+U00275,Germany,Other,29,2026-02-23,Organic Search,0
+U00276,Germany,Male,25,2026-01-03,Influencer,1
+U00277,France,Other,31,2026-01-08,Influencer,0
+U00278,France,Male,36,2026-02-13,Social Media,0
+U00279,UK,Male,31,2026-01-30,Organic Search,0
+U00280,France,Male,33,2026-01-07,App Store,0
+U00281,France,Male,27,2026-01-03,Social Media,0
+U00282,Sweden,Male,32,2026-01-14,Organic Search,0
+U00283,Spain,Male,18,2026-01-13,App Store,0
+U00284,Belgium,Female,16,2026-01-08,Influencer,0
+U00285,UK,Female,43,2026-01-22,Referral,0
+U00286,Netherlands,Male,23,2026-01-15,Organic Search,0
+U00287,France,Female,25,2026-01-02,Organic Search,0
+U00288,Spain,Male,29,2026-01-08,Social Media,0
+U00289,Spain,Male,36,2026-01-07,Organic Search,1
+U00290,Belgium,Male,33,2026-01-30,Influencer,0
+U00291,Germany,Male,37,2026-01-21,Social Media,1
+U00292,Belgium,Female,31,2026-01-07,Paid Ads,0
+U00293,Netherlands,Female,31,2026-01-03,Social Media,0
+U00294,UK,Male,35,2026-01-12,Social Media,0
+U00295,Belgium,Male,26,2026-02-13,Influencer,0
+U00296,Italy,Female,26,2026-02-07,Referral,0
+U00297,Italy,Male,31,2026-01-30,Influencer,1
+U00298,France,Other,33,2026-02-23,Organic Search,0
+U00299,Germany,Female,24,2026-01-15,Referral,0
+U00300,France,Female,32,2026-01-15,Social Media,0
+U00301,Spain,Female,37,2026-01-04,Social Media,1
+U00302,UK,Female,32,2026-02-23,Organic Search,0
+U00303,Italy,Male,39,2026-01-20,Organic Search,0
+U00304,Italy,Female,30,2026-01-01,App Store,1
+U00305,Italy,Male,27,2026-01-08,Organic Search,0
+U00306,Sweden,Other,30,2026-01-10,Social Media,0
+U00307,Poland,Female,18,2026-01-24,Organic Search,0
+U00308,UK,Female,16,2026-01-02,Influencer,0
+U00309,Netherlands,Male,38,2026-01-17,Influencer,0
+U00310,Italy,Male,42,2026-02-04,Social Media,1
+U00311,Germany,Male,32,2026-02-01,Social Media,0
+U00312,Germany,Male,34,2026-01-12,Organic Search,0
+U00313,Netherlands,Female,20,2026-01-21,App Store,1
+U00314,France,Female,40,2026-01-10,Influencer,0
+U00315,Germany,Male,28,2026-01-08,Paid Ads,0
+U00316,France,Female,16,2026-02-06,Organic Search,0
+U00317,France,Female,27,2026-01-12,App Store,0
+U00318,Germany,Female,40,2026-01-03,App Store,0
+U00319,Belgium,Male,27,2026-01-07,Organic Search,0
+U00320,UK,Male,26,2026-01-29,Social Media,0
+U00321,Germany,Female,16,2026-01-09,Referral,1
+U00322,Spain,Female,34,2026-01-17,Paid Ads,1
+U00323,France,Male,33,2026-01-05,Influencer,0
+U00324,Austria,Female,19,2026-01-09,Organic Search,0
+U00325,UK,Male,29,2026-01-15,Organic Search,0
+U00326,Spain,Male,36,2026-01-25,Social Media,1
+U00327,France,Female,31,2026-01-13,Social Media,0
+U00328,France,Male,34,2026-01-15,App Store,0
+U00329,Germany,Female,23,2026-01-04,Social Media,0
+U00330,France,Male,22,2026-02-12,Referral,0
+U00331,UK,Male,34,2026-01-16,Social Media,1
+U00332,Spain,Female,27,2026-01-10,App Store,0
+U00333,Germany,Female,34,2026-01-18,Influencer,0
+U00334,UK,Female,23,2026-01-16,Organic Search,0
+U00335,Italy,Male,25,2026-01-05,Referral,0
+U00336,Germany,Male,25,2026-01-20,Organic Search,0
+U00337,Italy,Female,27,2026-02-23,Influencer,0
+U00338,Germany,Female,31,2026-01-12,Organic Search,1
+U00339,Netherlands,Female,32,2026-01-02,App Store,0
+U00340,Sweden,Female,30,2026-01-16,App Store,0
+U00341,France,Female,16,2026-01-14,Referral,0
+U00342,Germany,Female,23,2026-02-04,Organic Search,0
+U00343,Germany,Male,39,2026-01-22,Influencer,0
+U00344,Sweden,Male,25,2026-02-23,Influencer,1
+U00345,Spain,Male,24,2026-01-04,Referral,0
+U00346,Sweden,Male,29,2026-01-21,Influencer,0
+U00347,UK,Male,31,2026-02-10,App Store,0
+U00348,Spain,Male,29,2026-02-17,Influencer,0
+U00349,Germany,Male,35,2026-01-16,Social Media,0
+U00350,Germany,Male,27,2026-01-01,App Store,0
+U00351,UK,Female,31,2026-01-29,App Store,1
+U00352,Belgium,Female,26,2026-01-08,Referral,0
+U00353,Sweden,Male,30,2026-01-03,Organic Search,1
+U00354,France,Male,40,2026-01-19,Social Media,0
+U00355,Italy,Male,34,2026-02-14,Organic Search,1
+U00356,UK,Female,39,2026-01-01,Influencer,0
+U00357,Sweden,Female,21,2026-01-02,Referral,0
+U00358,Sweden,Female,29,2026-01-17,Social Media,0
+U00359,UK,Male,31,2026-02-14,Social Media,0
+U00360,Netherlands,Female,37,2026-01-25,Organic Search,0
+U00361,Germany,Male,43,2026-02-23,Influencer,0
+U00362,France,Female,26,2026-01-02,Social Media,0
+U00363,France,Male,24,2026-02-23,Social Media,0
+U00364,Germany,Female,23,2026-01-07,Organic Search,0
+U00365,Germany,Male,25,2026-02-02,Influencer,0
+U00366,UK,Female,22,2026-01-11,Organic Search,0
+U00367,Germany,Male,35,2026-01-14,App Store,0
+U00368,Germany,Male,28,2026-01-11,Social Media,0
+U00369,Poland,Female,16,2026-02-04,Paid Ads,0
+U00370,Germany,Female,34,2026-01-02,Social Media,1
+U00371,Netherlands,Female,26,2026-01-13,Social Media,0
+U00372,France,Female,21,2026-01-02,Organic Search,0
+U00373,Belgium,Female,20,2026-01-19,Organic Search,0
+U00374,Poland,Female,37,2026-02-11,App Store,0
+U00375,Poland,Male,19,2026-01-01,Social Media,0
+U00376,France,Female,28,2026-01-01,Organic Search,0
+U00377,UK,Female,34,2026-01-24,Social Media,0
+U00378,UK,Male,30,2026-02-01,Social Media,0
+U00379,Sweden,Female,27,2026-01-08,Influencer,0
+U00380,Netherlands,Female,33,2026-01-24,Social Media,0
+U00381,France,Male,25,2026-01-04,Organic Search,0
+U00382,Netherlands,Male,33,2026-01-02,Social Media,0
+U00383,Spain,Female,19,2026-02-23,Social Media,0
+U00384,Germany,Female,23,2026-01-01,Social Media,0
+U00385,UK,Male,27,2026-01-04,Organic Search,0
+U00386,France,Male,25,2026-02-16,Organic Search,0
+U00387,UK,Female,36,2026-02-23,Social Media,0
+U00388,UK,Male,30,2026-01-09,Social Media,0
+U00389,Netherlands,Female,32,2026-01-12,Social Media,0
+U00390,Germany,Male,31,2026-01-09,Social Media,0
+U00391,Netherlands,Male,20,2026-01-12,Influencer,0
+U00392,France,Other,29,2026-02-12,Influencer,0
+U00393,Netherlands,Male,24,2026-01-13,Social Media,0
+U00394,Belgium,Female,27,2026-01-26,Social Media,0
+U00395,Germany,Female,29,2026-01-07,Referral,0
+U00396,Germany,Male,25,2026-02-23,Social Media,0
+U00397,Netherlands,Male,21,2026-01-29,Social Media,0
+U00398,France,Female,23,2026-02-10,Paid Ads,0
+U00399,Sweden,Female,31,2026-01-05,Organic Search,0
+U00400,France,Female,28,2026-02-14,Organic Search,0
+U00401,France,Female,32,2026-01-01,Social Media,0
+U00402,Spain,Female,29,2026-01-03,Social Media,0
+U00403,Italy,Male,34,2026-01-07,Organic Search,0
+U00404,Sweden,Female,31,2026-01-04,App Store,0
+U00405,Spain,Female,30,2026-01-02,Social Media,1
+U00406,France,Male,35,2026-01-02,Social Media,1
+U00407,Italy,Female,16,2026-01-02,Social Media,0
+U00408,Spain,Male,29,2026-01-02,Social Media,0
+U00409,UK,Male,33,2026-01-08,Social Media,0
+U00410,Netherlands,Other,26,2026-01-19,Social Media,0
+U00411,Germany,Female,16,2026-01-18,Influencer,1
+U00412,Spain,Male,29,2026-01-26,Referral,0
+U00413,Netherlands,Female,30,2026-01-07,Social Media,0
+U00414,Germany,Female,24,2026-01-02,App Store,0
+U00415,Germany,Female,25,2026-02-06,Organic Search,0
+U00416,Italy,Male,29,2026-01-03,Social Media,0
+U00417,Sweden,Male,29,2026-01-12,Referral,0
+U00418,Belgium,Male,29,2026-01-24,Social Media,0
+U00419,Netherlands,Female,34,2026-02-23,App Store,0
+U00420,Spain,Male,36,2026-01-03,App Store,0
+U00421,Germany,Male,28,2026-01-12,Social Media,0
+U00422,UK,Male,32,2026-01-02,App Store,0
+U00423,Sweden,Female,32,2026-01-13,Referral,0
+U00424,Spain,Female,20,2026-01-07,Organic Search,0
+U00425,Spain,Male,19,2026-01-25,Organic Search,0
+U00426,UK,Male,39,2026-01-02,Organic Search,0
+U00427,UK,Female,26,2026-01-14,Social Media,0
+U00428,Netherlands,Male,21,2026-01-13,Paid Ads,0
+U00429,Spain,Male,33,2026-01-15,Paid Ads,0
+U00430,Germany,Female,33,2026-02-02,Organic Search,0
+U00431,Germany,Male,28,2026-01-09,Social Media,1
+U00432,UK,Female,38,2026-02-23,Referral,1
+U00433,Poland,Female,26,2026-01-11,Social Media,1
+U00434,UK,Male,38,2026-01-14,App Store,0
+U00435,Germany,Female,28,2026-02-23,Organic Search,0
+U00436,UK,Male,29,2026-01-04,Influencer,0
+U00437,Netherlands,Male,31,2026-01-10,Influencer,0
+U00438,UK,Female,35,2026-01-07,Social Media,0
+U00439,Spain,Male,22,2026-01-03,Paid Ads,0
+U00440,UK,Female,42,2026-01-23,Organic Search,0
+U00441,Italy,Male,16,2026-01-01,Organic Search,0
+U00442,Germany,Male,38,2026-02-07,Paid Ads,0
+U00443,Sweden,Male,16,2026-01-12,Influencer,1
+U00444,Netherlands,Other,31,2026-01-05,App Store,0
+U00445,Belgium,Female,30,2026-01-29,Organic Search,0
+U00446,Spain,Male,28,2026-01-21,Influencer,1
+U00447,Netherlands,Female,25,2026-01-01,Social Media,0
+U00448,UK,Female,27,2026-01-06,Social Media,0
+U00449,Spain,Male,24,2026-01-14,Influencer,1
+U00450,UK,Male,27,2026-02-20,Paid Ads,1
+U00451,Italy,Male,37,2026-02-20,Paid Ads,0
+U00452,UK,Female,23,2026-01-06,Influencer,0
+U00453,Spain,Male,28,2026-01-05,Organic Search,1
+U00454,Germany,Female,21,2026-01-07,Paid Ads,0
+U00455,France,Female,39,2026-01-07,Social Media,0
+U00456,Belgium,Female,28,2026-01-11,App Store,0
+U00457,France,Male,19,2026-01-09,Referral,0
+U00458,Germany,Male,30,2026-02-23,Social Media,0
+U00459,Italy,Female,36,2026-01-30,Influencer,1
+U00460,Sweden,Female,20,2026-01-07,Social Media,1
+U00461,Germany,Female,23,2026-02-23,Organic Search,0
+U00462,UK,Male,28,2026-01-01,App Store,0
+U00463,UK,Female,32,2026-01-11,Social Media,0
+U00464,Spain,Female,31,2026-01-05,Social Media,0
+U00465,Italy,Other,23,2026-01-18,Influencer,1
+U00466,France,Female,37,2026-01-04,App Store,0
+U00467,Belgium,Male,32,2026-01-08,App Store,0
+U00468,Germany,Female,17,2026-01-15,Social Media,0
+U00469,Sweden,Female,25,2026-02-20,Influencer,0
+U00470,Sweden,Male,40,2026-02-02,Organic Search,0
+U00471,UK,Other,31,2026-01-26,Influencer,0
+U00472,France,Male,33,2026-01-04,App Store,0
+U00473,UK,Male,17,2026-01-25,App Store,0
+U00474,Belgium,Male,25,2026-01-15,App Store,0
+U00475,Germany,Female,16,2026-01-03,Referral,0
+U00476,UK,Male,35,2026-02-11,Influencer,0
+U00477,UK,Female,36,2026-02-17,Organic Search,0
+U00478,Germany,Female,29,2026-01-07,Social Media,0
+U00479,Netherlands,Male,23,2026-01-02,App Store,0
+U00480,France,Female,38,2026-01-09,Organic Search,0
+U00481,Belgium,Female,35,2026-01-05,Social Media,0
+U00482,Germany,Male,38,2026-01-07,Social Media,0
+U00483,Germany,Female,26,2026-01-27,App Store,0
+U00484,UK,Male,21,2026-01-07,Organic Search,0
+U00485,UK,Male,29,2026-01-19,Organic Search,1
+U00486,Belgium,Male,28,2026-01-02,Influencer,0
+U00487,Netherlands,Male,33,2026-01-25,Influencer,0
+U00488,UK,Female,19,2026-02-10,Paid Ads,0
+U00489,Germany,Female,31,2026-01-05,Influencer,0
+U00490,Spain,Male,30,2026-01-01,Influencer,0
+U00491,France,Female,35,2026-01-05,Influencer,0
+U00492,Germany,Male,25,2026-01-12,Organic Search,0
+U00493,Poland,Male,24,2026-01-26,Organic Search,0
+U00494,Netherlands,Female,16,2026-01-06,App Store,1
+U00495,Germany,Female,22,2026-01-07,Organic Search,1
+U00496,France,Female,23,2026-01-19,Influencer,1
+U00497,Belgium,Female,31,2026-02-23,Social Media,0
+U00498,Netherlands,Female,31,2026-01-27,Social Media,1
+U00499,UK,Female,35,2026-01-07,Social Media,0
+U00500,Spain,Female,44,2026-01-13,Influencer,0
+U00501,Spain,Male,41,2026-02-23,Organic Search,0
+U00502,UK,Male,22,2026-01-01,Social Media,0
+U00503,Germany,Female,24,2026-01-22,Social Media,0
+U00504,Germany,Male,38,2026-01-05,Influencer,0
+U00505,Italy,Female,25,2026-01-08,Organic Search,0
+U00506,France,Male,23,2026-01-09,Referral,0
+U00507,UK,Female,27,2026-01-09,Social Media,0
+U00508,Sweden,Male,30,2026-01-10,Influencer,0
+U00509,Germany,Female,34,2026-02-09,App Store,0
+U00510,Netherlands,Male,31,2026-01-23,Organic Search,0
+U00511,UK,Male,34,2026-01-15,Organic Search,1
+U00512,Germany,Male,34,2026-02-14,Organic Search,0
+U00513,Germany,Male,44,2026-01-06,Organic Search,0
+U00514,UK,Male,31,2026-02-23,Influencer,0
+U00515,France,Male,41,2026-01-25,Organic Search,0
+U00516,France,Female,30,2026-01-20,Social Media,1
+U00517,Netherlands,Male,21,2026-01-24,Organic Search,0
+U00518,Poland,Male,25,2026-01-15,Social Media,1
+U00519,Italy,Male,46,2026-01-20,Influencer,0
+U00520,Germany,Female,20,2026-01-16,Referral,0
+U00521,Sweden,Female,35,2026-01-13,Organic Search,0
+U00522,Poland,Male,23,2026-01-02,Social Media,0
+U00523,Poland,Male,33,2026-02-23,Organic Search,0
+U00524,Germany,Male,16,2026-02-02,Social Media,0
+U00525,Netherlands,Male,23,2026-01-10,Organic Search,0
+U00526,France,Female,19,2026-01-22,App Store,1
+U00527,Germany,Female,26,2026-02-02,App Store,0
+U00528,Germany,Female,27,2026-01-18,App Store,0
+U00529,Italy,Female,30,2026-01-20,App Store,0
+U00530,Germany,Female,21,2026-01-28,Referral,0
+U00531,Netherlands,Female,29,2026-01-21,Organic Search,0
+U00532,Spain,Male,34,2026-01-05,Social Media,0
+U00533,Germany,Male,28,2026-01-05,Organic Search,0
+U00534,UK,Female,34,2026-01-22,App Store,0
+U00535,Spain,Male,29,2026-01-08,Social Media,0
+U00536,Spain,Male,31,2026-01-19,Social Media,0
+U00537,Italy,Female,23,2026-01-02,Influencer,0
+U00538,France,Male,32,2026-01-07,Organic Search,0
+U00539,UK,Female,28,2026-01-08,Referral,0
+U00540,UK,Female,26,2026-02-23,Referral,0
+U00541,UK,Female,33,2026-02-09,Paid Ads,0
+U00542,Germany,Male,32,2026-01-03,Organic Search,0
+U00543,Italy,Female,35,2026-01-06,Organic Search,0
+U00544,Netherlands,Female,18,2026-01-01,Referral,0
+U00545,Netherlands,Female,29,2026-01-18,Paid Ads,0
+U00546,France,Female,35,2026-01-10,Organic Search,0
+U00547,Poland,Female,30,2026-01-05,Paid Ads,0
+U00548,Netherlands,Female,16,2026-01-26,Influencer,1
+U00549,France,Female,20,2026-02-23,Organic Search,0
+U00550,Spain,Female,38,2026-01-21,Social Media,0
+U00551,Netherlands,Female,31,2026-01-13,Influencer,0
+U00552,Germany,Male,21,2026-01-31,Influencer,0
+U00553,Sweden,Female,28,2026-01-14,Social Media,0
+U00554,Netherlands,Male,31,2026-02-20,Influencer,0
+U00555,UK,Male,27,2026-01-02,Influencer,0
+U00556,Poland,Female,24,2026-01-05,Referral,0
+U00557,Germany,Female,34,2026-02-23,Organic Search,0
+U00558,Netherlands,Other,23,2026-01-13,Referral,1
+U00559,UK,Male,26,2026-01-02,Organic Search,0
+U00560,France,Male,22,2026-01-03,Organic Search,0
+U00561,Austria,Female,27,2026-01-07,App Store,0
+U00562,UK,Male,31,2026-01-03,Social Media,0
+U00563,Spain,Male,32,2026-01-04,Social Media,0
+U00564,Germany,Male,24,2026-01-14,Social Media,0
+U00565,Italy,Male,29,2026-01-04,Influencer,0
+U00566,France,Male,46,2026-01-13,Social Media,0
+U00567,Germany,Male,40,2026-01-18,Influencer,0
+U00568,Sweden,Male,25,2026-01-16,Referral,0
+U00569,Poland,Male,27,2026-01-28,Social Media,0
+U00570,Sweden,Male,18,2026-02-09,Social Media,0
+U00571,France,Female,26,2026-02-23,Organic Search,0
+U00572,Netherlands,Female,25,2026-01-21,Organic Search,0
+U00573,UK,Female,29,2026-01-05,Social Media,0
+U00574,Germany,Female,20,2026-01-07,Paid Ads,0
+U00575,Netherlands,Male,36,2026-01-10,Organic Search,0
+U00576,Sweden,Female,24,2026-01-04,Influencer,0
+U00577,Germany,Female,22,2026-01-01,Referral,0
+U00578,Netherlands,Female,21,2026-01-04,Social Media,0
+U00579,Germany,Female,21,2026-01-06,Referral,0
+U00580,France,Female,23,2026-01-04,Social Media,0
+U00581,Netherlands,Other,24,2026-02-05,Organic Search,1
+U00582,Germany,Male,37,2026-01-15,Influencer,0
+U00583,France,Female,16,2026-02-06,Organic Search,1
+U00584,France,Male,40,2026-01-02,App Store,1
+U00585,Netherlands,Male,25,2026-02-02,Social Media,0
+U00586,Germany,Female,20,2026-01-06,Influencer,0
+U00587,Poland,Male,28,2026-01-30,Organic Search,0
+U00588,Germany,Female,37,2026-01-23,Paid Ads,0
+U00589,Netherlands,Female,34,2026-02-23,Referral,0
+U00590,UK,Male,24,2026-02-23,Organic Search,0
+U00591,Spain,Female,23,2026-01-12,Social Media,0
+U00592,Sweden,Female,26,2026-01-05,Social Media,0
+U00593,Germany,Male,30,2026-01-04,Paid Ads,0
+U00594,France,Male,19,2026-01-13,Influencer,0
+U00595,Italy,Female,21,2026-01-11,Referral,0
+U00596,Poland,Male,40,2026-01-24,Social Media,0
+U00597,Germany,Male,36,2026-01-03,App Store,0
+U00598,UK,Female,26,2026-01-08,Influencer,0
+U00599,Germany,Male,34,2026-01-09,App Store,0
+U00600,Belgium,Female,28,2026-01-17,Influencer,0
+U00601,UK,Male,27,2026-01-18,Social Media,1
+U00602,Austria,Male,28,2026-01-02,Influencer,0
+U00603,Germany,Female,21,2026-01-04,Influencer,0
+U00604,Belgium,Female,28,2026-02-23,Social Media,0
+U00605,France,Male,25,2026-01-06,Influencer,0
+U00606,Netherlands,Male,41,2026-02-04,Referral,0
+U00607,UK,Male,23,2026-01-05,Organic Search,0
+U00608,France,Female,35,2026-01-06,Social Media,0
+U00609,Sweden,Male,16,2026-02-23,Organic Search,0
+U00610,Spain,Female,25,2026-01-01,Social Media,0
+U00611,Germany,Female,28,2026-01-26,Organic Search,0
+U00612,Germany,Female,31,2026-02-23,Influencer,1
+U00613,UK,Female,36,2026-02-03,Influencer,0
+U00614,UK,Male,25,2026-01-09,Social Media,0
+U00615,Spain,Male,19,2026-01-04,Referral,1
+U00616,France,Male,25,2026-02-12,Influencer,0
+U00617,France,Female,29,2026-01-20,Social Media,0
+U00618,France,Female,32,2026-01-12,App Store,0
+U00619,Germany,Female,36,2026-01-12,Social Media,0
+U00620,UK,Female,28,2026-01-14,Social Media,0
+U00621,Netherlands,Male,27,2026-01-27,Social Media,0
+U00622,Italy,Female,30,2026-01-11,App Store,0
+U00623,Austria,Male,39,2026-01-24,Organic Search,0
+U00624,Germany,Female,35,2026-01-06,Social Media,0
+U00625,France,Male,25,2026-01-29,Referral,1
+U00626,UK,Male,19,2026-01-01,Influencer,0
+U00627,Germany,Male,31,2026-02-22,Social Media,1
+U00628,Germany,Female,25,2026-01-10,Organic Search,0
+U00629,Germany,Female,27,2026-01-18,Social Media,0
+U00630,France,Male,27,2026-01-25,Social Media,0
+U00631,UK,Female,27,2026-02-05,App Store,0
+U00632,UK,Female,23,2026-02-23,Organic Search,0
+U00633,UK,Female,16,2026-01-09,Social Media,0
+U00634,Germany,Female,25,2026-02-02,App Store,0
+U00635,Germany,Male,19,2026-01-23,Organic Search,1
+U00636,UK,Female,16,2026-01-05,Influencer,0
+U00637,Poland,Female,20,2026-01-11,Organic Search,0
+U00638,Sweden,Female,22,2026-02-04,Social Media,0
+U00639,Spain,Male,19,2026-01-02,Paid Ads,0
+U00640,Austria,Other,34,2026-02-01,Influencer,0
+U00641,Sweden,Male,43,2026-01-11,Social Media,0
+U00642,Netherlands,Female,23,2026-01-05,Paid Ads,0
+U00643,Sweden,Female,21,2026-01-29,Social Media,0
+U00644,Germany,Male,23,2026-02-23,Influencer,0
+U00645,UK,Female,39,2026-01-23,Influencer,0
+U00646,UK,Female,38,2026-01-06,Influencer,0
+U00647,Netherlands,Female,29,2026-02-07,Organic Search,0
+U00648,UK,Male,21,2026-02-22,Social Media,0
+U00649,Germany,Male,20,2026-01-16,Organic Search,0
+U00650,Spain,Female,41,2026-01-02,Referral,0
+U00651,Netherlands,Female,16,2026-02-19,Social Media,0
+U00652,Spain,Male,35,2026-01-15,Influencer,0
+U00653,Italy,Female,30,2026-01-08,Organic Search,0
+U00654,Germany,Female,29,2026-01-21,Influencer,1
+U00655,Spain,Male,32,2026-01-09,Organic Search,1
+U00656,Sweden,Female,41,2026-01-21,Organic Search,0
+U00657,Spain,Female,21,2026-01-06,Organic Search,0
+U00658,Sweden,Female,37,2026-01-17,Social Media,1
+U00659,France,Male,17,2026-01-06,Organic Search,0
+U00660,Germany,Male,38,2026-02-23,Social Media,0
+U00661,Sweden,Other,36,2026-01-08,Social Media,0
+U00662,Spain,Female,30,2026-01-08,Organic Search,0
+U00663,Germany,Female,35,2026-01-29,Referral,0
+U00664,Spain,Female,35,2026-01-05,Organic Search,0
+U00665,France,Female,25,2026-01-03,Paid Ads,0
+U00666,France,Female,30,2026-01-16,Organic Search,1
+U00667,Germany,Female,17,2026-01-21,Referral,1
+U00668,France,Female,29,2026-01-06,Social Media,0
+U00669,Poland,Female,39,2026-01-10,Influencer,0
+U00670,Germany,Female,32,2026-01-17,Social Media,0
+U00671,Germany,Male,20,2026-01-23,Social Media,0
+U00672,France,Male,36,2026-02-23,Social Media,0
+U00673,Netherlands,Female,23,2026-01-09,Social Media,0
+U00674,Spain,Other,26,2026-01-13,Social Media,0
+U00675,Germany,Female,16,2026-01-22,Social Media,0
+U00676,Germany,Female,18,2026-02-23,Influencer,0
+U00677,Germany,Male,38,2026-01-11,Social Media,0
+U00678,UK,Male,40,2026-01-27,Organic Search,1
+U00679,Netherlands,Female,29,2026-01-09,App Store,0
+U00680,Germany,Female,35,2026-02-17,Social Media,0
+U00681,Germany,Male,41,2026-01-02,Paid Ads,0
+U00682,Netherlands,Female,18,2026-01-02,Social Media,0
+U00683,Sweden,Female,29,2026-01-03,Referral,0
+U00684,Germany,Female,27,2026-01-01,Social Media,0
+U00685,Netherlands,Female,26,2026-02-03,Paid Ads,1
+U00686,Austria,Male,42,2026-02-03,Social Media,0
+U00687,France,Female,24,2026-01-19,Referral,0
+U00688,Germany,Male,26,2026-01-01,Referral,0
+U00689,Netherlands,Male,29,2026-02-04,Influencer,0
+U00690,Netherlands,Male,37,2026-02-23,Social Media,0
+U00691,UK,Female,18,2026-01-02,Influencer,0
+U00692,France,Male,30,2026-01-22,Organic Search,0
+U00693,Germany,Male,24,2026-01-02,Social Media,0
+U00694,France,Male,19,2026-02-06,Organic Search,0
+U00695,Germany,Male,39,2026-02-12,Influencer,0
+U00696,Germany,Male,41,2026-01-01,Organic Search,0
+U00697,Netherlands,Male,24,2026-01-04,Organic Search,0
+U00698,France,Male,26,2026-01-09,Paid Ads,0
+U00699,Belgium,Male,34,2026-01-02,Organic Search,0
+U00700,Netherlands,Male,16,2026-01-14,Social Media,1
+U00701,UK,Male,38,2026-01-08,Social Media,0
+U00702,Germany,Male,32,2026-02-01,Influencer,0
+U00703,France,Female,26,2026-01-09,App Store,0
+U00704,UK,Female,25,2026-02-05,Organic Search,0
+U00705,France,Other,31,2026-01-09,App Store,0
+U00706,Netherlands,Female,24,2026-02-02,Referral,1
+U00707,Spain,Male,36,2026-01-11,Social Media,0
+U00708,Germany,Female,16,2026-01-11,Organic Search,0
+U00709,Belgium,Female,23,2026-01-23,Social Media,0
+U00710,UK,Female,19,2026-01-18,Organic Search,0
+U00711,Netherlands,Female,32,2026-01-01,Social Media,0
+U00712,Netherlands,Male,22,2026-01-24,Influencer,0
+U00713,Spain,Female,20,2026-01-07,Social Media,0
+U00714,France,Male,27,2026-01-01,Social Media,0
+U00715,Spain,Male,32,2026-01-04,Social Media,1
+U00716,Netherlands,Female,28,2026-01-11,Social Media,0
+U00717,Germany,Male,29,2026-02-14,Influencer,0
+U00718,France,Female,35,2026-02-18,Influencer,1
+U00719,UK,Male,22,2026-01-17,Influencer,0
+U00720,Netherlands,Male,20,2026-01-02,Organic Search,0
+U00721,Germany,Male,36,2026-01-01,Influencer,0
+U00722,Italy,Female,25,2026-01-01,Organic Search,0
+U00723,France,Female,36,2026-02-23,Paid Ads,0
+U00724,UK,Female,36,2026-01-02,Organic Search,0
+U00725,UK,Male,42,2026-01-06,App Store,0
+U00726,UK,Male,28,2026-01-05,Paid Ads,0
+U00727,Belgium,Male,32,2026-01-24,Paid Ads,0
+U00728,Germany,Female,33,2026-01-27,Influencer,0
+U00729,France,Male,41,2026-01-28,Organic Search,0
+U00730,UK,Male,21,2026-01-31,Referral,0
+U00731,Italy,Female,25,2026-02-23,Social Media,0
+U00732,Germany,Female,30,2026-01-03,Organic Search,0
+U00733,Italy,Female,33,2026-02-08,App Store,0
+U00734,Spain,Female,24,2026-01-23,Social Media,0
+U00735,Netherlands,Female,25,2026-02-02,Referral,0
+U00736,Belgium,Male,22,2026-01-22,App Store,0
+U00737,Belgium,Male,35,2026-01-23,Social Media,0
+U00738,Germany,Male,34,2026-01-26,Social Media,0
+U00739,UK,Male,29,2026-01-05,App Store,0
+U00740,Netherlands,Male,36,2026-02-05,Referral,0
+U00741,Germany,Female,36,2026-01-10,Referral,0
+U00742,Germany,Male,35,2026-02-13,Organic Search,0
+U00743,Spain,Female,21,2026-02-23,Social Media,0
+U00744,UK,Male,22,2026-01-01,Social Media,0
+U00745,UK,Male,29,2026-01-12,Referral,0
+U00746,France,Male,16,2026-02-23,Organic Search,1
+U00747,Spain,Female,16,2026-01-31,Organic Search,0
+U00748,Netherlands,Male,16,2026-01-13,Social Media,0
+U00749,France,Male,33,2026-01-09,Organic Search,0
+U00750,France,Male,27,2026-01-01,Referral,0
+U00751,Italy,Male,30,2026-01-12,Organic Search,0
+U00752,UK,Male,29,2026-01-20,App Store,1
+U00753,Germany,Other,36,2026-01-09,Social Media,0
+U00754,France,Female,24,2026-02-10,Organic Search,0
+U00755,France,Other,30,2026-01-29,Organic Search,0
+U00756,Austria,Female,27,2026-01-03,App Store,0
+U00757,Germany,Male,32,2026-01-09,Referral,1
+U00758,UK,Male,24,2026-01-06,Organic Search,0
+U00759,Netherlands,Male,16,2026-02-11,Referral,0
+U00760,UK,Male,19,2026-02-23,Organic Search,0
+U00761,UK,Male,31,2026-01-03,Influencer,1
+U00762,Germany,Female,24,2026-01-05,Referral,0
+U00763,Germany,Female,32,2026-01-04,Referral,1
+U00764,France,Female,25,2026-02-23,Referral,0
+U00765,Poland,Male,21,2026-01-10,Social Media,0
+U00766,Germany,Female,20,2026-01-04,Social Media,0
+U00767,Italy,Female,21,2026-01-16,Organic Search,0
+U00768,France,Male,30,2026-01-07,Paid Ads,0
+U00769,UK,Male,25,2026-02-23,Organic Search,0
+U00770,Germany,Other,19,2026-01-10,App Store,0
+U00771,Netherlands,Male,36,2026-01-02,Social Media,0
+U00772,Netherlands,Male,31,2026-01-04,Influencer,0
+U00773,UK,Male,23,2026-01-08,Influencer,0
+U00774,Spain,Male,23,2026-02-04,Organic Search,0
+U00775,Italy,Male,37,2026-01-01,Influencer,0
+U00776,Germany,Female,20,2026-01-06,Social Media,1
+U00777,Germany,Male,27,2026-01-03,Social Media,0
+U00778,Germany,Female,26,2026-01-05,App Store,0
+U00779,Poland,Female,18,2026-01-04,Referral,0
+U00780,UK,Female,29,2026-01-09,Paid Ads,0
+U00781,Netherlands,Female,17,2026-01-28,Referral,0
+U00782,UK,Female,26,2026-01-12,Social Media,0
+U00783,Poland,Female,32,2026-01-09,Social Media,0
+U00784,UK,Female,32,2026-02-23,Influencer,0
+U00785,Italy,Female,24,2026-01-11,Influencer,0
+U00786,Italy,Male,27,2026-01-21,Organic Search,0
+U00787,France,Male,35,2026-01-14,Organic Search,0
+U00788,Spain,Female,22,2026-01-12,Social Media,0
+U00789,France,Female,25,2026-01-03,Organic Search,1
+U00790,Germany,Other,16,2026-01-06,Influencer,0
+U00791,Netherlands,Male,32,2026-01-27,App Store,0
+U00792,Netherlands,Male,38,2026-01-21,Organic Search,0
+U00793,Germany,Male,30,2026-01-11,Social Media,0
+U00794,UK,Female,36,2026-01-02,App Store,0
+U00795,Germany,Male,31,2026-01-16,Influencer,1
+U00796,Germany,Male,22,2026-01-08,Influencer,0
+U00797,Spain,Male,28,2026-01-06,Organic Search,0
+U00798,Germany,Male,33,2026-01-16,Influencer,0
+U00799,Germany,Male,30,2026-01-27,Paid Ads,0
+U00800,Netherlands,Male,28,2026-01-22,Influencer,0
+U00801,France,Female,29,2026-01-05,App Store,0
+U00802,Germany,Male,16,2026-01-22,Social Media,0
+U00803,Netherlands,Male,16,2026-01-27,Organic Search,0
+U00804,UK,Female,28,2026-01-01,Influencer,0
+U00805,France,Male,28,2026-01-20,Organic Search,0
+U00806,France,Male,31,2026-01-03,Referral,0
+U00807,Germany,Female,21,2026-01-01,Organic Search,0
+U00808,Germany,Male,29,2026-01-12,Referral,0
+U00809,France,Male,43,2026-01-17,Social Media,0
+U00810,Germany,Male,18,2026-01-03,App Store,0
+U00811,Austria,Female,39,2026-01-07,Influencer,0
+U00812,France,Female,33,2026-01-07,Social Media,0
+U00813,Germany,Female,29,2026-01-16,Organic Search,0
+U00814,Sweden,Female,33,2026-01-15,Organic Search,1
+U00815,Belgium,Male,22,2026-01-23,Paid Ads,0
+U00816,Germany,Female,29,2026-01-30,Social Media,0
+U00817,Netherlands,Female,21,2026-01-08,Organic Search,0
+U00818,Italy,Female,30,2026-01-08,Organic Search,0
+U00819,France,Male,24,2026-01-08,Social Media,0
+U00820,Austria,Male,28,2026-01-03,Organic Search,0
+U00821,France,Female,37,2026-02-13,Organic Search,0
+U00822,Poland,Male,26,2026-02-05,Organic Search,0
+U00823,Italy,Female,20,2026-02-23,Social Media,0
+U00824,Spain,Female,37,2026-02-23,Organic Search,0
+U00825,Spain,Male,17,2026-01-08,Paid Ads,0
+U00826,Spain,Other,22,2026-01-10,App Store,0
+U00827,Sweden,Male,36,2026-01-11,Influencer,0
+U00828,Italy,Male,22,2026-01-02,Social Media,0
+U00829,Germany,Male,23,2026-01-18,Referral,0
+U00830,Netherlands,Female,27,2026-01-11,App Store,0
+U00831,France,Male,35,2026-01-01,Social Media,0
+U00832,France,Female,36,2026-02-18,App Store,0
+U00833,Italy,Female,17,2026-01-10,Paid Ads,0
+U00834,Germany,Female,16,2026-01-14,Organic Search,0
+U00835,France,Female,31,2026-01-17,Organic Search,0
+U00836,France,Male,24,2026-01-13,Referral,0
+U00837,Germany,Male,34,2026-01-13,Organic Search,0
+U00838,UK,Female,23,2026-01-09,Paid Ads,0
+U00839,Germany,Female,40,2026-02-23,Organic Search,1
+U00840,Spain,Male,25,2026-01-05,Organic Search,1
+U00841,Italy,Male,44,2026-01-12,Organic Search,0
+U00842,Germany,Female,22,2026-02-14,Social Media,0
+U00843,France,Male,35,2026-02-22,Paid Ads,0
+U00844,France,Male,17,2026-02-23,Organic Search,0
+U00845,UK,Male,28,2026-01-02,Organic Search,0
+U00846,France,Male,23,2026-01-08,Organic Search,0
+U00847,Belgium,Female,33,2026-02-18,Organic Search,0
+U00848,Belgium,Male,16,2026-01-04,Paid Ads,0
+U00849,Germany,Male,40,2026-01-27,Paid Ads,0
+U00850,France,Female,24,2026-01-11,Organic Search,0
+U00851,Sweden,Female,18,2026-01-16,Influencer,0
+U00852,Austria,Female,31,2026-01-10,App Store,0
+U00853,UK,Male,38,2026-01-14,App Store,0
+U00854,UK,Female,25,2026-01-06,Organic Search,0
+U00855,UK,Male,29,2026-01-12,Paid Ads,0
+U00856,Sweden,Male,43,2026-01-17,Referral,0
+U00857,Spain,Male,27,2026-01-11,Referral,0
+U00858,Belgium,Female,21,2026-01-06,Social Media,0
+U00859,Belgium,Male,30,2026-01-24,Social Media,0
+U00860,Germany,Male,16,2026-01-10,Social Media,0
+U00861,France,Male,23,2026-02-23,Social Media,0
+U00862,Netherlands,Other,21,2026-01-06,Influencer,0
+U00863,Netherlands,Male,24,2026-01-19,App Store,0
+U00864,Sweden,Male,29,2026-02-07,Social Media,0
+U00865,Germany,Female,36,2026-01-16,Organic Search,0
+U00866,UK,Male,17,2026-01-11,App Store,0
+U00867,UK,Male,23,2026-01-02,Social Media,0
+U00868,France,Female,33,2026-02-09,Referral,0
+U00869,Spain,Male,29,2026-01-01,Social Media,0
+U00870,Spain,Female,25,2026-01-08,App Store,0
+U00871,France,Female,32,2026-01-19,Referral,0
+U00872,Italy,Female,19,2026-01-07,Social Media,0
+U00873,Netherlands,Female,41,2026-01-15,Organic Search,0
+U00874,France,Male,35,2026-01-05,Social Media,0
+U00875,UK,Male,30,2026-01-03,App Store,0
+U00876,Italy,Male,33,2026-01-21,Referral,0
+U00877,Netherlands,Male,24,2026-01-21,Organic Search,0
+U00878,UK,Female,28,2026-01-03,Influencer,0
+U00879,Germany,Male,16,2026-01-03,Influencer,0
+U00880,Sweden,Female,42,2026-01-02,Organic Search,1
+U00881,UK,Male,23,2026-02-23,Influencer,0
+U00882,Spain,Male,17,2026-01-27,Social Media,0
+U00883,UK,Other,21,2026-02-23,Organic Search,0
+U00884,Spain,Female,21,2026-02-23,Paid Ads,1
+U00885,Sweden,Female,21,2026-01-22,Paid Ads,0
+U00886,France,Male,30,2026-01-09,Referral,0
+U00887,France,Male,20,2026-02-22,Influencer,0
+U00888,France,Male,16,2026-02-23,Social Media,0
+U00889,UK,Female,36,2026-01-07,Social Media,0
+U00890,Spain,Male,34,2026-01-19,Referral,0
+U00891,France,Male,29,2026-02-04,Organic Search,0
+U00892,Sweden,Female,24,2026-01-06,Influencer,1
+U00893,Germany,Female,31,2026-01-01,Referral,0
+U00894,UK,Female,32,2026-01-02,App Store,0
+U00895,Germany,Male,36,2026-01-01,Organic Search,0
+U00896,Italy,Male,30,2026-01-09,Influencer,0
+U00897,Germany,Female,36,2026-01-28,Influencer,0
+U00898,UK,Male,40,2026-01-03,Influencer,0
+U00899,Belgium,Female,30,2026-01-20,App Store,0
+U00900,Sweden,Male,36,2026-01-28,Referral,0
+U00901,Netherlands,Male,19,2026-01-25,Organic Search,0
+U00902,France,Female,30,2026-01-05,Organic Search,0
+U00903,France,Female,30,2026-01-06,Organic Search,0
+U00904,Netherlands,Female,21,2026-01-08,Social Media,0
+U00905,Austria,Male,21,2026-01-17,Social Media,0
+U00906,UK,Female,18,2026-01-03,Influencer,0
+U00907,Germany,Female,32,2026-01-23,Social Media,0
+U00908,UK,Male,27,2026-01-04,Organic Search,0
+U00909,Italy,Male,30,2026-01-05,Organic Search,0
+U00910,Poland,Female,21,2026-01-09,Influencer,0
+U00911,Spain,Female,18,2026-01-01,Social Media,0
+U00912,Netherlands,Female,33,2026-02-23,Organic Search,0
+U00913,Spain,Other,33,2026-01-03,App Store,0
+U00914,UK,Female,23,2026-01-12,Social Media,0
+U00915,Italy,Female,30,2026-01-06,Organic Search,0
+U00916,Poland,Female,32,2026-01-26,Social Media,0
+U00917,Germany,Male,20,2026-02-04,Organic Search,0
+U00918,France,Female,30,2026-01-03,Organic Search,0
+U00919,UK,Female,33,2026-02-23,Referral,0
+U00920,Italy,Male,19,2026-02-23,Paid Ads,0
+U00921,UK,Male,33,2026-01-10,Organic Search,0
+U00922,Austria,Female,23,2026-01-11,Organic Search,0
+U00923,Sweden,Male,29,2026-02-22,Social Media,0
+U00924,France,Female,21,2026-01-27,Organic Search,0
+U00925,Netherlands,Male,31,2026-02-23,Social Media,0
+U00926,France,Female,16,2026-01-19,Referral,0
+U00927,Netherlands,Female,20,2026-01-02,Organic Search,0
+U00928,UK,Male,26,2026-01-27,Social Media,0
+U00929,Germany,Female,38,2026-01-04,Organic Search,1
+U00930,Netherlands,Male,24,2026-01-15,Organic Search,0
+U00931,Spain,Male,21,2026-02-03,Influencer,0
+U00932,UK,Female,33,2026-02-05,Social Media,0
+U00933,Sweden,Female,23,2026-01-05,Influencer,0
+U00934,Austria,Female,16,2026-01-14,Influencer,0
+U00935,Italy,Male,32,2026-01-14,Organic Search,0
+U00936,UK,Female,39,2026-01-09,Paid Ads,0
+U00937,Netherlands,Female,25,2026-01-03,Influencer,0
+U00938,Italy,Male,21,2026-01-04,Social Media,0
+U00939,Spain,Male,22,2026-02-23,Influencer,0
+U00940,Netherlands,Male,28,2026-02-23,Organic Search,0
+U00941,UK,Female,32,2026-01-20,Referral,1
+U00942,UK,Male,35,2026-02-23,Social Media,0
+U00943,Spain,Male,22,2026-01-11,Organic Search,1
+U00944,Sweden,Female,21,2026-01-09,Social Media,1
+U00945,Spain,Female,26,2026-02-01,Influencer,1
+U00946,Netherlands,Male,26,2026-01-10,App Store,0
+U00947,France,Female,37,2026-01-14,Referral,0
+U00948,Germany,Female,24,2026-02-04,App Store,0
+U00949,Italy,Female,28,2026-01-02,Organic Search,0
+U00950,Netherlands,Female,27,2026-01-01,Paid Ads,1
+U00951,Germany,Male,33,2026-01-22,Referral,1
+U00952,France,Male,28,2026-01-14,Organic Search,0
+U00953,France,Female,19,2026-01-21,Organic Search,0
+U00954,Netherlands,Male,27,2026-02-23,Social Media,1
+U00955,Netherlands,Male,31,2026-02-23,Social Media,0
+U00956,Italy,Male,31,2026-01-16,Social Media,1
+U00957,France,Female,26,2026-02-11,Organic Search,0
+U00958,Germany,Female,25,2026-01-09,App Store,0
+U00959,Netherlands,Male,32,2026-01-03,Referral,0
+U00960,Germany,Male,30,2026-01-04,App Store,0
+U00961,Germany,Female,32,2026-01-16,Social Media,0
+U00962,France,Male,28,2026-01-14,Referral,0
+U00963,France,Male,47,2026-01-06,App Store,0
+U00964,UK,Male,25,2026-01-06,Paid Ads,0
+U00965,Germany,Male,31,2026-01-17,Social Media,0
+U00966,Belgium,Male,16,2026-01-06,Organic Search,0
+U00967,Italy,Male,37,2026-01-09,Influencer,0
+U00968,Italy,Male,25,2026-02-08,Organic Search,0
+U00969,UK,Female,32,2026-01-03,Organic Search,0
+U00970,Germany,Male,26,2026-02-23,Paid Ads,0
+U00971,Poland,Female,34,2026-01-22,Paid Ads,0
+U00972,Spain,Male,20,2026-01-03,Organic Search,0
+U00973,Italy,Female,16,2026-01-04,Social Media,0
+U00974,Italy,Female,28,2026-01-02,Organic Search,1
+U00975,France,Female,36,2026-01-13,Social Media,1
+U00976,Sweden,Female,31,2026-01-04,Social Media,0
+U00977,Netherlands,Female,36,2026-01-02,Organic Search,0
+U00978,Germany,Female,44,2026-01-26,Organic Search,0
+U00979,Germany,Male,23,2026-01-06,Social Media,0
+U00980,Austria,Male,18,2026-01-04,Organic Search,0
+U00981,Germany,Female,49,2026-01-17,Organic Search,0
+U00982,UK,Female,37,2026-01-05,Organic Search,0
+U00983,Germany,Female,23,2026-01-03,Organic Search,0
+U00984,Netherlands,Female,34,2026-02-23,Influencer,1
+U00985,UK,Female,22,2026-02-20,Influencer,1
+U00986,Belgium,Male,39,2026-01-09,Social Media,1
+U00987,France,Male,16,2026-01-30,App Store,0
+U00988,UK,Male,20,2026-01-04,App Store,0
+U00989,Germany,Male,29,2026-01-03,Paid Ads,0
+U00990,UK,Female,22,2026-02-18,Influencer,1
+U00991,UK,Female,37,2026-02-10,Referral,0
+U00992,Germany,Female,37,2026-01-27,App Store,0
+U00993,Germany,Female,24,2026-01-13,Organic Search,0
+U00994,Germany,Male,29,2026-01-16,Influencer,0
+U00995,Sweden,Male,28,2026-02-23,Organic Search,0
+U00996,Netherlands,Male,36,2026-02-22,Organic Search,0
+U00997,Netherlands,Female,22,2026-02-07,Organic Search,0
+U00998,Netherlands,Female,18,2026-01-26,Organic Search,0
+U00999,Sweden,Male,27,2026-01-04,Social Media,0
+U01000,UK,Female,31,2026-02-12,Social Media,1
+U01001,Spain,Male,25,2026-01-14,App Store,0
+U01002,France,Male,38,2026-01-10,Social Media,0
+U01003,UK,Female,19,2026-01-07,Paid Ads,0
+U01004,Netherlands,Female,34,2026-01-01,Influencer,0
+U01005,France,Male,27,2026-01-13,Organic Search,1
+U01006,Spain,Female,31,2026-01-15,Organic Search,0
+U01007,Germany,Male,16,2026-01-06,Influencer,0
+U01008,Sweden,Male,25,2026-01-02,Social Media,0
+U01009,Netherlands,Female,28,2026-01-01,Influencer,0
+U01010,Belgium,Female,26,2026-01-13,Paid Ads,0
+U01011,Germany,Male,26,2026-01-13,Influencer,0
+U01012,Germany,Female,16,2026-02-05,Influencer,0
+U01013,Belgium,Female,33,2026-02-23,Referral,0
+U01014,France,Male,31,2026-01-06,Social Media,0
+U01015,Netherlands,Female,31,2026-01-02,Social Media,0
+U01016,Spain,Other,16,2026-01-07,Social Media,0
+U01017,France,Female,33,2026-01-05,Referral,1
+U01018,Poland,Male,30,2026-01-08,Social Media,0
+U01019,Germany,Male,25,2026-01-05,Social Media,0
+U01020,Poland,Female,35,2026-01-15,Paid Ads,0
+U01021,Germany,Male,19,2026-02-23,App Store,0
+U01022,Netherlands,Female,26,2026-02-23,Referral,0
+U01023,Italy,Female,21,2026-01-03,Social Media,0
+U01024,Germany,Female,28,2026-01-01,Influencer,0
+U01025,Belgium,Female,28,2026-02-06,Paid Ads,0
+U01026,UK,Female,23,2026-01-05,Influencer,0
+U01027,Germany,Male,34,2026-02-23,Social Media,0
+U01028,Germany,Female,20,2026-01-02,Paid Ads,0
+U01029,Spain,Female,29,2026-01-26,Paid Ads,0
+U01030,Germany,Female,28,2026-01-03,Influencer,0
+U01031,Netherlands,Male,27,2026-02-23,Social Media,0
+U01032,Spain,Female,18,2026-01-08,Social Media,0
+U01033,Belgium,Male,26,2026-01-06,App Store,0
+U01034,Germany,Male,27,2026-01-01,Organic Search,0
+U01035,Italy,Female,31,2026-01-02,App Store,0
+U01036,Italy,Female,33,2026-01-06,Referral,0
+U01037,Austria,Male,23,2026-02-01,Organic Search,1
+U01038,Austria,Male,23,2026-02-06,Social Media,0
+U01039,Netherlands,Female,27,2026-01-23,Referral,0
+U01040,Netherlands,Male,26,2026-02-02,Paid Ads,0
+U01041,France,Male,28,2026-01-04,Social Media,0
+U01042,France,Female,48,2026-01-01,App Store,0
+U01043,UK,Male,22,2026-01-05,Influencer,1
+U01044,UK,Female,20,2026-01-17,Social Media,0
+U01045,Netherlands,Male,29,2026-02-20,Social Media,0
+U01046,Netherlands,Female,24,2026-02-23,App Store,1
+U01047,Spain,Male,23,2026-01-05,App Store,0
+U01048,UK,Male,27,2026-02-08,App Store,0
+U01049,Germany,Male,29,2026-01-16,Influencer,0
+U01050,Italy,Female,33,2026-01-03,Organic Search,0
+U01051,Belgium,Male,30,2026-01-06,Organic Search,1
+U01052,Spain,Male,31,2026-01-10,Social Media,0
+U01053,Germany,Male,48,2026-02-04,Organic Search,0
+U01054,Spain,Female,20,2026-01-25,Social Media,0
+U01055,Spain,Female,18,2026-02-17,Influencer,1
+U01056,France,Female,36,2026-02-01,Social Media,0
+U01057,UK,Male,33,2026-01-02,Referral,0
+U01058,Germany,Male,30,2026-01-11,Social Media,0
+U01059,Germany,Male,16,2026-01-09,App Store,0
+U01060,Italy,Male,42,2026-01-28,Organic Search,0
+U01061,UK,Female,18,2026-01-17,Social Media,0
+U01062,UK,Female,33,2026-01-08,Influencer,1
+U01063,UK,Male,22,2026-02-01,Organic Search,0
+U01064,Italy,Female,28,2026-01-28,Influencer,0
+U01065,Italy,Male,39,2026-01-10,Social Media,0
+U01066,Italy,Female,31,2026-01-16,Influencer,0
+U01067,Germany,Male,34,2026-02-08,Social Media,1
+U01068,France,Male,31,2026-01-07,App Store,1
+U01069,Sweden,Male,22,2026-01-09,Organic Search,0
+U01070,Italy,Male,29,2026-01-06,Paid Ads,0
+U01071,Germany,Female,35,2026-01-13,Paid Ads,0
+U01072,Germany,Other,29,2026-01-11,Social Media,0
+U01073,UK,Male,29,2026-02-23,Social Media,0
+U01074,Germany,Male,36,2026-01-07,App Store,0
+U01075,Austria,Male,25,2026-01-03,Referral,0
+U01076,Germany,Male,33,2026-01-07,App Store,0
+U01077,Austria,Male,26,2026-01-14,Social Media,0
+U01078,Sweden,Female,16,2026-02-02,Referral,0
+U01079,Sweden,Male,16,2026-01-13,Social Media,0
+U01080,UK,Male,21,2026-01-15,Organic Search,1
+U01081,Germany,Male,37,2026-01-27,Social Media,0
+U01082,UK,Female,25,2026-01-02,Organic Search,0
+U01083,France,Male,31,2026-01-14,Social Media,0
+U01084,Belgium,Male,33,2026-02-03,Organic Search,0
+U01085,Spain,Male,33,2026-02-16,Organic Search,0
+U01086,Netherlands,Male,28,2026-02-23,Referral,0
+U01087,Germany,Male,18,2026-01-19,Organic Search,0
+U01088,Belgium,Female,16,2026-01-31,Organic Search,0
+U01089,Netherlands,Male,29,2026-01-02,Referral,0
+U01090,Germany,Female,33,2026-01-08,Social Media,0
+U01091,Netherlands,Female,22,2026-01-20,Social Media,0
+U01092,France,Male,28,2026-01-05,App Store,0
+U01093,Italy,Male,25,2026-02-23,Paid Ads,0
+U01094,UK,Male,16,2026-01-15,Social Media,0
+U01095,Belgium,Male,34,2026-02-02,Organic Search,0
+U01096,France,Male,27,2026-01-05,Organic Search,0
+U01097,UK,Male,32,2026-02-08,Social Media,0
+U01098,Austria,Male,23,2026-01-05,Social Media,0
+U01099,UK,Female,18,2026-02-23,Organic Search,0
+U01100,Netherlands,Female,40,2026-01-01,Social Media,0
+U01101,Spain,Female,23,2026-01-12,Organic Search,0
+U01102,France,Male,26,2026-01-30,Social Media,0
+U01103,Italy,Female,25,2026-01-17,App Store,0
+U01104,UK,Female,28,2026-01-01,App Store,0
+U01105,France,Male,24,2026-01-16,Influencer,0
+U01106,Belgium,Female,35,2026-01-11,Paid Ads,0
+U01107,UK,Male,25,2026-01-22,Social Media,0
+U01108,Netherlands,Male,35,2026-01-11,Social Media,0
+U01109,Italy,Female,29,2026-02-23,Referral,0
+U01110,UK,Male,18,2026-01-13,Organic Search,1
+U01111,Belgium,Male,26,2026-02-22,Influencer,0
+U01112,Poland,Male,27,2026-01-20,Organic Search,0
+U01113,Sweden,Female,19,2026-01-16,Organic Search,0
+U01114,Germany,Male,17,2026-02-02,Social Media,0
+U01115,France,Female,26,2026-01-09,App Store,0
+U01116,Italy,Female,27,2026-02-01,Influencer,0
+U01117,Germany,Other,20,2026-01-22,Social Media,0
+U01118,Netherlands,Male,25,2026-02-06,Social Media,0
+U01119,France,Female,24,2026-01-21,Organic Search,0
+U01120,UK,Female,37,2026-01-01,Organic Search,0
+U01121,Sweden,Female,27,2026-01-14,Organic Search,0
+U01122,UK,Female,33,2026-02-18,Paid Ads,0
+U01123,Spain,Female,29,2026-01-01,Social Media,0
+U01124,Germany,Male,21,2026-01-12,Influencer,1
+U01125,France,Male,41,2026-01-17,App Store,0
+U01126,Italy,Male,35,2026-01-14,Influencer,1
+U01127,Spain,Female,24,2026-01-02,Paid Ads,0
+U01128,Germany,Male,26,2026-01-18,Referral,1
+U01129,UK,Female,28,2026-01-07,Organic Search,1
+U01130,UK,Female,31,2026-01-11,App Store,0
+U01131,France,Male,34,2026-02-02,Organic Search,0
+U01132,Netherlands,Female,28,2026-01-03,Social Media,0
+U01133,France,Female,26,2026-01-08,Paid Ads,0
+U01134,France,Female,25,2026-01-04,Social Media,0
+U01135,Sweden,Female,22,2026-02-23,Organic Search,0
+U01136,UK,Female,30,2026-01-26,App Store,0
+U01137,France,Female,25,2026-02-23,Referral,0
+U01138,Sweden,Female,29,2026-01-13,Social Media,0
+U01139,Spain,Male,38,2026-01-25,Organic Search,0
+U01140,France,Male,34,2026-01-06,Social Media,0
+U01141,UK,Female,27,2026-02-23,App Store,0
+U01142,France,Male,21,2026-01-11,App Store,0
+U01143,UK,Female,16,2026-01-14,Influencer,0
+U01144,France,Female,37,2026-01-04,App Store,0
+U01145,Germany,Female,21,2026-01-15,Organic Search,0
+U01146,Germany,Male,25,2026-01-11,Social Media,0
+U01147,France,Male,28,2026-01-04,Influencer,0
+U01148,Spain,Female,16,2026-02-18,Paid Ads,0
+U01149,Germany,Male,27,2026-01-01,Social Media,1
+U01150,France,Male,32,2026-01-13,Influencer,0
+U01151,Spain,Male,28,2026-01-07,Organic Search,0
+U01152,Sweden,Male,20,2026-02-03,Referral,0
+U01153,UK,Female,31,2026-01-02,Organic Search,0
+U01154,France,Male,16,2026-01-05,Influencer,1
+U01155,Italy,Male,24,2026-01-14,Social Media,0
+U01156,Belgium,Female,19,2026-01-01,Social Media,0
+U01157,UK,Male,32,2026-01-17,Organic Search,0
+U01158,Netherlands,Male,37,2026-01-15,Social Media,0
+U01159,Belgium,Female,25,2026-01-03,Social Media,0
+U01160,Austria,Male,29,2026-01-14,Social Media,0
+U01161,Germany,Male,31,2026-01-01,Referral,0
+U01162,UK,Female,25,2026-01-01,Paid Ads,0
+U01163,UK,Male,28,2026-01-12,Paid Ads,0
+U01164,France,Female,25,2026-01-25,Organic Search,0
+U01165,Germany,Female,30,2026-01-05,Referral,0
+U01166,France,Male,18,2026-01-06,Organic Search,0
+U01167,Spain,Female,27,2026-01-24,Social Media,0
+U01168,UK,Male,32,2026-01-13,App Store,0
+U01169,UK,Male,49,2026-01-04,App Store,0
+U01170,Belgium,Male,26,2026-02-11,App Store,0
+U01171,France,Female,16,2026-01-14,Influencer,1
+U01172,Poland,Female,25,2026-01-21,Organic Search,0
+U01173,Germany,Male,16,2026-01-18,Organic Search,0
+U01174,Germany,Other,32,2026-01-17,Influencer,0
+U01175,Germany,Other,23,2026-01-21,Organic Search,0
+U01176,France,Male,16,2026-01-02,Organic Search,0
+U01177,Spain,Male,29,2026-01-17,Social Media,0
+U01178,Germany,Female,25,2026-02-23,Organic Search,0
+U01179,France,Male,33,2026-01-14,Social Media,0
+U01180,Germany,Male,24,2026-01-26,Organic Search,0
+U01181,UK,Male,16,2026-01-03,Social Media,0
+U01182,Spain,Male,24,2026-01-13,Organic Search,0
+U01183,Germany,Female,23,2026-01-07,Organic Search,0
+U01184,Germany,Male,23,2026-01-21,Social Media,0
+U01185,Netherlands,Male,22,2026-01-16,Social Media,0
+U01186,Netherlands,Female,30,2026-02-23,Influencer,0
+U01187,UK,Male,16,2026-02-19,Social Media,0
+U01188,UK,Female,25,2026-01-22,Influencer,0
+U01189,Italy,Male,28,2026-01-11,Social Media,0
+U01190,Germany,Female,35,2026-01-12,Social Media,0
+U01191,France,Female,39,2026-01-11,Paid Ads,0
+U01192,Italy,Male,21,2026-01-11,Social Media,0
+U01193,Sweden,Male,32,2026-01-16,Referral,0
+U01194,Germany,Female,20,2026-02-23,Social Media,0
+U01195,Netherlands,Female,36,2026-01-07,Organic Search,0
+U01196,Germany,Male,30,2026-01-15,Influencer,0
+U01197,UK,Female,36,2026-01-21,Social Media,1
+U01198,Germany,Male,43,2026-01-14,Referral,0
+U01199,Italy,Male,16,2026-01-05,Organic Search,0
+U01200,Austria,Male,17,2026-01-01,App Store,0
+U01201,Sweden,Female,27,2026-01-22,Social Media,0
+U01202,France,Male,32,2026-01-15,Social Media,0
+U01203,Spain,Female,30,2026-01-14,Referral,0
+U01204,Germany,Female,23,2026-01-01,Social Media,0
+U01205,Germany,Female,39,2026-02-19,App Store,0
+U01206,UK,Male,32,2026-01-03,Social Media,0
+U01207,France,Female,22,2026-01-05,Referral,0
+U01208,Poland,Male,28,2026-02-23,Organic Search,1
+U01209,Austria,Male,21,2026-01-18,Referral,0
+U01210,Spain,Male,31,2026-01-20,Social Media,0
+U01211,UK,Male,26,2026-01-06,Social Media,0
+U01212,Italy,Other,33,2026-01-12,Referral,0
+U01213,Germany,Female,43,2026-02-14,Social Media,0
+U01214,Italy,Female,29,2026-01-19,Social Media,0
+U01215,Spain,Male,35,2026-01-02,Organic Search,0
+U01216,UK,Male,17,2026-01-07,Organic Search,0
+U01217,France,Male,34,2026-01-02,Organic Search,1
+U01218,Italy,Female,16,2026-01-28,App Store,0
+U01219,France,Female,28,2026-01-31,Social Media,0
+U01220,UK,Female,25,2026-01-24,Referral,0
+U01221,Italy,Female,28,2026-01-15,Influencer,0
+U01222,Belgium,Male,35,2026-01-02,Paid Ads,0
+U01223,Netherlands,Female,29,2026-01-28,Social Media,0
+U01224,Sweden,Male,26,2026-02-12,Social Media,0
+U01225,Belgium,Female,39,2026-01-09,Social Media,0
+U01226,Italy,Female,22,2026-01-09,Organic Search,1
+U01227,Netherlands,Female,36,2026-01-01,Social Media,0
+U01228,France,Male,28,2026-02-23,Organic Search,0
+U01229,France,Other,33,2026-01-01,App Store,0
+U01230,Germany,Male,28,2026-01-12,Paid Ads,0
+U01231,France,Male,29,2026-02-19,Organic Search,0
+U01232,Germany,Female,22,2026-01-04,App Store,0
+U01233,France,Female,31,2026-01-08,Influencer,1
+U01234,Spain,Male,22,2026-01-12,Organic Search,0
+U01235,UK,Female,27,2026-01-20,Organic Search,0
+U01236,Spain,Female,29,2026-01-20,Social Media,0
+U01237,Germany,Female,41,2026-01-06,Social Media,0
+U01238,Germany,Male,28,2026-02-02,Referral,0
+U01239,France,Male,27,2026-01-09,Paid Ads,1
+U01240,Netherlands,Female,32,2026-01-05,Social Media,0
+U01241,Spain,Male,22,2026-01-01,Organic Search,0
+U01242,UK,Male,21,2026-01-03,App Store,0
+U01243,UK,Male,26,2026-01-06,Social Media,0
+U01244,Belgium,Female,21,2026-01-17,Social Media,0
+U01245,France,Female,35,2026-02-23,Social Media,0
+U01246,Germany,Male,26,2026-01-11,Organic Search,0
+U01247,Germany,Male,39,2026-01-10,Referral,0
+U01248,France,Male,34,2026-01-13,Referral,0
+U01249,Sweden,Female,35,2026-02-01,Social Media,0
+U01250,France,Male,20,2026-01-06,Organic Search,0
+U01251,Germany,Male,24,2026-01-09,Organic Search,0
+U01252,Germany,Female,20,2026-02-14,Social Media,0
+U01253,Spain,Male,25,2026-01-02,Social Media,0
+U01254,Poland,Male,28,2026-02-04,Organic Search,0
+U01255,UK,Male,28,2026-02-02,Social Media,0
+U01256,Sweden,Female,19,2026-01-14,Social Media,0
+U01257,Netherlands,Male,33,2026-01-01,Paid Ads,0
+U01258,Italy,Male,23,2026-01-14,Referral,0
+U01259,France,Male,22,2026-01-03,Social Media,0
+U01260,Spain,Male,30,2026-01-02,Paid Ads,0
+U01261,Sweden,Female,23,2026-02-04,App Store,0
+U01262,UK,Male,31,2026-01-03,Social Media,0
+U01263,UK,Male,37,2026-02-16,Organic Search,0
+U01264,Germany,Female,18,2026-01-27,Paid Ads,0
+U01265,Belgium,Male,23,2026-02-14,Social Media,0
+U01266,Sweden,Male,28,2026-01-01,Referral,0
+U01267,Germany,Male,25,2026-01-07,Organic Search,0
+U01268,Poland,Other,28,2026-01-21,Organic Search,0
+U01269,France,Male,28,2026-01-27,App Store,0
+U01270,Germany,Female,29,2026-01-05,Social Media,0
+U01271,Italy,Male,31,2026-01-22,Organic Search,0
+U01272,UK,Male,31,2026-01-07,Organic Search,0
+U01273,Poland,Male,34,2026-01-03,Paid Ads,0
+U01274,UK,Female,35,2026-01-06,Influencer,1
+U01275,Sweden,Male,19,2026-01-23,App Store,0
+U01276,Netherlands,Male,32,2026-02-14,Social Media,0
+U01277,Italy,Male,24,2026-02-04,Organic Search,0
+U01278,Italy,Male,18,2026-01-21,Organic Search,1
+U01279,Italy,Male,32,2026-01-09,Paid Ads,0
+U01280,UK,Male,24,2026-01-25,Social Media,1
+U01281,Spain,Male,26,2026-02-23,Influencer,0
+U01282,UK,Male,26,2026-01-06,Social Media,0
+U01283,Netherlands,Male,16,2026-01-12,Influencer,0
+U01284,France,Female,26,2026-01-24,Referral,0
+U01285,Netherlands,Female,26,2026-01-08,Organic Search,0
+U01286,Germany,Female,16,2026-01-22,Paid Ads,0
+U01287,Germany,Female,26,2026-01-18,Paid Ads,0
+U01288,Poland,Male,35,2026-01-05,Social Media,0
+U01289,Italy,Other,24,2026-02-02,Influencer,1
+U01290,France,Female,27,2026-01-30,Social Media,0
+U01291,Austria,Female,16,2026-01-27,Organic Search,0
+U01292,France,Male,23,2026-01-20,Organic Search,0
+U01293,UK,Male,25,2026-01-31,Influencer,0
+U01294,UK,Female,31,2026-01-02,Social Media,0
+U01295,France,Male,30,2026-01-21,Social Media,0
+U01296,Germany,Male,23,2026-02-20,Social Media,0
+U01297,France,Female,24,2026-01-25,Social Media,0
+U01298,Italy,Female,31,2026-01-03,Social Media,0
+U01299,UK,Male,28,2026-01-12,Organic Search,0
+U01300,Italy,Female,25,2026-01-08,Influencer,0
+U01301,UK,Female,22,2026-01-06,Paid Ads,0
+U01302,UK,Female,24,2026-01-11,Social Media,0
+U01303,UK,Male,19,2026-01-18,Organic Search,0
+U01304,France,Female,34,2026-01-10,Influencer,0
+U01305,Germany,Male,22,2026-01-04,App Store,1
+U01306,Netherlands,Male,24,2026-01-15,Influencer,0
+U01307,UK,Female,26,2026-01-03,Referral,0
+U01308,Netherlands,Male,30,2026-01-03,Influencer,0
+U01309,Germany,Male,30,2026-01-03,Social Media,0
+U01310,Italy,Female,37,2026-01-04,App Store,0
+U01311,Germany,Male,36,2026-01-05,Influencer,0
+U01312,Italy,Female,19,2026-02-23,Organic Search,0
+U01313,France,Female,36,2026-01-02,Organic Search,0
+U01314,Germany,Female,31,2026-01-01,Influencer,0
+U01315,Netherlands,Female,22,2026-01-02,Influencer,0
+U01316,Italy,Female,25,2026-01-11,Social Media,1
+U01317,UK,Other,25,2026-01-18,Referral,0
+U01318,Germany,Male,33,2026-01-15,Paid Ads,0
+U01319,Germany,Male,32,2026-01-20,Influencer,1
+U01320,Sweden,Female,31,2026-01-06,App Store,0
+U01321,Germany,Male,24,2026-01-11,Social Media,0
+U01322,UK,Male,20,2026-01-19,Social Media,0
+U01323,Sweden,Female,27,2026-01-03,Influencer,0
+U01324,France,Male,36,2026-02-04,Organic Search,0
+U01325,Sweden,Male,32,2026-02-02,Social Media,0
+U01326,France,Female,37,2026-01-14,Social Media,0
+U01327,Sweden,Female,27,2026-02-23,App Store,0
+U01328,Germany,Male,18,2026-01-21,Referral,1
+U01329,Sweden,Female,23,2026-01-07,Social Media,1
+U01330,Germany,Female,20,2026-01-03,Organic Search,0
+U01331,France,Female,38,2026-01-20,Organic Search,0
+U01332,France,Male,26,2026-01-28,Influencer,0
+U01333,Germany,Male,16,2026-01-15,Organic Search,0
+U01334,Sweden,Male,40,2026-01-14,Paid Ads,0
+U01335,Netherlands,Male,22,2026-02-23,App Store,0
+U01336,Spain,Female,29,2026-01-12,Referral,0
+U01337,France,Female,35,2026-01-13,Organic Search,1
+U01338,UK,Female,44,2026-01-10,Social Media,0
+U01339,UK,Male,30,2026-01-29,Organic Search,0
+U01340,UK,Male,38,2026-01-01,Organic Search,0
+U01341,Germany,Other,22,2026-01-05,Influencer,1
+U01342,Sweden,Female,25,2026-01-06,Social Media,1
+U01343,Netherlands,Male,22,2026-01-22,Social Media,0
+U01344,Spain,Female,23,2026-02-09,Organic Search,0
+U01345,Spain,Male,24,2026-02-23,Organic Search,0
+U01346,UK,Female,40,2026-01-09,Paid Ads,0
+U01347,UK,Female,34,2026-01-07,Organic Search,0
+U01348,UK,Male,16,2026-01-04,Referral,0
+U01349,Germany,Female,30,2026-01-01,Organic Search,0
+U01350,Belgium,Female,28,2026-01-30,Organic Search,0
+U01351,UK,Male,25,2026-01-13,Paid Ads,0
+U01352,Austria,Other,29,2026-01-17,Organic Search,0
+U01353,France,Male,31,2026-01-01,Influencer,0
+U01354,UK,Male,23,2026-01-22,App Store,0
+U01355,UK,Male,36,2026-01-13,Social Media,0
+U01356,France,Female,26,2026-01-01,Social Media,0
+U01357,Spain,Female,38,2026-01-16,Social Media,0
+U01358,Poland,Male,29,2026-02-12,Influencer,0
+U01359,Italy,Female,30,2026-02-02,Social Media,0
+U01360,Germany,Female,16,2026-01-02,Influencer,0
+U01361,France,Female,29,2026-01-30,Referral,0
+U01362,Poland,Female,23,2026-02-12,Social Media,0
+U01363,Poland,Female,16,2026-01-10,Social Media,0
+U01364,UK,Female,25,2026-01-02,Influencer,1
+U01365,UK,Male,34,2026-02-13,Organic Search,0
+U01366,France,Female,22,2026-01-29,Social Media,0
+U01367,Sweden,Male,33,2026-01-27,Social Media,0
+U01368,UK,Female,26,2026-01-22,Social Media,0
+U01369,Sweden,Male,16,2026-01-24,Organic Search,0
+U01370,Sweden,Male,19,2026-02-18,Paid Ads,0
+U01371,UK,Female,36,2026-01-01,Influencer,0
+U01372,Sweden,Male,28,2026-01-24,Influencer,0
+U01373,Germany,Male,34,2026-02-02,Social Media,0
+U01374,Netherlands,Female,23,2026-01-12,Social Media,0
+U01375,France,Male,21,2026-01-26,Organic Search,0
+U01376,France,Male,27,2026-01-18,Social Media,0
+U01377,France,Male,16,2026-01-01,Social Media,0
+U01378,Netherlands,Female,17,2026-01-04,Social Media,0
+U01379,Belgium,Male,17,2026-01-02,Social Media,0
+U01380,Spain,Female,27,2026-01-04,Organic Search,0
+U01381,Germany,Female,34,2026-01-08,Organic Search,0
+U01382,Germany,Male,16,2026-01-22,Social Media,1
+U01383,France,Female,28,2026-01-13,Influencer,0
+U01384,Sweden,Male,31,2026-01-06,Social Media,0
+U01385,Italy,Female,29,2026-02-02,Social Media,0
+U01386,France,Female,25,2026-02-07,Social Media,0
+U01387,Poland,Female,35,2026-01-05,Social Media,0
+U01388,Spain,Male,22,2026-01-05,Social Media,0
+U01389,Germany,Female,25,2026-01-10,Paid Ads,0
+U01390,Germany,Male,16,2026-01-18,Influencer,0
+U01391,France,Male,35,2026-01-04,Organic Search,0
+U01392,Germany,Female,52,2026-01-05,Social Media,0
+U01393,Belgium,Female,22,2026-01-05,Social Media,1
+U01394,Spain,Female,20,2026-02-15,Organic Search,0
+U01395,Italy,Male,19,2026-01-06,Social Media,0
+U01396,France,Female,25,2026-01-03,Paid Ads,0
+U01397,Italy,Male,35,2026-01-17,Social Media,0
+U01398,Spain,Male,18,2026-01-23,Referral,1
+U01399,Germany,Female,16,2026-01-03,Social Media,0
+U01400,France,Female,18,2026-01-06,Social Media,0
+U01401,Spain,Female,38,2026-01-01,Organic Search,0
+U01402,France,Female,24,2026-01-09,Influencer,0
+U01403,Netherlands,Male,16,2026-01-02,Paid Ads,0
+U01404,Germany,Female,34,2026-01-08,Influencer,0
+U01405,UK,Male,21,2026-01-26,Social Media,0
+U01406,Germany,Female,16,2026-01-18,Paid Ads,1
+U01407,Netherlands,Female,31,2026-01-01,App Store,0
+U01408,Spain,Male,25,2026-01-01,Paid Ads,0
+U01409,Germany,Female,20,2026-01-05,Organic Search,0
+U01410,Netherlands,Female,27,2026-02-03,Referral,0
+U01411,Germany,Female,38,2026-01-21,Social Media,0
+U01412,Germany,Female,16,2026-01-01,Paid Ads,0
+U01413,Germany,Male,19,2026-01-18,Social Media,1
+U01414,UK,Female,24,2026-01-24,App Store,0
+U01415,UK,Male,33,2026-02-23,Social Media,1
+U01416,Germany,Male,24,2026-01-18,Organic Search,0
+U01417,UK,Female,32,2026-01-19,Influencer,0
+U01418,Netherlands,Female,33,2026-02-23,App Store,0
+U01419,Sweden,Male,27,2026-01-15,Referral,0
+U01420,Netherlands,Female,22,2026-01-01,Influencer,0
+U01421,Germany,Female,19,2026-01-03,Paid Ads,0
+U01422,UK,Male,30,2026-01-23,Influencer,0
+U01423,Germany,Female,17,2026-01-13,Social Media,0
+U01424,Poland,Male,21,2026-02-09,App Store,0
+U01425,UK,Female,33,2026-01-01,Influencer,0
+U01426,UK,Female,24,2026-02-08,Influencer,0
+U01427,UK,Female,26,2026-01-17,Influencer,0
+U01428,Spain,Female,27,2026-01-02,Organic Search,0
+U01429,UK,Male,39,2026-01-08,App Store,0
+U01430,UK,Female,16,2026-01-21,Influencer,0
+U01431,Germany,Female,31,2026-02-04,Influencer,0
+U01432,Germany,Male,26,2026-01-13,Social Media,0
+U01433,Germany,Other,28,2026-01-26,Social Media,0
+U01434,UK,Male,34,2026-01-18,Social Media,0
+U01435,UK,Male,26,2026-01-03,App Store,1
+U01436,Spain,Male,27,2026-02-11,Social Media,0
+U01437,France,Male,21,2026-02-23,Social Media,0
+U01438,Spain,Male,29,2026-02-05,Social Media,0
+U01439,Germany,Female,22,2026-01-04,Social Media,0
+U01440,UK,Male,32,2026-01-01,Social Media,0
+U01441,Belgium,Female,29,2026-01-01,Social Media,0
+U01442,Belgium,Female,37,2026-01-06,Organic Search,0
+U01443,Poland,Female,24,2026-01-15,Social Media,0
+U01444,France,Male,37,2026-01-03,Referral,0
+U01445,France,Female,37,2026-01-31,App Store,0
+U01446,Germany,Male,22,2026-01-13,Social Media,0
+U01447,UK,Male,29,2026-01-06,Influencer,0
+U01448,Germany,Female,27,2026-01-25,Social Media,0
+U01449,UK,Male,26,2026-01-18,App Store,0
+U01450,Spain,Male,32,2026-01-07,Organic Search,0
+U01451,UK,Female,28,2026-01-16,Social Media,0
+U01452,France,Female,32,2026-02-23,Paid Ads,0
+U01453,Poland,Male,33,2026-01-10,Paid Ads,0
+U01454,Netherlands,Female,30,2026-02-23,Organic Search,0
+U01455,France,Male,29,2026-01-22,Social Media,0
+U01456,Netherlands,Male,38,2026-01-05,Paid Ads,0
+U01457,Spain,Male,20,2026-01-11,Social Media,0
+U01458,France,Male,16,2026-01-14,Organic Search,0
+U01459,Belgium,Female,20,2026-02-17,Influencer,0
+U01460,UK,Female,39,2026-02-04,Referral,0
+U01461,UK,Male,32,2026-01-01,Organic Search,0
+U01462,Germany,Male,24,2026-02-01,Influencer,1
+U01463,France,Male,30,2026-01-25,App Store,0
+U01464,Germany,Female,22,2026-02-03,Referral,1
+U01465,Belgium,Female,33,2026-02-23,Social Media,0
+U01466,France,Female,40,2026-01-02,Social Media,0
+U01467,Italy,Female,26,2026-01-01,Social Media,0
+U01468,Poland,Female,23,2026-01-03,Organic Search,0
+U01469,France,Male,34,2026-01-10,App Store,0
+U01470,Germany,Female,26,2026-01-13,App Store,0
+U01471,Germany,Male,41,2026-01-09,Influencer,0
+U01472,Spain,Female,27,2026-02-19,Social Media,0
+U01473,Germany,Male,28,2026-01-06,Social Media,0
+U01474,UK,Male,25,2026-01-04,App Store,0
+U01475,France,Female,35,2026-02-03,Organic Search,0
+U01476,UK,Male,38,2026-01-07,Social Media,0
+U01477,Spain,Male,21,2026-01-07,Social Media,1
+U01478,Germany,Male,36,2026-02-23,App Store,1
+U01479,Sweden,Female,36,2026-01-11,Organic Search,0
+U01480,France,Female,30,2026-01-17,Paid Ads,0
+U01481,Sweden,Female,27,2026-02-07,Social Media,0
+U01482,Germany,Male,16,2026-01-27,Organic Search,0
+U01483,UK,Male,21,2026-01-17,Organic Search,0
+U01484,UK,Female,37,2026-01-26,Organic Search,0
+U01485,Netherlands,Male,22,2026-01-09,App Store,0
+U01486,Italy,Male,32,2026-01-26,Social Media,0
+U01487,Netherlands,Other,25,2026-01-23,Social Media,0
+U01488,Italy,Male,16,2026-02-23,App Store,0
+U01489,Spain,Female,25,2026-02-11,Organic Search,1
+U01490,Italy,Female,22,2026-01-04,Referral,0
+U01491,France,Female,18,2026-01-07,Social Media,0
+U01492,Italy,Female,25,2026-01-18,App Store,0
+U01493,Germany,Female,27,2026-01-24,Social Media,0
+U01494,UK,Male,26,2026-01-08,Influencer,0
+U01495,France,Female,26,2026-01-13,Social Media,0
+U01496,Austria,Male,30,2026-01-26,Social Media,1
+U01497,Germany,Male,25,2026-01-24,Social Media,0
+U01498,UK,Male,27,2026-01-11,Organic Search,0
+U01499,Germany,Female,31,2026-01-29,Organic Search,0
+U01500,Germany,Female,21,2026-01-07,Social Media,0
+U01501,Poland,Female,16,2026-02-23,App Store,0
+U01502,Sweden,Male,38,2026-02-05,Referral,0
+U01503,Spain,Male,20,2026-01-26,Organic Search,1
+U01504,Spain,Male,20,2026-01-03,Organic Search,0
+U01505,France,Male,19,2026-01-12,Influencer,1
+U01506,Germany,Female,19,2026-01-06,Social Media,0
+U01507,Spain,Male,27,2026-02-03,Paid Ads,0
+U01508,Poland,Female,40,2026-01-09,Social Media,0
+U01509,Poland,Male,24,2026-01-03,Social Media,0
+U01510,Italy,Female,25,2026-01-20,Organic Search,0
+U01511,Germany,Male,23,2026-01-09,Organic Search,0
+U01512,France,Female,28,2026-01-12,Paid Ads,0
+U01513,France,Female,33,2026-01-10,Social Media,1
+U01514,Netherlands,Male,28,2026-01-04,Social Media,0
+U01515,Germany,Female,19,2026-01-13,App Store,0
+U01516,UK,Male,31,2026-01-19,Paid Ads,0
+U01517,Germany,Male,35,2026-01-11,Social Media,0
+U01518,Italy,Male,25,2026-01-18,Organic Search,0
+U01519,UK,Male,22,2026-01-04,Organic Search,0
+U01520,Belgium,Male,25,2026-02-23,App Store,0
+U01521,Netherlands,Female,28,2026-01-24,Influencer,0
+U01522,Germany,Female,21,2026-01-16,Social Media,0
+U01523,Netherlands,Female,37,2026-01-11,Organic Search,1
+U01524,Germany,Male,27,2026-01-09,App Store,0
+U01525,Germany,Male,30,2026-01-04,Organic Search,0
+U01526,Italy,Male,16,2026-01-11,Social Media,0
+U01527,France,Male,23,2026-01-07,Social Media,0
+U01528,UK,Male,38,2026-01-11,Organic Search,0
+U01529,Germany,Male,36,2026-02-03,Social Media,0
+U01530,Spain,Female,32,2026-01-06,Referral,1
+U01531,Austria,Female,30,2026-01-26,Organic Search,0
+U01532,Germany,Male,29,2026-01-28,Social Media,0
+U01533,Netherlands,Female,27,2026-01-04,Influencer,1
+U01534,Spain,Male,24,2026-01-05,Paid Ads,1
+U01535,France,Male,29,2026-01-08,Organic Search,0
+U01536,Spain,Female,16,2026-01-16,Influencer,0
+U01537,UK,Male,22,2026-01-15,Influencer,0
+U01538,Germany,Female,22,2026-02-03,Influencer,0
+U01539,UK,Male,35,2026-01-01,Organic Search,0
+U01540,Italy,Male,22,2026-01-24,Social Media,0
+U01541,UK,Female,16,2026-01-15,Organic Search,0
+U01542,Italy,Female,28,2026-01-12,Social Media,0
+U01543,UK,Female,27,2026-01-10,Referral,0
+U01544,Netherlands,Male,31,2026-01-28,Social Media,0
+U01545,Italy,Male,34,2026-01-09,Organic Search,1
+U01546,France,Male,32,2026-01-17,Organic Search,0
+U01547,UK,Male,26,2026-01-05,Social Media,0
+U01548,Spain,Female,16,2026-01-13,App Store,0
+U01549,Germany,Female,24,2026-01-05,Organic Search,0
+U01550,Italy,Male,31,2026-01-31,App Store,0
+U01551,Spain,Male,35,2026-01-01,Organic Search,0
+U01552,Spain,Male,18,2026-01-24,App Store,0
+U01553,Germany,Female,22,2026-01-14,App Store,0
+U01554,UK,Male,25,2026-02-23,Organic Search,0
+U01555,Poland,Male,26,2026-01-21,App Store,0
+U01556,Germany,Female,30,2026-01-09,Organic Search,0
+U01557,Italy,Male,29,2026-01-11,Influencer,0
+U01558,UK,Female,28,2026-02-23,Social Media,0
+U01559,Germany,Male,25,2026-01-06,Social Media,1
+U01560,UK,Female,28,2026-01-18,Paid Ads,0
+U01561,France,Female,23,2026-01-03,Influencer,0
+U01562,Italy,Female,32,2026-01-20,Paid Ads,0
+U01563,Germany,Female,33,2026-02-23,Influencer,0
+U01564,France,Male,22,2026-01-09,Influencer,0
+U01565,Spain,Male,38,2026-01-13,Social Media,0
+U01566,Spain,Male,27,2026-02-15,Organic Search,0
+U01567,Germany,Male,25,2026-01-27,App Store,0
+U01568,Austria,Male,31,2026-01-25,Organic Search,0
+U01569,Sweden,Male,28,2026-01-21,Paid Ads,1
+U01570,Netherlands,Female,46,2026-01-14,Organic Search,0
+U01571,UK,Male,28,2026-02-23,App Store,0
+U01572,Germany,Male,36,2026-01-05,Referral,0
+U01573,UK,Female,22,2026-01-19,Organic Search,1
+U01574,UK,Female,23,2026-01-17,Social Media,0
+U01575,UK,Female,29,2026-02-14,App Store,0
+U01576,UK,Female,25,2026-01-02,App Store,0
+U01577,Spain,Male,34,2026-02-05,Organic Search,1
+U01578,UK,Male,36,2026-01-17,Referral,0
+U01579,Sweden,Male,32,2026-01-03,Influencer,0
+U01580,Belgium,Male,26,2026-01-05,Organic Search,0
+U01581,UK,Female,39,2026-01-16,Organic Search,0
+U01582,Austria,Female,38,2026-02-14,Referral,1
+U01583,UK,Male,23,2026-01-13,Influencer,0
+U01584,Italy,Female,25,2026-01-02,Organic Search,0
+U01585,UK,Male,19,2026-01-15,Social Media,0
+U01586,Spain,Male,21,2026-01-06,Organic Search,0
+U01587,Italy,Female,19,2026-01-18,Influencer,0
+U01588,France,Female,33,2026-01-17,App Store,1
+U01589,Italy,Male,18,2026-01-14,Referral,0
+U01590,Netherlands,Male,26,2026-01-19,Social Media,0
+U01591,Sweden,Female,19,2026-01-01,App Store,0
+U01592,UK,Male,20,2026-02-04,Organic Search,0
+U01593,Poland,Female,18,2026-01-10,Social Media,0
+U01594,Netherlands,Male,24,2026-02-10,Organic Search,0
+U01595,Italy,Female,30,2026-02-22,Social Media,0
+U01596,Germany,Male,31,2026-01-06,Organic Search,0
+U01597,Germany,Male,23,2026-02-18,Referral,0
+U01598,Spain,Male,31,2026-02-23,Referral,0
+U01599,Spain,Male,25,2026-01-17,Organic Search,0
+U01600,Germany,Male,32,2026-01-17,App Store,0
+U01601,UK,Male,26,2026-02-16,Social Media,0
+U01602,France,Male,37,2026-01-30,Social Media,0
+U01603,UK,Male,17,2026-01-04,Influencer,0
+U01604,Italy,Female,31,2026-02-14,Paid Ads,0
+U01605,Netherlands,Male,26,2026-01-02,Paid Ads,0
+U01606,Netherlands,Female,18,2026-01-14,Organic Search,0
+U01607,Spain,Male,22,2026-01-06,Organic Search,0
+U01608,Sweden,Female,33,2026-01-10,Influencer,0
+U01609,UK,Male,28,2026-02-23,Social Media,0
+U01610,UK,Male,30,2026-01-15,Social Media,0
+U01611,UK,Male,27,2026-01-02,Organic Search,1
+U01612,Netherlands,Male,41,2026-01-29,Organic Search,0
+U01613,Poland,Female,36,2026-01-19,Influencer,0
+U01614,UK,Female,27,2026-01-13,Organic Search,1
+U01615,Germany,Female,39,2026-01-01,Social Media,0
+U01616,UK,Female,42,2026-01-31,App Store,0
+U01617,Sweden,Male,25,2026-01-07,Organic Search,0
+U01618,France,Male,31,2026-01-06,Referral,0
+U01619,Netherlands,Female,16,2026-02-19,Organic Search,0
+U01620,UK,Female,24,2026-01-13,Social Media,0
+U01621,France,Male,25,2026-01-20,App Store,0
+U01622,France,Male,38,2026-01-10,Influencer,0
+U01623,Sweden,Female,26,2026-01-20,Social Media,1
+U01624,Poland,Male,26,2026-02-22,App Store,0
+U01625,Germany,Male,18,2026-01-08,Social Media,0
+U01626,Germany,Female,28,2026-01-04,Organic Search,0
+U01627,Austria,Male,29,2026-02-17,App Store,0
+U01628,UK,Female,21,2026-01-02,Influencer,0
+U01629,Belgium,Male,28,2026-01-25,App Store,0
+U01630,UK,Female,25,2026-01-09,Referral,0
+U01631,Italy,Female,23,2026-02-05,Social Media,0
+U01632,Germany,Male,35,2026-01-08,Social Media,0
+U01633,Germany,Female,20,2026-01-01,Social Media,0
+U01634,Germany,Female,33,2026-01-14,Referral,1
+U01635,Spain,Female,31,2026-02-04,Organic Search,0
+U01636,UK,Male,29,2026-01-13,Social Media,0
+U01637,Austria,Male,27,2026-01-20,Referral,0
+U01638,France,Male,33,2026-01-10,Paid Ads,0
+U01639,Germany,Male,21,2026-01-20,Organic Search,0
+U01640,Germany,Male,26,2026-01-23,Social Media,0
+U01641,Sweden,Male,34,2026-02-17,Organic Search,0
+U01642,UK,Other,21,2026-01-07,Paid Ads,1
+U01643,Spain,Female,17,2026-01-25,Organic Search,0
+U01644,UK,Female,27,2026-01-01,Organic Search,0
+U01645,France,Male,35,2026-01-25,Influencer,1
+U01646,Spain,Male,27,2026-01-31,Social Media,0
+U01647,UK,Female,29,2026-01-04,App Store,0
+U01648,France,Female,20,2026-02-22,Social Media,0
+U01649,Netherlands,Female,22,2026-01-31,Social Media,1
+U01650,Netherlands,Female,27,2026-02-13,Paid Ads,0
+U01651,Germany,Male,24,2026-01-19,Influencer,0
+U01652,Poland,Female,35,2026-01-13,Paid Ads,0
+U01653,Germany,Female,31,2026-02-01,App Store,0
+U01654,Sweden,Female,32,2026-01-05,Organic Search,0
+U01655,Sweden,Female,28,2026-01-21,Social Media,1
+U01656,Italy,Female,34,2026-01-21,Social Media,0
+U01657,Germany,Male,25,2026-02-23,Organic Search,0
+U01658,Netherlands,Female,24,2026-01-04,App Store,0
+U01659,UK,Male,24,2026-01-11,Influencer,1
+U01660,France,Female,29,2026-01-08,App Store,0
+U01661,UK,Female,24,2026-02-17,Social Media,0
+U01662,France,Male,43,2026-01-09,Influencer,0
+U01663,Sweden,Other,34,2026-01-11,Influencer,0
+U01664,Austria,Female,21,2026-02-23,Referral,0
+U01665,Italy,Male,23,2026-01-01,Social Media,0
+U01666,France,Other,18,2026-02-18,Organic Search,0
+U01667,France,Male,28,2026-01-17,Referral,0
+U01668,Germany,Female,37,2026-01-12,Social Media,1
+U01669,France,Male,33,2026-01-30,Organic Search,1
+U01670,Sweden,Male,20,2026-02-23,Influencer,0
+U01671,UK,Male,24,2026-01-19,Organic Search,0
+U01672,Netherlands,Male,25,2026-01-01,Organic Search,1
+U01673,Spain,Male,25,2026-01-13,Social Media,0
+U01674,UK,Male,37,2026-01-17,Social Media,0
+U01675,Netherlands,Female,33,2026-01-27,App Store,0
+U01676,Spain,Female,43,2026-01-12,Social Media,0
+U01677,Netherlands,Male,33,2026-02-23,Organic Search,0
+U01678,France,Male,33,2026-01-02,Influencer,0
+U01679,Germany,Female,34,2026-02-17,Social Media,0
+U01680,Sweden,Male,33,2026-01-04,Social Media,0
+U01681,Netherlands,Female,28,2026-01-03,Referral,0
+U01682,Austria,Male,39,2026-02-23,Organic Search,0
+U01683,Germany,Female,26,2026-02-22,Influencer,0
+U01684,Sweden,Male,36,2026-01-09,Referral,0
+U01685,Austria,Female,29,2026-01-11,Paid Ads,0
+U01686,Netherlands,Female,26,2026-01-08,Organic Search,0
+U01687,Italy,Male,32,2026-01-11,Social Media,0
+U01688,Spain,Female,36,2026-01-19,Organic Search,0
+U01689,Germany,Male,32,2026-01-11,Organic Search,0
+U01690,Sweden,Female,29,2026-02-10,Social Media,0
+U01691,Germany,Male,29,2026-02-22,Referral,0
+U01692,Germany,Male,16,2026-01-07,Influencer,0
+U01693,Belgium,Female,28,2026-01-05,Social Media,0
+U01694,Italy,Male,36,2026-01-10,Social Media,0
+U01695,France,Female,22,2026-01-17,Referral,0
+U01696,Belgium,Male,34,2026-01-02,Referral,0
+U01697,Austria,Female,29,2026-01-10,Paid Ads,0
+U01698,France,Male,36,2026-01-17,Social Media,1
+U01699,Poland,Male,20,2026-01-01,Organic Search,0
+U01700,Germany,Female,29,2026-01-05,Organic Search,0
+U01701,Germany,Female,30,2026-01-05,Social Media,0
+U01702,Belgium,Male,34,2026-01-27,Social Media,0
+U01703,France,Male,23,2026-01-26,Organic Search,0
+U01704,Germany,Female,33,2026-02-03,Paid Ads,0
+U01705,Spain,Male,26,2026-01-04,Paid Ads,0
+U01706,Netherlands,Female,18,2026-01-16,Influencer,1
+U01707,Netherlands,Male,21,2026-01-01,Organic Search,0
+U01708,UK,Female,23,2026-02-13,Influencer,0
+U01709,UK,Male,31,2026-01-10,Referral,0
+U01710,Netherlands,Male,20,2026-01-05,App Store,0
+U01711,UK,Male,31,2026-01-06,Social Media,0
+U01712,Netherlands,Female,23,2026-02-10,Social Media,1
+U01713,France,Female,41,2026-01-04,Influencer,1
+U01714,Italy,Male,33,2026-01-25,Organic Search,0
+U01715,Spain,Male,31,2026-01-18,Social Media,0
+U01716,Netherlands,Male,36,2026-01-24,Social Media,0
+U01717,Germany,Male,35,2026-02-01,Organic Search,0
+U01718,France,Female,22,2026-01-25,App Store,1
+U01719,Germany,Male,21,2026-01-31,Social Media,0
+U01720,Germany,Male,37,2026-01-09,Social Media,0
+U01721,Italy,Male,35,2026-01-02,Paid Ads,0
+U01722,Germany,Male,24,2026-01-10,App Store,0
+U01723,Netherlands,Female,32,2026-02-14,App Store,0
+U01724,France,Female,39,2026-01-02,Paid Ads,0
+U01725,Spain,Female,28,2026-01-06,Organic Search,0
+U01726,UK,Female,36,2026-02-23,Influencer,0
+U01727,Spain,Male,27,2026-02-10,Social Media,0
+U01728,Sweden,Female,36,2026-02-13,Paid Ads,1
+U01729,France,Male,36,2026-01-07,Influencer,0
+U01730,Germany,Female,31,2026-01-19,Paid Ads,0
+U01731,Germany,Female,16,2026-01-02,Influencer,0
+U01732,UK,Female,31,2026-01-08,Social Media,0
+U01733,Germany,Female,23,2026-01-10,Influencer,0
+U01734,Spain,Male,26,2026-01-07,App Store,1
+U01735,Sweden,Male,24,2026-01-19,Organic Search,1
+U01736,Germany,Male,35,2026-01-08,Social Media,0
+U01737,Italy,Female,18,2026-01-13,Social Media,0
+U01738,UK,Male,40,2026-01-22,Organic Search,0
+U01739,Sweden,Male,27,2026-01-19,Social Media,0
+U01740,Netherlands,Male,21,2026-01-01,App Store,0
+U01741,Sweden,Male,35,2026-02-09,Social Media,0
+U01742,Italy,Male,29,2026-01-05,Referral,0
+U01743,Germany,Male,38,2026-01-08,Social Media,0
+U01744,Spain,Male,36,2026-02-22,Organic Search,0
+U01745,Germany,Female,39,2026-01-17,Referral,0
+U01746,France,Female,22,2026-01-09,Referral,0
+U01747,Germany,Female,20,2026-01-10,Paid Ads,0
+U01748,Spain,Female,31,2026-01-12,Paid Ads,0
+U01749,France,Female,33,2026-02-12,Social Media,0
+U01750,Germany,Male,39,2026-01-01,Referral,0
+U01751,Spain,Female,27,2026-02-10,Social Media,0
+U01752,Spain,Male,36,2026-01-17,Social Media,0
+U01753,Netherlands,Male,34,2026-01-23,Social Media,0
+U01754,Spain,Female,30,2026-01-06,Referral,0
+U01755,Spain,Female,31,2026-01-25,Organic Search,0
+U01756,France,Male,27,2026-01-17,Organic Search,0
+U01757,Sweden,Male,39,2026-02-02,Paid Ads,0
+U01758,UK,Female,23,2026-01-30,Influencer,0
+U01759,Poland,Female,37,2026-01-01,Social Media,0
+U01760,Germany,Male,21,2026-01-03,Influencer,0
+U01761,Austria,Male,32,2026-01-04,App Store,0
+U01762,Germany,Female,29,2026-02-03,Organic Search,1
+U01763,Germany,Male,50,2026-01-07,Referral,0
+U01764,Germany,Male,34,2026-01-16,Social Media,0
+U01765,Germany,Female,38,2026-01-26,Social Media,0
+U01766,Netherlands,Male,17,2026-01-21,Paid Ads,0
+U01767,Germany,Male,16,2026-01-25,Referral,0
+U01768,Austria,Male,25,2026-02-11,App Store,0
+U01769,Spain,Male,29,2026-01-07,Influencer,0
+U01770,Germany,Male,38,2026-01-12,Influencer,0
+U01771,Poland,Female,25,2026-01-28,Organic Search,0
+U01772,Netherlands,Male,38,2026-01-26,Referral,0
+U01773,France,Female,22,2026-01-08,Influencer,0
+U01774,Germany,Male,34,2026-02-16,Influencer,0
+U01775,Italy,Female,32,2026-01-01,Influencer,0
+U01776,UK,Female,23,2026-02-08,Organic Search,0
+U01777,UK,Male,24,2026-02-23,Organic Search,0
+U01778,Spain,Male,34,2026-01-08,Referral,0
+U01779,UK,Female,21,2026-02-07,App Store,0
+U01780,Spain,Female,27,2026-01-17,Influencer,0
+U01781,Netherlands,Male,31,2026-02-01,Influencer,0
+U01782,Austria,Male,29,2026-01-23,Social Media,0
+U01783,Netherlands,Male,31,2026-01-03,Social Media,0
+U01784,UK,Female,19,2026-02-23,Organic Search,0
+U01785,Netherlands,Female,23,2026-01-01,Social Media,0
+U01786,Spain,Female,33,2026-01-01,Referral,0
+U01787,France,Female,16,2026-01-02,Social Media,0
+U01788,Poland,Male,16,2026-01-12,App Store,0
+U01789,UK,Male,31,2026-01-03,Influencer,1
+U01790,France,Female,36,2026-02-11,Social Media,0
+U01791,UK,Female,26,2026-01-05,App Store,0
+U01792,UK,Male,19,2026-02-08,Influencer,0
+U01793,Poland,Female,30,2026-01-01,Social Media,0
+U01794,UK,Male,27,2026-01-08,Influencer,0
+U01795,Spain,Female,20,2026-02-23,Social Media,0
+U01796,Germany,Female,32,2026-01-03,Organic Search,0
+U01797,UK,Female,31,2026-01-07,Organic Search,0
+U01798,Germany,Female,32,2026-01-05,Paid Ads,0
+U01799,France,Female,16,2026-01-17,App Store,1
+U01800,Germany,Male,33,2026-01-03,Influencer,0
+U01801,France,Male,20,2026-01-01,Organic Search,0
+U01802,Germany,Female,28,2026-01-02,Organic Search,0
+U01803,France,Female,21,2026-01-09,Paid Ads,0
+U01804,Netherlands,Male,43,2026-01-01,Paid Ads,0
+U01805,France,Male,26,2026-02-13,App Store,0
+U01806,Netherlands,Male,29,2026-01-04,Referral,0
+U01807,UK,Male,34,2026-01-10,Paid Ads,0
+U01808,Germany,Male,25,2026-02-09,Social Media,1
+U01809,UK,Female,25,2026-01-03,Paid Ads,0
+U01810,Netherlands,Female,30,2026-01-12,App Store,0
+U01811,UK,Female,30,2026-01-09,Paid Ads,0
+U01812,UK,Female,27,2026-01-12,Referral,0
+U01813,Italy,Male,23,2026-01-12,App Store,0
+U01814,Spain,Male,23,2026-01-14,Organic Search,0
+U01815,Austria,Male,36,2026-02-01,Social Media,0
+U01816,Spain,Male,39,2026-01-16,Organic Search,0
+U01817,Poland,Male,30,2026-01-05,Influencer,0
+U01818,UK,Male,36,2026-01-11,Organic Search,1
+U01819,France,Male,26,2026-01-29,Social Media,0
+U01820,UK,Female,32,2026-01-16,Referral,0
+U01821,Germany,Female,27,2026-01-05,Influencer,0
+U01822,France,Female,26,2026-01-15,Social Media,0
+U01823,Poland,Female,30,2026-01-06,Social Media,0
+U01824,Sweden,Female,16,2026-01-11,Organic Search,0
+U01825,Germany,Female,27,2026-02-23,Organic Search,0
+U01826,UK,Female,25,2026-02-10,Organic Search,1
+U01827,Netherlands,Male,27,2026-01-03,Influencer,0
+U01828,Sweden,Male,28,2026-01-05,Paid Ads,0
+U01829,Spain,Male,38,2026-01-08,Referral,0
+U01830,UK,Female,33,2026-01-18,Organic Search,0
+U01831,UK,Male,27,2026-02-23,Social Media,0
+U01832,Italy,Female,39,2026-01-16,Organic Search,0
+U01833,UK,Other,32,2026-01-23,Social Media,0
+U01834,Sweden,Female,25,2026-01-04,Social Media,0
+U01835,Germany,Female,25,2026-01-27,Influencer,0
+U01836,Germany,Female,35,2026-02-08,Influencer,1
+U01837,Germany,Male,38,2026-01-03,Referral,0
+U01838,Spain,Other,30,2026-01-02,Referral,0
+U01839,UK,Female,28,2026-01-19,App Store,0
+U01840,Germany,Female,34,2026-01-14,Social Media,0
+U01841,France,Female,32,2026-01-04,App Store,0
+U01842,Spain,Female,28,2026-01-17,Referral,0
+U01843,Germany,Female,17,2026-02-10,Social Media,0
+U01844,UK,Male,24,2026-01-14,Organic Search,0
+U01845,UK,Male,26,2026-01-31,Organic Search,0
+U01846,Poland,Female,24,2026-02-03,Organic Search,0
+U01847,Poland,Female,37,2026-01-11,Organic Search,0
+U01848,Spain,Male,36,2026-02-16,Social Media,0
+U01849,Sweden,Female,20,2026-01-05,Influencer,0
+U01850,Sweden,Female,28,2026-02-02,Social Media,0
+U01851,UK,Male,27,2026-02-16,Organic Search,0
+U01852,Belgium,Male,25,2026-01-31,Social Media,1
+U01853,Poland,Male,16,2026-01-02,Organic Search,1
+U01854,Germany,Female,30,2026-01-14,Social Media,0
+U01855,Poland,Female,32,2026-01-08,Social Media,0
+U01856,Netherlands,Female,30,2026-01-11,Paid Ads,0
+U01857,France,Female,24,2026-01-09,Social Media,1
+U01858,Italy,Male,26,2026-01-18,Organic Search,0
+U01859,Poland,Female,17,2026-02-09,Paid Ads,0
+U01860,Italy,Female,21,2026-01-09,Influencer,0
+U01861,Spain,Male,21,2026-01-06,Referral,1
+U01862,Germany,Male,25,2026-01-20,Social Media,0
+U01863,Germany,Male,16,2026-02-23,Social Media,1
+U01864,Spain,Male,28,2026-01-22,Social Media,0
+U01865,Italy,Female,22,2026-01-13,Paid Ads,0
+U01866,Germany,Male,19,2026-01-14,Organic Search,0
+U01867,Germany,Female,37,2026-02-08,Organic Search,0
+U01868,France,Male,16,2026-01-11,Organic Search,0
+U01869,UK,Male,47,2026-01-17,Social Media,0
+U01870,Italy,Male,26,2026-01-03,App Store,0
+U01871,UK,Male,40,2026-01-20,Influencer,0
+U01872,UK,Male,24,2026-01-12,Social Media,0
+U01873,Italy,Male,24,2026-01-16,Referral,0
+U01874,Germany,Male,25,2026-01-15,App Store,0
+U01875,Poland,Female,23,2026-01-17,Organic Search,0
+U01876,Netherlands,Male,30,2026-01-02,Organic Search,1
+U01877,Germany,Male,22,2026-02-23,Social Media,0
+U01878,France,Female,23,2026-01-23,Social Media,0
+U01879,Spain,Female,33,2026-02-10,Influencer,0
+U01880,Netherlands,Female,30,2026-01-01,Paid Ads,0
+U01881,France,Female,27,2026-01-03,Social Media,0
+U01882,UK,Male,17,2026-02-23,Paid Ads,0
+U01883,Spain,Male,24,2026-01-06,Social Media,0
+U01884,UK,Female,25,2026-01-08,Paid Ads,0
+U01885,France,Female,23,2026-01-09,Paid Ads,0
+U01886,Germany,Male,34,2026-02-02,App Store,0
+U01887,France,Male,37,2026-01-02,Organic Search,1
+U01888,Netherlands,Female,31,2026-01-23,Paid Ads,1
+U01889,Poland,Female,32,2026-02-12,App Store,0
+U01890,Germany,Female,25,2026-01-09,App Store,0
+U01891,Poland,Male,25,2026-01-02,Organic Search,0
+U01892,Netherlands,Other,30,2026-01-11,Social Media,0
+U01893,Sweden,Female,25,2026-01-21,Referral,0
+U01894,Germany,Male,37,2026-01-01,App Store,1
+U01895,UK,Male,16,2026-01-23,Organic Search,0
+U01896,France,Male,36,2026-01-08,Organic Search,0
+U01897,Spain,Male,22,2026-01-25,App Store,0
+U01898,France,Male,40,2026-01-01,Paid Ads,0
+U01899,Germany,Female,32,2026-02-04,Organic Search,1
+U01900,Austria,Male,24,2026-02-10,Organic Search,1
+U01901,France,Male,32,2026-01-02,Organic Search,0
+U01902,Germany,Female,40,2026-01-11,Organic Search,0
+U01903,Germany,Male,31,2026-02-21,Referral,0
+U01904,UK,Female,25,2026-01-26,Paid Ads,0
+U01905,Germany,Female,30,2026-01-23,Paid Ads,0
+U01906,Poland,Female,29,2026-02-07,Social Media,0
+U01907,France,Male,34,2026-01-02,Social Media,0
+U01908,Netherlands,Male,22,2026-02-09,Social Media,0
+U01909,France,Male,21,2026-01-10,Influencer,0
+U01910,Germany,Female,28,2026-02-23,Organic Search,0
+U01911,Belgium,Male,25,2026-02-23,Social Media,0
+U01912,Germany,Male,33,2026-01-30,Social Media,0
+U01913,France,Female,30,2026-02-23,Social Media,0
+U01914,Sweden,Male,27,2026-01-20,Organic Search,0
+U01915,Germany,Male,38,2026-02-08,Paid Ads,0
+U01916,Germany,Female,16,2026-01-17,Social Media,0
+U01917,France,Male,29,2026-02-11,Social Media,0
+U01918,Sweden,Female,39,2026-01-05,Influencer,0
+U01919,Sweden,Male,24,2026-01-11,Paid Ads,0
+U01920,Germany,Male,29,2026-01-09,Influencer,0
+U01921,Italy,Female,26,2026-01-03,Influencer,0
+U01922,Italy,Female,37,2026-01-21,Paid Ads,0
+U01923,UK,Other,25,2026-01-13,Social Media,0
+U01924,Belgium,Male,33,2026-02-11,Organic Search,0
+U01925,Germany,Female,40,2026-01-02,Organic Search,1
+U01926,UK,Female,36,2026-01-17,Influencer,0
+U01927,UK,Male,19,2026-01-04,Referral,0
+U01928,Spain,Male,31,2026-01-07,Paid Ads,0
+U01929,UK,Female,22,2026-01-12,Organic Search,1
+U01930,Spain,Male,35,2026-02-04,Paid Ads,1
+U01931,France,Female,32,2026-01-09,Social Media,0
+U01932,Austria,Male,33,2026-02-21,Social Media,0
+U01933,Spain,Male,17,2026-01-07,Organic Search,1
+U01934,UK,Female,33,2026-01-19,Organic Search,0
+U01935,Netherlands,Female,21,2026-01-13,Influencer,1
+U01936,Germany,Male,31,2026-01-06,Social Media,0
+U01937,Germany,Female,16,2026-01-01,Organic Search,0
+U01938,Germany,Male,33,2026-01-20,Social Media,0
+U01939,UK,Female,30,2026-01-17,Social Media,0
+U01940,Sweden,Male,32,2026-02-23,Influencer,0
+U01941,Germany,Female,21,2026-01-07,Referral,0
+U01942,France,Male,27,2026-01-26,App Store,0
+U01943,France,Male,18,2026-02-23,Influencer,0
+U01944,France,Female,31,2026-01-04,Social Media,0
+U01945,UK,Female,30,2026-01-02,Organic Search,0
+U01946,Netherlands,Male,24,2026-01-06,Influencer,0
+U01947,Austria,Other,21,2026-01-14,Influencer,1
+U01948,UK,Male,42,2026-01-02,Organic Search,0
+U01949,Italy,Female,23,2026-01-16,Social Media,0
+U01950,Austria,Male,26,2026-01-05,Social Media,0
+U01951,Italy,Female,35,2026-01-30,Social Media,0
+U01952,Netherlands,Male,32,2026-01-17,Social Media,0
+U01953,Austria,Male,25,2026-01-30,Social Media,1
+U01954,UK,Female,29,2026-01-03,Paid Ads,1
+U01955,Belgium,Female,20,2026-01-28,Influencer,0
+U01956,UK,Female,16,2026-02-23,Organic Search,0
+U01957,UK,Female,22,2026-01-02,Organic Search,0
+U01958,France,Other,34,2026-01-13,Social Media,0
+U01959,France,Female,26,2026-02-23,Influencer,0
+U01960,Netherlands,Female,22,2026-01-07,Social Media,0
+U01961,Germany,Female,38,2026-01-09,Social Media,0
+U01962,Germany,Male,34,2026-01-05,Organic Search,0
+U01963,France,Female,29,2026-01-05,App Store,0
+U01964,Germany,Female,20,2026-01-05,Influencer,0
+U01965,Poland,Female,22,2026-01-05,Social Media,0
+U01966,Germany,Female,25,2026-01-08,Social Media,0
+U01967,France,Female,30,2026-01-02,Organic Search,0
+U01968,Sweden,Male,24,2026-01-08,Social Media,0
+U01969,Italy,Female,27,2026-01-30,Social Media,0
+U01970,Germany,Female,19,2026-01-04,Referral,0
+U01971,UK,Female,27,2026-01-10,Social Media,0
+U01972,Italy,Male,24,2026-01-26,Social Media,0
+U01973,UK,Female,16,2026-01-13,Organic Search,0
+U01974,France,Female,29,2026-01-07,Influencer,0
+U01975,Spain,Female,24,2026-01-19,Organic Search,0
+U01976,UK,Female,35,2026-01-16,Social Media,0
+U01977,Austria,Male,33,2026-01-05,Paid Ads,0
+U01978,Germany,Male,30,2026-01-18,App Store,0
+U01979,Austria,Male,27,2026-01-23,Referral,0
+U01980,Netherlands,Male,19,2026-01-21,Paid Ads,1
+U01981,Poland,Female,16,2026-01-05,Organic Search,0
+U01982,Netherlands,Female,26,2026-01-06,Organic Search,1
+U01983,France,Other,20,2026-02-11,App Store,1
+U01984,Italy,Male,35,2026-01-04,Organic Search,0
+U01985,France,Male,31,2026-02-23,App Store,0
+U01986,UK,Male,23,2026-01-03,Influencer,0
+U01987,Spain,Female,21,2026-01-23,Social Media,0
+U01988,UK,Male,19,2026-01-02,Referral,0
+U01989,Germany,Male,22,2026-01-10,Organic Search,0
+U01990,Italy,Female,32,2026-01-05,Social Media,0
+U01991,Germany,Other,31,2026-01-30,Referral,0
+U01992,Germany,Male,42,2026-01-22,Social Media,0
+U01993,Spain,Female,30,2026-01-08,Paid Ads,0
+U01994,France,Female,25,2026-01-12,Social Media,0
+U01995,France,Female,20,2026-01-01,Influencer,1
+U01996,Germany,Female,39,2026-01-05,Organic Search,0
+U01997,Germany,Male,29,2026-01-22,App Store,0
+U01998,Germany,Male,20,2026-01-12,Paid Ads,0
+U01999,UK,Male,39,2026-01-21,Referral,0
+U02000,Germany,Male,34,2026-01-22,Influencer,0
+U02001,Spain,Female,29,2026-01-31,Organic Search,0
+U02002,Poland,Male,34,2026-01-31,App Store,1
+U02003,Netherlands,Male,16,2026-01-01,Social Media,0
+U02004,Germany,Female,35,2026-02-19,App Store,0
+U02005,Germany,Male,32,2026-02-23,App Store,0
+U02006,Netherlands,Male,22,2026-01-12,Organic Search,1
+U02007,Spain,Male,42,2026-01-07,Social Media,0
+U02008,UK,Female,40,2026-01-12,Influencer,0
+U02009,Sweden,Female,21,2026-02-18,Influencer,1
+U02010,Germany,Male,21,2026-01-20,App Store,0
+U02011,Belgium,Male,20,2026-01-09,Referral,0
+U02012,Spain,Female,22,2026-01-01,Organic Search,0
+U02013,Spain,Male,33,2026-01-11,App Store,0
+U02014,Spain,Female,32,2026-02-23,Social Media,0
+U02015,Germany,Male,31,2026-01-11,Organic Search,0
+U02016,France,Male,29,2026-01-06,App Store,1
+U02017,France,Female,32,2026-01-23,Influencer,0
+U02018,UK,Female,17,2026-01-29,Social Media,1
+U02019,Germany,Male,23,2026-01-09,App Store,0
+U02020,Italy,Female,28,2026-01-06,App Store,0
+U02021,UK,Male,33,2026-01-21,Organic Search,0
+U02022,France,Female,28,2026-01-27,Social Media,0
+U02023,Spain,Female,29,2026-02-23,Organic Search,0
+U02024,UK,Female,26,2026-01-26,Organic Search,0
+U02025,Germany,Female,16,2026-01-04,Organic Search,0
+U02026,Netherlands,Male,24,2026-01-03,Organic Search,0
+U02027,Spain,Male,22,2026-02-16,Referral,0
+U02028,Poland,Female,28,2026-02-05,Influencer,0
+U02029,Germany,Male,20,2026-01-06,Social Media,0
+U02030,Netherlands,Female,31,2026-01-28,Influencer,0
+U02031,France,Male,26,2026-01-02,App Store,0
+U02032,UK,Male,31,2026-01-03,Organic Search,1
+U02033,Spain,Female,34,2026-01-05,Social Media,0
+U02034,Netherlands,Male,25,2026-01-20,App Store,0
+U02035,Netherlands,Female,21,2026-01-26,Influencer,1
+U02036,UK,Male,18,2026-01-11,Organic Search,0
+U02037,Italy,Female,32,2026-01-03,Social Media,0
+U02038,Italy,Male,30,2026-02-23,Social Media,0
+U02039,UK,Male,31,2026-02-04,Social Media,0
+U02040,France,Female,27,2026-01-02,Influencer,1
+U02041,Italy,Female,22,2026-01-14,Influencer,0
+U02042,Netherlands,Male,20,2026-01-02,Organic Search,1
+U02043,Italy,Female,31,2026-01-04,Influencer,1
+U02044,Netherlands,Female,16,2026-01-05,App Store,1
+U02045,UK,Male,20,2026-01-10,Social Media,0
+U02046,Spain,Female,24,2026-01-11,Organic Search,0
+U02047,Sweden,Female,19,2026-01-12,Social Media,0
+U02048,Poland,Male,26,2026-01-15,Organic Search,0
+U02049,Sweden,Female,20,2026-02-02,Influencer,0
+U02050,Germany,Male,23,2026-02-23,Social Media,0
+U02051,France,Female,20,2026-01-18,Influencer,0
+U02052,Poland,Male,24,2026-01-02,Paid Ads,0
+U02053,Netherlands,Female,18,2026-01-29,App Store,0
+U02054,France,Male,29,2026-01-02,Social Media,0
+U02055,Belgium,Female,29,2026-01-04,Paid Ads,0
+U02056,Germany,Female,42,2026-02-11,Referral,1
+U02057,Poland,Male,29,2026-01-18,App Store,0
+U02058,Poland,Female,35,2026-02-23,Paid Ads,0
+U02059,Sweden,Female,38,2026-01-02,Social Media,0
+U02060,Germany,Male,17,2026-02-23,Social Media,0
+U02061,France,Female,36,2026-01-13,App Store,0
+U02062,UK,Female,31,2026-01-26,Influencer,1
+U02063,Germany,Male,34,2026-01-01,App Store,0
+U02064,UK,Female,19,2026-01-05,Referral,1
+U02065,France,Female,17,2026-01-11,App Store,0
+U02066,Poland,Male,33,2026-02-23,Organic Search,1
+U02067,Sweden,Male,39,2026-01-20,Organic Search,0
+U02068,Poland,Female,24,2026-01-08,Paid Ads,0
+U02069,Germany,Male,31,2026-01-05,Social Media,1
+U02070,Poland,Male,22,2026-02-17,Paid Ads,1
+U02071,France,Male,28,2026-01-02,Organic Search,0
+U02072,Belgium,Female,34,2026-02-10,Social Media,1
+U02073,Austria,Male,26,2026-01-01,Influencer,0
+U02074,Belgium,Male,31,2026-01-04,Influencer,0
+U02075,Spain,Male,28,2026-02-07,Social Media,0
+U02076,Austria,Female,30,2026-02-10,Paid Ads,0
+U02077,France,Male,23,2026-01-08,Social Media,0
+U02078,Germany,Male,22,2026-01-23,Social Media,0
+U02079,Netherlands,Female,41,2026-02-23,Referral,0
+U02080,Netherlands,Male,21,2026-01-17,Paid Ads,0
+U02081,Poland,Male,28,2026-01-07,Organic Search,0
+U02082,UK,Female,24,2026-01-07,Organic Search,0
+U02083,UK,Female,35,2026-02-19,Influencer,0
+U02084,Sweden,Male,42,2026-01-16,Paid Ads,0
+U02085,Italy,Female,22,2026-01-14,App Store,0
+U02086,Germany,Male,24,2026-02-23,Influencer,0
+U02087,Germany,Male,24,2026-01-05,Social Media,0
+U02088,Italy,Female,16,2026-01-21,Social Media,0
+U02089,Belgium,Male,28,2026-01-02,Social Media,0
+U02090,France,Male,17,2026-01-16,Paid Ads,0
+U02091,Spain,Male,28,2026-01-03,Organic Search,0
+U02092,Netherlands,Female,22,2026-01-05,Influencer,1
+U02093,Netherlands,Male,22,2026-01-03,App Store,0
+U02094,Netherlands,Female,26,2026-01-29,Social Media,1
+U02095,Germany,Male,26,2026-02-19,Organic Search,0
+U02096,Netherlands,Female,26,2026-01-03,Social Media,1
+U02097,UK,Male,40,2026-01-16,Social Media,0
+U02098,Sweden,Male,32,2026-01-27,App Store,0
+U02099,UK,Male,27,2026-01-15,Referral,0
+U02100,Belgium,Female,27,2026-02-23,Referral,0
+U02101,Germany,Female,36,2026-02-23,Social Media,0
+U02102,Germany,Male,29,2026-01-15,Influencer,0
+U02103,France,Female,35,2026-01-04,Referral,0
+U02104,Germany,Male,30,2026-02-22,Organic Search,0
+U02105,UK,Female,25,2026-01-12,Paid Ads,0
+U02106,Poland,Male,35,2026-01-06,Social Media,0
+U02107,Germany,Male,27,2026-02-05,Organic Search,0
+U02108,Belgium,Male,23,2026-01-24,Paid Ads,0
+U02109,UK,Male,31,2026-01-26,Influencer,0
+U02110,Germany,Female,22,2026-01-14,App Store,0
+U02111,UK,Male,23,2026-01-02,Social Media,1
+U02112,Germany,Female,22,2026-01-08,Influencer,0
+U02113,Netherlands,Female,24,2026-01-04,Influencer,0
+U02114,UK,Female,21,2026-01-24,Social Media,0
+U02115,Italy,Male,18,2026-01-17,Paid Ads,0
+U02116,France,Male,32,2026-01-06,Social Media,1
+U02117,France,Male,20,2026-02-23,App Store,0
+U02118,Germany,Female,23,2026-01-05,Social Media,0
+U02119,Netherlands,Female,33,2026-02-23,Social Media,0
+U02120,France,Male,28,2026-01-21,Social Media,1
+U02121,Germany,Male,29,2026-01-23,Social Media,0
+U02122,France,Female,34,2026-01-02,Social Media,0
+U02123,UK,Female,24,2026-01-15,Referral,0
+U02124,Italy,Female,21,2026-01-08,Social Media,0
+U02125,Sweden,Male,35,2026-01-17,Social Media,0
+U02126,Germany,Male,19,2026-01-14,Referral,0
+U02127,Sweden,Female,25,2026-01-06,Social Media,0
+U02128,UK,Male,32,2026-01-20,Organic Search,0
+U02129,Italy,Male,24,2026-01-01,Influencer,0
+U02130,Netherlands,Female,32,2026-02-23,Influencer,0
+U02131,Germany,Male,24,2026-01-12,Social Media,0
+U02132,Germany,Female,39,2026-01-04,Organic Search,0
+U02133,UK,Female,20,2026-01-01,Organic Search,0
+U02134,Spain,Male,47,2026-01-13,Social Media,0
+U02135,Netherlands,Female,30,2026-01-03,Organic Search,1
+U02136,Germany,Female,25,2026-01-13,Organic Search,0
+U02137,Sweden,Female,31,2026-02-10,App Store,0
+U02138,Italy,Male,34,2026-01-08,Organic Search,0
+U02139,UK,Female,31,2026-01-09,App Store,0
+U02140,France,Male,27,2026-01-28,Referral,0
+U02141,UK,Female,36,2026-02-05,Organic Search,0
+U02142,Netherlands,Female,16,2026-01-04,Social Media,0
+U02143,Germany,Male,37,2026-01-22,Influencer,0
+U02144,Sweden,Male,23,2026-01-12,Organic Search,0
+U02145,UK,Male,24,2026-01-02,Influencer,0
+U02146,Sweden,Female,27,2026-01-01,Influencer,1
+U02147,Italy,Other,41,2026-01-06,Social Media,0
+U02148,Germany,Male,30,2026-01-12,App Store,0
+U02149,Poland,Male,38,2026-01-06,Influencer,1
+U02150,Germany,Male,21,2026-02-23,Influencer,0
+U02151,UK,Female,32,2026-01-28,App Store,1
+U02152,France,Male,27,2026-02-22,Social Media,0
+U02153,France,Male,35,2026-02-05,Social Media,0
+U02154,Germany,Female,29,2026-01-11,Social Media,0
+U02155,France,Male,36,2026-02-05,Social Media,0
+U02156,Sweden,Male,24,2026-02-13,Organic Search,0
+U02157,Netherlands,Female,31,2026-02-03,Organic Search,0
+U02158,UK,Male,16,2026-01-29,Organic Search,0
+U02159,Germany,Male,36,2026-01-11,Social Media,0
+U02160,France,Female,42,2026-02-08,Organic Search,1
+U02161,Belgium,Female,38,2026-01-08,Social Media,0
+U02162,Spain,Male,29,2026-01-03,Organic Search,0
+U02163,UK,Male,24,2026-02-20,Referral,0
+U02164,France,Female,17,2026-01-06,Organic Search,0
+U02165,Germany,Male,21,2026-01-01,Organic Search,0
+U02166,Spain,Male,16,2026-01-11,Influencer,0
+U02167,UK,Male,39,2026-01-03,Social Media,1
+U02168,Germany,Female,27,2026-01-08,Referral,0
+U02169,France,Male,23,2026-02-14,Paid Ads,0
+U02170,Germany,Male,27,2026-01-22,Influencer,0
+U02171,Italy,Male,38,2026-01-15,Social Media,0
+U02172,Netherlands,Female,34,2026-01-19,App Store,0
+U02173,France,Female,16,2026-01-01,Influencer,0
+U02174,Austria,Male,25,2026-01-11,Organic Search,1
+U02175,Italy,Male,39,2026-01-13,Referral,0
+U02176,UK,Female,34,2026-02-09,Organic Search,1
+U02177,Germany,Male,28,2026-01-10,Referral,0
+U02178,UK,Female,31,2026-02-07,Referral,0
+U02179,Italy,Male,30,2026-01-07,App Store,0
+U02180,Germany,Female,28,2026-01-04,Influencer,1
+U02181,Belgium,Male,24,2026-02-23,App Store,0
+U02182,France,Male,25,2026-01-03,Influencer,0
+U02183,Austria,Female,20,2026-01-31,Organic Search,0
+U02184,Germany,Female,26,2026-01-31,Social Media,1
+U02185,France,Female,23,2026-02-23,Paid Ads,0
+U02186,Italy,Male,23,2026-01-05,Social Media,0
+U02187,Belgium,Female,22,2026-02-18,Referral,0
+U02188,Sweden,Male,32,2026-01-02,Influencer,0
+U02189,Germany,Male,21,2026-01-02,Social Media,0
+U02190,UK,Male,32,2026-01-18,Social Media,0
+U02191,Germany,Male,27,2026-01-02,Paid Ads,0
+U02192,France,Male,25,2026-01-18,App Store,0
+U02193,Netherlands,Female,32,2026-02-12,Paid Ads,0
+U02194,Netherlands,Female,32,2026-01-24,Paid Ads,1
+U02195,UK,Male,22,2026-01-25,Organic Search,0
+U02196,Spain,Male,22,2026-01-06,Influencer,0
+U02197,Sweden,Female,28,2026-02-17,App Store,0
+U02198,Germany,Female,31,2026-01-13,App Store,0
+U02199,UK,Male,23,2026-02-02,Organic Search,0
+U02200,Germany,Female,25,2026-01-06,Social Media,0
+U02201,Spain,Male,24,2026-02-23,Social Media,0
+U02202,UK,Female,23,2026-01-02,Organic Search,0
+U02203,UK,Male,39,2026-02-23,Referral,0
+U02204,Spain,Male,18,2026-01-15,Social Media,0
+U02205,France,Male,25,2026-01-16,Organic Search,0
+U02206,Netherlands,Other,40,2026-01-03,Social Media,0
+U02207,Germany,Female,16,2026-01-08,Social Media,0
+U02208,Poland,Female,32,2026-01-23,App Store,0
+U02209,Netherlands,Male,23,2026-01-21,Referral,0
+U02210,Germany,Female,35,2026-01-09,Influencer,0
+U02211,France,Male,22,2026-01-06,Referral,0
+U02212,Germany,Male,30,2026-01-23,App Store,0
+U02213,UK,Female,40,2026-01-19,Organic Search,0
+U02214,Germany,Male,31,2026-02-03,Influencer,0
+U02215,France,Male,25,2026-02-07,Organic Search,0
+U02216,Poland,Male,31,2026-01-28,App Store,0
+U02217,Poland,Male,23,2026-01-17,Organic Search,1
+U02218,Germany,Female,25,2026-01-18,Social Media,0
+U02219,Germany,Other,19,2026-01-23,App Store,0
+U02220,Sweden,Male,31,2026-01-07,Organic Search,0
+U02221,UK,Female,27,2026-01-16,Referral,0
+U02222,Italy,Other,22,2026-01-31,Paid Ads,0
+U02223,Germany,Male,18,2026-01-07,Influencer,0
+U02224,Germany,Female,37,2026-01-26,Paid Ads,0
+U02225,Italy,Female,29,2026-01-29,Referral,0
+U02226,Germany,Female,18,2026-01-09,Organic Search,0
+U02227,Germany,Female,21,2026-02-23,Social Media,1
+U02228,UK,Male,21,2026-01-03,Organic Search,0
+U02229,Germany,Male,26,2026-02-19,Social Media,0
+U02230,Italy,Male,35,2026-01-02,Influencer,0
+U02231,Italy,Female,38,2026-01-14,Paid Ads,0
+U02232,Poland,Male,16,2026-01-30,Social Media,0
+U02233,Belgium,Male,23,2026-01-09,Organic Search,0
+U02234,UK,Female,33,2026-01-01,Organic Search,1
+U02235,France,Female,25,2026-01-18,App Store,0
+U02236,France,Female,31,2026-01-03,Organic Search,0
+U02237,Netherlands,Male,24,2026-01-02,Organic Search,0
+U02238,Germany,Female,20,2026-01-10,Influencer,0
+U02239,UK,Female,37,2026-01-11,Paid Ads,0
+U02240,Belgium,Female,27,2026-01-13,App Store,0
+U02241,Belgium,Male,23,2026-01-16,Organic Search,0
+U02242,Belgium,Male,32,2026-01-21,Influencer,1
+U02243,UK,Female,31,2026-02-23,Organic Search,0
+U02244,France,Female,24,2026-01-07,Organic Search,0
+U02245,Belgium,Male,31,2026-01-24,App Store,0
+U02246,Austria,Female,27,2026-02-15,Influencer,0
+U02247,UK,Male,23,2026-01-17,Organic Search,0
+U02248,Germany,Female,34,2026-01-19,Organic Search,0
+U02249,UK,Male,24,2026-02-23,Organic Search,0
+U02250,UK,Female,26,2026-01-09,Influencer,0
+U02251,Spain,Male,19,2026-01-01,Social Media,0
+U02252,France,Female,34,2026-01-08,Social Media,1
+U02253,Spain,Female,37,2026-01-16,Social Media,0
+U02254,Netherlands,Female,21,2026-01-07,Organic Search,0
+U02255,Netherlands,Female,19,2026-01-29,Referral,0
+U02256,Netherlands,Female,25,2026-01-01,Organic Search,1
+U02257,Spain,Male,16,2026-01-08,Referral,0
+U02258,UK,Female,24,2026-01-01,Influencer,0
+U02259,Belgium,Female,33,2026-01-02,Social Media,1
+U02260,UK,Female,16,2026-01-09,Influencer,0
+U02261,France,Female,34,2026-01-11,Organic Search,0
+U02262,Italy,Male,17,2026-01-02,Organic Search,0
+U02263,Spain,Female,34,2026-01-30,App Store,0
+U02264,Netherlands,Male,27,2026-02-10,Paid Ads,1
+U02265,Germany,Female,32,2026-01-10,Organic Search,1
+U02266,Germany,Male,25,2026-01-14,App Store,0
+U02267,France,Female,47,2026-01-15,Organic Search,1
+U02268,Germany,Male,38,2026-01-25,Organic Search,0
+U02269,Poland,Other,27,2026-01-15,Organic Search,0
+U02270,Poland,Female,29,2026-01-12,App Store,1
+U02271,Germany,Female,37,2026-02-03,Referral,0
+U02272,Belgium,Male,27,2026-01-02,Social Media,0
+U02273,France,Female,21,2026-02-23,Organic Search,0
+U02274,UK,Female,32,2026-01-11,Organic Search,0
+U02275,Germany,Male,27,2026-02-01,Influencer,0
+U02276,Netherlands,Female,18,2026-01-23,Social Media,0
+U02277,Germany,Female,22,2026-01-30,Organic Search,0
+U02278,Germany,Female,33,2026-01-29,App Store,1
+U02279,France,Female,30,2026-01-02,Organic Search,0
+U02280,Spain,Male,21,2026-01-05,Organic Search,0
+U02281,UK,Male,22,2026-01-30,App Store,0
+U02282,Germany,Female,41,2026-01-02,Organic Search,1
+U02283,Netherlands,Female,16,2026-01-08,Organic Search,0
+U02284,Germany,Male,19,2026-01-06,Social Media,0
+U02285,Netherlands,Other,22,2026-01-08,Organic Search,0
+U02286,Belgium,Other,16,2026-01-01,Organic Search,0
+U02287,Germany,Male,27,2026-01-07,Social Media,1
+U02288,France,Other,20,2026-01-08,Referral,0
+U02289,Belgium,Female,34,2026-01-02,Social Media,0
+U02290,Italy,Female,30,2026-01-31,Referral,0
+U02291,Italy,Female,31,2026-01-08,Organic Search,0
+U02292,Netherlands,Male,34,2026-01-04,Referral,0
+U02293,Italy,Female,18,2026-01-01,Referral,1
+U02294,Netherlands,Female,21,2026-01-15,Paid Ads,1
+U02295,Italy,Male,27,2026-01-02,App Store,0
+U02296,Germany,Male,24,2026-01-19,App Store,0
+U02297,Netherlands,Female,18,2026-01-19,Influencer,0
+U02298,Netherlands,Female,31,2026-01-05,Paid Ads,0
+U02299,Spain,Male,37,2026-01-25,Organic Search,0
+U02300,Germany,Other,23,2026-02-15,Organic Search,0
+U02301,Poland,Male,24,2026-01-22,Social Media,0
+U02302,France,Male,40,2026-02-05,Social Media,0
+U02303,Poland,Female,32,2026-02-13,Organic Search,0
+U02304,Austria,Male,28,2026-01-10,Organic Search,1
+U02305,Italy,Female,32,2026-01-18,Organic Search,0
+U02306,Austria,Male,26,2026-02-09,Social Media,0
+U02307,Poland,Other,22,2026-01-02,Influencer,1
+U02308,France,Male,23,2026-01-11,Organic Search,0
+U02309,Germany,Male,30,2026-01-05,Organic Search,0
+U02310,UK,Female,31,2026-01-12,Social Media,0
+U02311,Italy,Female,28,2026-01-01,Social Media,0
+U02312,UK,Female,23,2026-01-20,Paid Ads,0
+U02313,Germany,Male,19,2026-01-14,Social Media,0
+U02314,France,Female,25,2026-02-23,Referral,0
+U02315,France,Male,16,2026-02-05,Social Media,0
+U02316,Austria,Male,19,2026-01-14,App Store,0
+U02317,Netherlands,Male,25,2026-01-08,Influencer,1
+U02318,UK,Male,33,2026-01-09,Social Media,0
+U02319,Netherlands,Female,22,2026-01-29,Referral,0
+U02320,France,Female,25,2026-01-16,Influencer,1
+U02321,Spain,Male,37,2026-01-13,Organic Search,0
+U02322,Poland,Female,27,2026-01-11,Organic Search,0
+U02323,France,Female,19,2026-02-23,Social Media,0
+U02324,Germany,Female,19,2026-01-01,Social Media,0
+U02325,Italy,Male,22,2026-01-27,Paid Ads,0
+U02326,Netherlands,Female,29,2026-02-06,Paid Ads,0
+U02327,UK,Other,24,2026-01-02,Social Media,0
+U02328,Sweden,Female,23,2026-01-20,Social Media,0
+U02329,UK,Female,36,2026-01-16,Referral,0
+U02330,UK,Female,35,2026-01-14,Referral,0
+U02331,UK,Female,37,2026-01-09,Social Media,0
+U02332,Germany,Female,16,2026-01-31,Organic Search,0
+U02333,Netherlands,Male,23,2026-01-25,Influencer,0
+U02334,Italy,Female,17,2026-01-20,App Store,0
+U02335,Poland,Female,29,2026-01-05,Social Media,0
+U02336,Spain,Male,37,2026-02-06,Influencer,0
+U02337,Germany,Other,31,2026-01-09,Social Media,0
+U02338,France,Male,31,2026-01-17,Influencer,0
+U02339,France,Female,29,2026-01-04,Organic Search,0
+U02340,Italy,Male,26,2026-02-11,Social Media,1
+U02341,Spain,Male,24,2026-01-09,App Store,0
+U02342,UK,Female,31,2026-01-05,App Store,0
+U02343,Germany,Male,25,2026-01-05,Influencer,0
+U02344,Germany,Female,21,2026-01-18,Referral,0
+U02345,France,Male,23,2026-01-16,Social Media,0
+U02346,Germany,Female,27,2026-02-14,Organic Search,0
+U02347,Netherlands,Male,19,2026-02-19,Referral,0
+U02348,France,Female,22,2026-02-23,Paid Ads,0
+U02349,Germany,Female,25,2026-01-02,Referral,0
+U02350,UK,Female,28,2026-01-19,App Store,0
+U02351,Germany,Male,43,2026-01-03,Paid Ads,0
+U02352,Germany,Female,16,2026-01-16,Social Media,0
+U02353,France,Female,34,2026-01-01,Social Media,0
+U02354,UK,Male,29,2026-02-23,Organic Search,1
+U02355,Sweden,Female,38,2026-02-06,App Store,0
+U02356,Germany,Male,16,2026-02-09,Referral,0
+U02357,Sweden,Female,38,2026-01-27,Social Media,1
+U02358,Poland,Male,25,2026-01-10,Influencer,0
+U02359,Germany,Female,21,2026-01-11,App Store,0
+U02360,Italy,Female,23,2026-01-04,Organic Search,0
+U02361,UK,Female,27,2026-01-14,Organic Search,0
+U02362,France,Male,16,2026-01-10,Organic Search,0
+U02363,UK,Male,20,2026-01-10,Organic Search,0
+U02364,Spain,Female,21,2026-02-02,Social Media,0
+U02365,Italy,Male,23,2026-01-11,App Store,0
+U02366,UK,Male,40,2026-01-09,Organic Search,0
+U02367,Italy,Female,16,2026-02-06,App Store,0
+U02368,Germany,Male,38,2026-02-09,Social Media,0
+U02369,Netherlands,Female,32,2026-01-03,Influencer,0
+U02370,Germany,Female,16,2026-01-11,Organic Search,0
+U02371,Germany,Male,38,2026-01-30,Influencer,1
+U02372,Belgium,Female,23,2026-01-01,App Store,0
+U02373,Netherlands,Male,34,2026-01-12,Organic Search,0
+U02374,Poland,Female,26,2026-01-13,Organic Search,0
+U02375,Germany,Male,19,2026-01-01,Social Media,0
+U02376,Germany,Male,28,2026-01-05,App Store,0
+U02377,France,Female,30,2026-01-27,Influencer,0
+U02378,Germany,Female,16,2026-01-10,App Store,0
+U02379,Spain,Female,28,2026-01-15,Social Media,0
+U02380,France,Male,33,2026-01-12,Organic Search,0
+U02381,Netherlands,Male,32,2026-01-10,App Store,0
+U02382,Germany,Male,31,2026-01-09,Organic Search,0
+U02383,Germany,Male,16,2026-01-17,Organic Search,0
+U02384,UK,Female,24,2026-01-26,Referral,0
+U02385,Netherlands,Male,39,2026-02-12,Organic Search,0
+U02386,Italy,Male,28,2026-01-09,Social Media,0
+U02387,Austria,Female,24,2026-01-01,Influencer,0
+U02388,Germany,Female,24,2026-01-28,Social Media,0
+U02389,Austria,Male,26,2026-02-01,App Store,0
+U02390,Sweden,Female,38,2026-01-18,Organic Search,0
+U02391,Italy,Female,20,2026-01-14,App Store,0
+U02392,Germany,Male,33,2026-01-05,Social Media,0
+U02393,France,Male,27,2026-02-10,Referral,0
+U02394,Spain,Male,30,2026-01-24,Social Media,0
+U02395,Germany,Female,35,2026-01-14,Social Media,0
+U02396,Belgium,Male,18,2026-02-20,Influencer,0
+U02397,UK,Male,26,2026-01-16,Organic Search,0
+U02398,Netherlands,Female,35,2026-01-18,Organic Search,0
+U02399,UK,Female,30,2026-01-02,Referral,0
+U02400,Italy,Male,31,2026-01-23,Organic Search,0
+U02401,Germany,Male,26,2026-01-03,Influencer,1
+U02402,Netherlands,Male,25,2026-02-23,Paid Ads,0
+U02403,Netherlands,Male,28,2026-01-01,Social Media,1
+U02404,UK,Female,33,2026-01-13,Social Media,1
+U02405,UK,Male,25,2026-01-19,Social Media,0
+U02406,Netherlands,Male,29,2026-01-11,Influencer,0
+U02407,UK,Female,23,2026-01-05,Influencer,0
+U02408,Poland,Male,27,2026-01-11,Influencer,1
+U02409,Italy,Female,32,2026-01-23,Referral,1
+U02410,Netherlands,Female,24,2026-01-01,Social Media,0
+U02411,Germany,Male,24,2026-02-09,Social Media,0
+U02412,Austria,Female,43,2026-01-01,App Store,1
+U02413,Germany,Male,33,2026-01-25,Paid Ads,0
+U02414,France,Female,23,2026-02-23,App Store,0
+U02415,Belgium,Male,33,2026-02-23,Organic Search,0
+U02416,Spain,Male,31,2026-01-19,Social Media,0
+U02417,France,Female,25,2026-01-08,Organic Search,1
+U02418,Germany,Female,16,2026-01-31,Organic Search,1
+U02419,Italy,Male,28,2026-01-08,Social Media,0
+U02420,Germany,Male,28,2026-01-04,App Store,0
+U02421,Germany,Female,30,2026-01-05,Influencer,0
+U02422,Germany,Male,16,2026-01-06,Organic Search,0
+U02423,Italy,Female,29,2026-01-21,Social Media,0
+U02424,Germany,Female,18,2026-01-11,App Store,0
+U02425,Germany,Male,28,2026-02-09,Organic Search,0
+U02426,France,Female,34,2026-01-03,Organic Search,0
+U02427,Sweden,Female,25,2026-02-05,Referral,0
+U02428,Netherlands,Female,21,2026-01-13,Organic Search,0
+U02429,UK,Female,25,2026-02-23,Social Media,0
+U02430,Belgium,Male,27,2026-01-05,App Store,0
+U02431,Italy,Male,28,2026-01-05,App Store,0
+U02432,Poland,Female,24,2026-01-04,App Store,0
+U02433,Spain,Female,20,2026-01-21,Social Media,0
+U02434,Netherlands,Male,45,2026-01-02,Organic Search,0
+U02435,UK,Female,26,2026-01-11,Influencer,0
+U02436,Belgium,Female,16,2026-02-07,Paid Ads,0
+U02437,France,Female,32,2026-01-26,Paid Ads,0
+U02438,Sweden,Female,30,2026-01-24,Social Media,0
+U02439,Poland,Male,18,2026-02-23,Social Media,0
+U02440,UK,Female,39,2026-01-02,Influencer,0
+U02441,Sweden,Male,30,2026-01-01,Organic Search,0
+U02442,Netherlands,Female,25,2026-01-28,Organic Search,0
+U02443,UK,Female,20,2026-02-23,Social Media,1
+U02444,Belgium,Female,31,2026-01-25,Social Media,0
+U02445,Germany,Male,22,2026-01-25,Social Media,0
+U02446,Germany,Female,27,2026-02-05,Social Media,0
+U02447,UK,Female,27,2026-01-21,Referral,0
+U02448,Italy,Female,25,2026-02-22,Social Media,0
+U02449,Poland,Male,26,2026-01-01,Social Media,0
+U02450,Netherlands,Female,35,2026-01-14,Organic Search,0
+U02451,Sweden,Female,24,2026-02-13,Social Media,1
+U02452,Sweden,Female,31,2026-01-22,Organic Search,0
+U02453,France,Female,29,2026-01-07,App Store,0
+U02454,France,Male,25,2026-02-02,Social Media,0
+U02455,Netherlands,Male,25,2026-02-23,Social Media,0
+U02456,UK,Male,31,2026-01-08,App Store,0
+U02457,Poland,Male,35,2026-01-04,Social Media,0
+U02458,UK,Male,33,2026-01-24,Organic Search,0
+U02459,Belgium,Female,23,2026-02-09,Social Media,0
+U02460,Austria,Female,29,2026-01-26,Social Media,1
+U02461,Italy,Male,27,2026-01-15,Influencer,0
+U02462,UK,Male,28,2026-01-08,Social Media,0
+U02463,Netherlands,Male,28,2026-01-05,Social Media,0
+U02464,Germany,Female,30,2026-01-16,Organic Search,0
+U02465,UK,Male,31,2026-02-15,Influencer,0
+U02466,Sweden,Male,35,2026-01-30,Influencer,1
+U02467,France,Male,30,2026-02-23,Organic Search,0
+U02468,Germany,Female,39,2026-01-26,App Store,0
+U02469,Sweden,Male,37,2026-01-14,Organic Search,0
+U02470,France,Male,20,2026-02-03,Social Media,1
+U02471,Germany,Female,28,2026-01-10,Paid Ads,0
+U02472,Sweden,Female,28,2026-01-10,Social Media,0
+U02473,UK,Female,30,2026-01-13,Organic Search,1
+U02474,UK,Male,31,2026-01-19,Organic Search,0
+U02475,UK,Female,20,2026-02-01,App Store,0
+U02476,France,Male,28,2026-01-22,Referral,1
+U02477,UK,Female,34,2026-01-16,Influencer,0
+U02478,UK,Male,18,2026-01-28,App Store,0
+U02479,Netherlands,Male,16,2026-01-03,Organic Search,0
+U02480,Italy,Female,27,2026-02-15,Paid Ads,0
+U02481,France,Male,23,2026-01-07,Organic Search,0
+U02482,UK,Male,32,2026-01-13,Referral,0
+U02483,Sweden,Male,29,2026-01-13,Influencer,0
+U02484,Italy,Female,19,2026-01-11,Organic Search,0
+U02485,Germany,Male,24,2026-01-03,Organic Search,0
+U02486,Netherlands,Female,18,2026-01-22,Organic Search,0
+U02487,Germany,Female,22,2026-01-09,Paid Ads,0
+U02488,Italy,Male,32,2026-01-05,App Store,0
+U02489,Spain,Female,39,2026-01-07,Social Media,0
+U02490,UK,Female,31,2026-01-25,Paid Ads,0
+U02491,France,Female,32,2026-01-13,Social Media,0
+U02492,Sweden,Female,33,2026-01-03,Social Media,0
+U02493,Austria,Female,25,2026-01-17,Organic Search,0
+U02494,Italy,Male,27,2026-01-12,Referral,0
+U02495,UK,Female,31,2026-01-05,Organic Search,1
+U02496,UK,Female,31,2026-01-06,App Store,0
+U02497,UK,Other,23,2026-01-08,Organic Search,0
+U02498,UK,Female,18,2026-02-04,Social Media,1
+U02499,Netherlands,Male,38,2026-01-05,App Store,0
+U02500,Italy,Male,34,2026-01-18,Referral,0
+U02501,Sweden,Male,33,2026-02-23,Organic Search,0
+U02502,Poland,Male,32,2026-01-23,Social Media,1
+U02503,UK,Female,31,2026-01-20,Social Media,0
+U02504,Germany,Male,33,2026-01-01,Organic Search,0
+U02505,France,Male,36,2026-01-02,Paid Ads,0
+U02506,Sweden,Male,43,2026-02-12,Organic Search,0
+U02507,UK,Female,23,2026-01-30,Organic Search,0
+U02508,Germany,Male,26,2026-01-26,Social Media,0
+U02509,Italy,Female,26,2026-01-15,Social Media,0
+U02510,Italy,Male,32,2026-01-12,Social Media,0
+U02511,Poland,Female,38,2026-01-21,Organic Search,1
+U02512,Germany,Male,26,2026-02-04,Social Media,0
+U02513,Poland,Female,19,2026-01-03,Organic Search,1
+U02514,UK,Female,34,2026-01-02,Organic Search,0
+U02515,Netherlands,Female,16,2026-01-10,Organic Search,0
+U02516,Poland,Other,30,2026-01-21,Referral,0
+U02517,Germany,Other,30,2026-01-06,Social Media,0
+U02518,France,Male,23,2026-01-09,Social Media,0
+U02519,Italy,Male,31,2026-01-04,Organic Search,0
+U02520,Poland,Male,24,2026-01-03,Social Media,0
+U02521,Netherlands,Male,21,2026-01-04,Referral,0
+U02522,UK,Male,26,2026-01-02,Influencer,0
+U02523,UK,Female,30,2026-01-02,Organic Search,1
+U02524,Sweden,Female,29,2026-01-18,Organic Search,0
+U02525,UK,Female,26,2026-01-27,Social Media,0
+U02526,Germany,Female,27,2026-01-17,Referral,0
+U02527,Belgium,Female,32,2026-01-08,Social Media,1
+U02528,Netherlands,Female,28,2026-01-30,Organic Search,0
+U02529,Germany,Female,22,2026-02-08,Social Media,1
+U02530,France,Male,21,2026-02-23,Influencer,0
+U02531,Netherlands,Male,25,2026-01-08,Organic Search,0
+U02532,France,Male,33,2026-02-17,Organic Search,1
+U02533,Germany,Male,28,2026-01-08,Organic Search,0
+U02534,Germany,Female,24,2026-01-09,Social Media,0
+U02535,Germany,Female,29,2026-01-07,Social Media,0
+U02536,Poland,Male,35,2026-01-02,Social Media,0
+U02537,UK,Male,25,2026-02-23,Organic Search,0
+U02538,UK,Female,26,2026-01-29,App Store,1
+U02539,Sweden,Male,31,2026-02-04,App Store,0
+U02540,Poland,Male,16,2026-01-12,Organic Search,0
+U02541,Germany,Female,20,2026-01-01,Social Media,0
+U02542,Germany,Male,17,2026-01-01,Social Media,0
+U02543,UK,Female,16,2026-01-18,Organic Search,0
+U02544,France,Male,24,2026-01-23,Social Media,0
+U02545,Belgium,Male,19,2026-01-04,App Store,0
+U02546,France,Female,20,2026-01-02,Influencer,0
+U02547,Netherlands,Male,19,2026-01-16,Social Media,0
+U02548,Spain,Female,37,2026-01-01,Paid Ads,0
+U02549,Spain,Female,36,2026-01-04,Organic Search,0
+U02550,Sweden,Female,27,2026-01-21,Social Media,0
+U02551,Austria,Male,29,2026-01-19,Social Media,0
+U02552,Netherlands,Female,39,2026-01-01,Influencer,0
+U02553,Italy,Female,24,2026-02-23,Organic Search,0
+U02554,Germany,Female,27,2026-01-10,Organic Search,0
+U02555,UK,Other,29,2026-02-23,App Store,0
+U02556,Belgium,Female,17,2026-01-24,Organic Search,0
+U02557,Italy,Female,35,2026-01-06,Referral,0
+U02558,Germany,Female,33,2026-01-11,App Store,0
+U02559,UK,Female,16,2026-01-03,Referral,1
+U02560,Sweden,Male,37,2026-01-21,Paid Ads,0
+U02561,Netherlands,Female,29,2026-01-20,App Store,0
+U02562,Italy,Male,39,2026-02-23,Social Media,1
+U02563,UK,Male,25,2026-01-02,Influencer,1
+U02564,Germany,Male,23,2026-01-02,Social Media,0
+U02565,Belgium,Female,27,2026-01-07,Organic Search,0
+U02566,Germany,Female,28,2026-01-06,Organic Search,0
+U02567,Italy,Female,35,2026-01-21,Paid Ads,0
+U02568,Netherlands,Female,29,2026-01-10,Referral,0
+U02569,France,Male,36,2026-01-21,Organic Search,0
+U02570,Germany,Female,27,2026-01-08,Social Media,0
+U02571,Germany,Male,18,2026-01-09,Paid Ads,0
+U02572,Poland,Female,24,2026-01-09,Social Media,0
+U02573,Sweden,Female,23,2026-01-15,Social Media,0
+U02574,UK,Female,18,2026-01-12,App Store,0
+U02575,Poland,Male,27,2026-01-12,Influencer,0
+U02576,Germany,Male,17,2026-01-05,Referral,0
+U02577,France,Male,32,2026-01-09,Referral,0
+U02578,Netherlands,Female,34,2026-01-08,Influencer,0
+U02579,UK,Male,22,2026-01-16,Influencer,0
+U02580,UK,Male,23,2026-02-05,Social Media,0
+U02581,France,Female,29,2026-02-08,Paid Ads,0
+U02582,UK,Female,25,2026-01-12,Influencer,1
+U02583,Sweden,Female,16,2026-01-04,Influencer,0
+U02584,Poland,Female,25,2026-01-21,Influencer,1
+U02585,Belgium,Female,28,2026-01-25,Organic Search,0
+U02586,Italy,Female,29,2026-01-30,Organic Search,0
+U02587,Austria,Male,26,2026-01-24,Social Media,0
+U02588,Germany,Female,30,2026-01-12,Social Media,0
+U02589,Germany,Female,25,2026-01-08,Social Media,1
+U02590,Belgium,Male,34,2026-02-16,Organic Search,0
+U02591,Germany,Male,21,2026-01-26,Influencer,1
+U02592,Belgium,Male,34,2026-01-27,Social Media,0
+U02593,UK,Male,16,2026-01-10,Influencer,0
+U02594,Germany,Male,39,2026-01-11,Organic Search,0
+U02595,Germany,Other,25,2026-01-01,App Store,0
+U02596,Italy,Female,29,2026-01-19,Organic Search,0
+U02597,Belgium,Female,20,2026-01-10,App Store,0
+U02598,Netherlands,Female,36,2026-01-04,Organic Search,0
+U02599,Germany,Female,34,2026-02-03,Social Media,0
+U02600,Netherlands,Other,23,2026-01-20,Organic Search,1
+U02601,UK,Male,30,2026-01-06,Social Media,0
+U02602,Poland,Female,30,2026-01-22,Social Media,0
+U02603,UK,Male,36,2026-01-07,Organic Search,0
+U02604,France,Female,40,2026-02-19,Organic Search,0
+U02605,Germany,Female,39,2026-01-06,Influencer,0
+U02606,Poland,Female,24,2026-01-30,Referral,0
+U02607,Germany,Male,30,2026-01-05,Influencer,0
+U02608,Poland,Female,29,2026-02-23,Social Media,0
+U02609,France,Male,33,2026-01-09,Social Media,0
+U02610,Germany,Female,33,2026-01-03,Organic Search,0
+U02611,Germany,Female,30,2026-01-02,Influencer,0
+U02612,Sweden,Male,28,2026-01-07,Referral,0
+U02613,Germany,Male,19,2026-01-12,Organic Search,0
+U02614,Italy,Male,33,2026-01-11,Organic Search,0
+U02615,Germany,Female,32,2026-01-02,Influencer,0
+U02616,France,Female,28,2026-01-05,Organic Search,0
+U02617,UK,Male,22,2026-01-20,Organic Search,0
+U02618,France,Male,20,2026-02-23,Organic Search,0
+U02619,Netherlands,Female,17,2026-02-12,Referral,0
+U02620,Germany,Female,16,2026-02-16,Social Media,0
+U02621,Spain,Female,16,2026-02-23,Influencer,0
+U02622,UK,Female,37,2026-01-06,Organic Search,0
+U02623,France,Female,32,2026-01-12,Influencer,0
+U02624,Spain,Female,17,2026-01-07,Social Media,0
+U02625,Spain,Female,21,2026-01-11,Social Media,0
+U02626,Spain,Male,39,2026-02-23,Referral,0
+U02627,Poland,Male,26,2026-01-01,App Store,1
+U02628,Austria,Female,29,2026-01-29,Organic Search,0
+U02629,Germany,Female,31,2026-01-06,Organic Search,0
+U02630,Germany,Female,21,2026-01-06,Social Media,0
+U02631,UK,Male,24,2026-01-02,Social Media,0
+U02632,France,Male,31,2026-02-01,Organic Search,0
+U02633,UK,Female,28,2026-02-23,Social Media,1
+U02634,Germany,Male,31,2026-01-08,Organic Search,0
+U02635,UK,Male,32,2026-01-08,App Store,0
+U02636,France,Male,25,2026-01-10,Influencer,0
+U02637,Germany,Male,26,2026-01-20,Social Media,0
+U02638,France,Female,35,2026-02-21,App Store,1
+U02639,Germany,Female,29,2026-01-17,Influencer,0
+U02640,Spain,Male,36,2026-02-23,App Store,0
+U02641,UK,Male,40,2026-01-21,Social Media,0
+U02642,Italy,Male,21,2026-01-12,App Store,0
+U02643,Spain,Female,21,2026-01-04,Social Media,0
+U02644,Belgium,Female,27,2026-01-09,Influencer,0
+U02645,Italy,Female,28,2026-02-16,Referral,0
+U02646,Netherlands,Other,39,2026-01-08,Social Media,0
+U02647,Poland,Female,32,2026-01-01,Social Media,0
+U02648,France,Female,31,2026-02-04,Social Media,0
+U02649,Germany,Male,27,2026-01-10,App Store,0
+U02650,France,Female,25,2026-01-02,Organic Search,0
+U02651,Netherlands,Female,38,2026-01-24,Paid Ads,0
+U02652,Netherlands,Female,23,2026-02-23,Organic Search,0
+U02653,UK,Female,16,2026-01-05,Social Media,1
+U02654,Belgium,Female,33,2026-02-03,Social Media,0
+U02655,France,Female,40,2026-01-17,Social Media,0
+U02656,Netherlands,Female,27,2026-01-03,Social Media,0
+U02657,Sweden,Male,35,2026-01-21,Social Media,0
+U02658,France,Female,24,2026-02-23,Paid Ads,0
+U02659,Germany,Male,32,2026-02-11,Social Media,0
+U02660,Germany,Male,26,2026-01-01,App Store,0
+U02661,Sweden,Female,23,2026-01-20,Referral,0
+U02662,UK,Female,24,2026-01-08,Paid Ads,0
+U02663,Netherlands,Male,17,2026-01-01,Social Media,0
+U02664,Netherlands,Male,36,2026-02-13,Social Media,0
+U02665,UK,Female,23,2026-01-26,Social Media,0
+U02666,Germany,Female,49,2026-01-22,Influencer,0
+U02667,Spain,Male,29,2026-01-27,Organic Search,0
+U02668,Austria,Female,20,2026-01-14,App Store,0
+U02669,France,Female,21,2026-01-08,Social Media,0
+U02670,UK,Female,22,2026-01-29,App Store,0
+U02671,Germany,Male,29,2026-01-18,Organic Search,0
+U02672,Netherlands,Female,38,2026-02-19,Social Media,0
+U02673,Sweden,Female,34,2026-02-01,Referral,0
+U02674,France,Female,28,2026-01-03,App Store,0
+U02675,Italy,Female,27,2026-01-23,Influencer,0
+U02676,Poland,Female,18,2026-01-15,Organic Search,0
+U02677,Germany,Female,23,2026-01-15,Organic Search,0
+U02678,Netherlands,Female,32,2026-02-14,Influencer,0
+U02679,France,Male,32,2026-01-11,Social Media,0
+U02680,France,Male,29,2026-01-14,Social Media,0
+U02681,UK,Female,24,2026-02-23,App Store,0
+U02682,Germany,Male,28,2026-01-04,Organic Search,0
+U02683,France,Female,31,2026-02-12,Paid Ads,0
+U02684,Belgium,Female,31,2026-01-02,Influencer,0
+U02685,Poland,Male,26,2026-01-09,Organic Search,0
+U02686,Italy,Male,28,2026-01-15,Organic Search,0
+U02687,France,Male,24,2026-01-03,Social Media,0
+U02688,Germany,Female,28,2026-02-06,App Store,0
+U02689,Netherlands,Female,31,2026-01-21,Influencer,0
+U02690,Spain,Male,33,2026-01-10,Referral,1
+U02691,Spain,Female,24,2026-01-12,Social Media,0
+U02692,France,Male,33,2026-01-21,App Store,0
+U02693,Germany,Female,32,2026-01-01,Referral,0
+U02694,Netherlands,Male,30,2026-01-12,Organic Search,0
+U02695,France,Female,31,2026-01-16,Social Media,0
+U02696,Netherlands,Male,38,2026-01-06,Influencer,0
+U02697,Germany,Female,35,2026-01-02,Social Media,0
+U02698,Sweden,Male,36,2026-01-04,Social Media,0
+U02699,Spain,Female,24,2026-02-15,Organic Search,0
+U02700,Spain,Female,26,2026-01-05,Organic Search,0
+U02701,France,Male,21,2026-01-27,App Store,0
+U02702,Poland,Male,31,2026-01-07,Organic Search,0
+U02703,Netherlands,Male,26,2026-01-06,Social Media,0
+U02704,France,Female,19,2026-01-01,Social Media,0
+U02705,Germany,Male,26,2026-02-23,Organic Search,0
+U02706,Austria,Other,23,2026-01-13,Organic Search,0
+U02707,Poland,Female,37,2026-01-27,Influencer,0
+U02708,Spain,Female,31,2026-01-06,App Store,0
+U02709,UK,Female,30,2026-01-04,Influencer,0
+U02710,Poland,Male,29,2026-01-22,App Store,0
+U02711,Belgium,Female,20,2026-02-14,Paid Ads,1
+U02712,France,Female,21,2026-01-02,Social Media,0
+U02713,France,Female,22,2026-02-03,Influencer,0
+U02714,France,Female,30,2026-02-10,Social Media,0
+U02715,Belgium,Female,21,2026-01-07,Paid Ads,0
+U02716,Germany,Female,29,2026-01-27,Social Media,0
+U02717,France,Male,23,2026-02-08,App Store,0
+U02718,UK,Female,35,2026-01-12,Social Media,0
+U02719,France,Female,28,2026-01-15,Social Media,0
+U02720,Spain,Male,30,2026-01-18,Influencer,0
+U02721,France,Male,22,2026-01-05,Organic Search,0
+U02722,Germany,Male,29,2026-02-23,App Store,1
+U02723,UK,Female,29,2026-01-16,Paid Ads,0
+U02724,Sweden,Male,37,2026-01-17,Influencer,0
+U02725,Netherlands,Male,25,2026-01-27,Referral,0
+U02726,Netherlands,Male,21,2026-02-16,Influencer,0
+U02727,Italy,Male,31,2026-01-02,Influencer,0
+U02728,UK,Female,28,2026-02-23,App Store,0
+U02729,UK,Male,29,2026-01-21,Social Media,1
+U02730,Italy,Female,29,2026-02-18,App Store,0
+U02731,Italy,Female,34,2026-01-22,Social Media,1
+U02732,UK,Female,26,2026-01-07,Organic Search,0
+U02733,Germany,Female,46,2026-01-04,Social Media,0
+U02734,Italy,Female,24,2026-01-06,Influencer,0
+U02735,Austria,Female,40,2026-02-02,App Store,0
+U02736,Belgium,Female,31,2026-01-21,Referral,0
+U02737,Spain,Male,20,2026-01-15,Social Media,0
+U02738,Netherlands,Female,25,2026-01-09,Referral,0
+U02739,Spain,Male,42,2026-01-18,Referral,0
+U02740,Austria,Female,33,2026-02-23,Referral,0
+U02741,France,Male,16,2026-01-29,Referral,0
+U02742,Netherlands,Male,23,2026-01-08,Organic Search,0
+U02743,France,Other,32,2026-01-09,Social Media,0
+U02744,France,Male,21,2026-01-16,Organic Search,0
+U02745,Netherlands,Female,16,2026-01-03,Social Media,0
+U02746,France,Female,19,2026-02-05,App Store,0
+U02747,Netherlands,Male,21,2026-01-03,Referral,0
+U02748,UK,Male,38,2026-01-16,Paid Ads,0
+U02749,Austria,Male,37,2026-01-15,Organic Search,0
+U02750,Netherlands,Female,30,2026-01-29,App Store,0
+U02751,Germany,Male,28,2026-01-08,Organic Search,0
+U02752,Netherlands,Male,22,2026-01-31,App Store,0
+U02753,Germany,Female,16,2026-01-17,App Store,1
+U02754,Belgium,Female,22,2026-01-28,App Store,0
+U02755,Italy,Male,31,2026-01-08,Social Media,0
+U02756,Sweden,Female,16,2026-01-10,Organic Search,0
+U02757,France,Female,25,2026-01-10,Social Media,0
+U02758,Italy,Male,25,2026-01-14,Influencer,0
+U02759,Spain,Female,37,2026-01-06,Referral,0
+U02760,Netherlands,Female,26,2026-02-04,Influencer,0
+U02761,France,Female,31,2026-01-01,Social Media,0
+U02762,Netherlands,Female,24,2026-01-15,Social Media,0
+U02763,France,Female,26,2026-01-10,Organic Search,0
+U02764,Germany,Female,34,2026-02-02,Social Media,0
+U02765,Italy,Male,32,2026-01-04,Referral,0
+U02766,Austria,Male,38,2026-01-07,Organic Search,1
+U02767,Spain,Female,23,2026-01-12,Influencer,0
+U02768,Spain,Female,33,2026-01-03,App Store,0
+U02769,Spain,Male,23,2026-01-07,Organic Search,0
+U02770,Netherlands,Female,17,2026-01-06,Referral,0
+U02771,Italy,Female,19,2026-01-05,Social Media,1
+U02772,Spain,Male,32,2026-02-03,Social Media,0
+U02773,Belgium,Male,34,2026-01-05,Social Media,0
+U02774,Italy,Female,33,2026-01-13,App Store,0
+U02775,Italy,Female,29,2026-01-11,Paid Ads,0
+U02776,Netherlands,Male,30,2026-02-23,App Store,0
+U02777,Germany,Female,32,2026-01-07,Social Media,1
+U02778,France,Male,35,2026-01-09,Organic Search,0
+U02779,Germany,Female,16,2026-01-16,Influencer,0
+U02780,Germany,Male,32,2026-02-23,Social Media,1
+U02781,Germany,Male,25,2026-01-02,Social Media,0
+U02782,Netherlands,Male,28,2026-02-23,Social Media,0
+U02783,Poland,Male,25,2026-01-04,Social Media,0
+U02784,France,Other,26,2026-01-04,Social Media,1
+U02785,UK,Female,27,2026-01-02,Social Media,0
+U02786,UK,Female,31,2026-01-02,Social Media,0
+U02787,France,Male,23,2026-01-13,Social Media,0
+U02788,Germany,Male,35,2026-02-14,Influencer,1
+U02789,Netherlands,Female,22,2026-02-10,Social Media,0
+U02790,France,Female,31,2026-02-23,Paid Ads,1
+U02791,Poland,Male,28,2026-01-14,Influencer,0
+U02792,Belgium,Male,16,2026-01-07,Paid Ads,1
+U02793,Netherlands,Female,41,2026-01-04,Referral,0
+U02794,France,Male,28,2026-01-16,Influencer,0
+U02795,Spain,Female,27,2026-01-17,Influencer,0
+U02796,Sweden,Male,33,2026-01-17,App Store,0
+U02797,Poland,Female,19,2026-01-13,Referral,0
+U02798,Poland,Male,39,2026-02-07,Paid Ads,0
+U02799,France,Female,29,2026-01-13,App Store,0
+U02800,France,Female,28,2026-01-16,Social Media,1
+U02801,UK,Female,26,2026-01-09,Organic Search,0
+U02802,Belgium,Female,29,2026-01-20,Influencer,1
+U02803,Spain,Female,33,2026-01-31,App Store,0
+U02804,Austria,Female,30,2026-01-03,Social Media,0
+U02805,Germany,Male,28,2026-01-14,Social Media,1
+U02806,Spain,Male,26,2026-01-07,Influencer,0
+U02807,UK,Female,33,2026-01-06,Organic Search,0
+U02808,Spain,Male,23,2026-01-03,Referral,0
+U02809,UK,Female,28,2026-01-01,Social Media,1
+U02810,France,Male,20,2026-01-12,Organic Search,0
+U02811,Italy,Male,21,2026-01-12,Influencer,0
+U02812,Germany,Male,37,2026-01-19,Paid Ads,0
+U02813,France,Male,33,2026-01-21,Referral,0
+U02814,France,Male,42,2026-01-21,Social Media,0
+U02815,Germany,Male,37,2026-01-07,Social Media,0
+U02816,Germany,Female,27,2026-02-08,Organic Search,0
+U02817,UK,Other,20,2026-01-17,Referral,0
+U02818,Spain,Male,22,2026-02-20,Organic Search,0
+U02819,France,Male,21,2026-01-15,Social Media,0
+U02820,Netherlands,Male,30,2026-01-25,App Store,1
+U02821,Netherlands,Female,23,2026-01-20,Social Media,0
+U02822,Italy,Female,29,2026-01-03,Influencer,0
+U02823,Germany,Female,34,2026-01-07,Social Media,0
+U02824,UK,Male,33,2026-01-19,Organic Search,0
+U02825,Netherlands,Female,25,2026-01-10,App Store,0
+U02826,Austria,Female,29,2026-01-01,Referral,1
+U02827,Germany,Female,28,2026-01-07,Social Media,0
+U02828,UK,Male,35,2026-01-19,Referral,0
+U02829,Germany,Female,29,2026-01-04,Organic Search,0
+U02830,Netherlands,Female,28,2026-01-19,Organic Search,0
+U02831,Spain,Male,24,2026-01-09,Social Media,0
+U02832,Germany,Female,41,2026-02-07,Social Media,1
+U02833,Austria,Male,25,2026-01-27,Social Media,0
+U02834,France,Male,21,2026-01-09,App Store,0
+U02835,Germany,Male,35,2026-01-09,Influencer,1
+U02836,UK,Male,31,2026-01-30,Social Media,0
+U02837,Spain,Female,21,2026-02-23,App Store,0
+U02838,Germany,Male,23,2026-01-28,Organic Search,0
+U02839,France,Male,22,2026-01-03,Influencer,0
+U02840,UK,Female,21,2026-01-13,Social Media,0
+U02841,Poland,Male,43,2026-01-08,App Store,0
+U02842,Belgium,Male,20,2026-01-06,Paid Ads,0
+U02843,Germany,Female,21,2026-02-12,Organic Search,1
+U02844,UK,Female,21,2026-01-03,Social Media,0
+U02845,Sweden,Male,24,2026-01-23,Social Media,1
+U02846,Spain,Male,32,2026-01-04,Social Media,0
+U02847,UK,Male,27,2026-01-12,Organic Search,1
+U02848,France,Female,26,2026-01-26,Referral,1
+U02849,Belgium,Male,16,2026-01-09,Referral,0
+U02850,Austria,Female,25,2026-01-13,Organic Search,0
+U02851,Netherlands,Female,35,2026-02-23,Organic Search,0
+U02852,Germany,Female,16,2026-01-02,Organic Search,0
+U02853,France,Male,31,2026-01-06,Social Media,0
+U02854,France,Male,39,2026-02-02,Social Media,0
+U02855,Germany,Female,30,2026-01-31,App Store,0
+U02856,Spain,Female,16,2026-01-20,Organic Search,0
+U02857,Germany,Female,16,2026-01-02,Social Media,0
+U02858,Germany,Male,30,2026-02-23,Social Media,0
+U02859,Netherlands,Male,33,2026-01-03,Organic Search,0
+U02860,Italy,Male,29,2026-02-12,Organic Search,0
+U02861,Netherlands,Female,36,2026-01-04,Organic Search,0
+U02862,Sweden,Female,23,2026-01-15,Influencer,1
+U02863,Sweden,Female,24,2026-02-23,Referral,0
+U02864,UK,Female,42,2026-01-18,Social Media,0
+U02865,France,Female,16,2026-01-29,Social Media,1
+U02866,UK,Female,24,2026-01-29,Social Media,0
+U02867,Germany,Female,16,2026-01-16,App Store,0
+U02868,France,Male,21,2026-01-04,Organic Search,0
+U02869,Germany,Female,18,2026-01-16,Organic Search,0
+U02870,Italy,Male,29,2026-01-04,App Store,0
+U02871,Spain,Male,36,2026-01-25,Organic Search,0
+U02872,Sweden,Male,26,2026-01-16,App Store,0
+U02873,Italy,Female,34,2026-01-21,Social Media,0
+U02874,Spain,Female,31,2026-01-07,Social Media,0
+U02875,Netherlands,Male,31,2026-01-05,Referral,0
+U02876,Poland,Male,33,2026-01-02,Social Media,0
+U02877,Spain,Female,32,2026-01-13,App Store,0
+U02878,Spain,Female,30,2026-01-20,App Store,0
+U02879,Italy,Female,41,2026-01-27,Influencer,0
+U02880,Poland,Male,25,2026-01-02,Referral,0
+U02881,Sweden,Male,30,2026-02-04,App Store,0
+U02882,Spain,Female,25,2026-01-12,Social Media,0
+U02883,Germany,Female,38,2026-01-05,Influencer,0
+U02884,Poland,Female,31,2026-02-23,Referral,0
+U02885,Germany,Female,16,2026-01-02,Influencer,0
+U02886,France,Female,37,2026-02-18,Referral,0
+U02887,UK,Male,22,2026-02-23,Influencer,1
+U02888,UK,Female,26,2026-01-16,Organic Search,0
+U02889,UK,Male,29,2026-01-03,Organic Search,0
+U02890,Netherlands,Male,22,2026-01-08,Social Media,0
+U02891,France,Male,28,2026-01-06,Organic Search,0
+U02892,Poland,Female,23,2026-02-03,Referral,0
+U02893,Italy,Female,20,2026-01-24,Paid Ads,0
+U02894,Spain,Female,24,2026-01-12,Social Media,0
+U02895,UK,Female,30,2026-01-09,Social Media,0
+U02896,UK,Male,26,2026-01-10,App Store,0
+U02897,Netherlands,Female,31,2026-01-12,Organic Search,0
+U02898,France,Female,30,2026-01-01,Social Media,0
+U02899,Spain,Female,31,2026-01-23,Social Media,0
+U02900,Netherlands,Male,32,2026-01-07,Influencer,0
+U02901,Germany,Male,22,2026-01-22,Social Media,0
+U02902,Germany,Male,17,2026-01-05,Social Media,1
+U02903,Germany,Female,38,2026-01-06,Organic Search,0
+U02904,Netherlands,Female,20,2026-01-29,Influencer,0
+U02905,Poland,Female,27,2026-01-17,App Store,0
+U02906,Italy,Male,26,2026-01-05,Organic Search,0
+U02907,Spain,Male,24,2026-01-03,App Store,0
+U02908,Spain,Female,28,2026-02-08,Organic Search,0
+U02909,Spain,Female,23,2026-01-05,Influencer,0
+U02910,UK,Male,32,2026-01-26,Social Media,0
+U02911,Germany,Male,16,2026-01-01,Organic Search,0
+U02912,Spain,Male,35,2026-01-17,Organic Search,0
+U02913,Germany,Male,25,2026-02-05,Organic Search,0
+U02914,UK,Female,42,2026-01-08,Social Media,0
+U02915,Germany,Female,38,2026-01-22,Social Media,1
+U02916,Netherlands,Male,29,2026-01-11,Influencer,0
+U02917,Spain,Female,25,2026-01-01,App Store,0
+U02918,UK,Male,21,2026-01-13,Referral,0
+U02919,Germany,Other,26,2026-02-20,Social Media,0
+U02920,France,Female,29,2026-01-22,Organic Search,0
+U02921,Germany,Female,20,2026-01-04,Referral,0
+U02922,Spain,Female,31,2026-01-26,Social Media,0
+U02923,UK,Female,17,2026-02-23,App Store,1
+U02924,Austria,Female,26,2026-01-04,Organic Search,0
+U02925,Italy,Male,21,2026-01-19,Organic Search,1
+U02926,Spain,Female,20,2026-01-14,Social Media,0
+U02927,UK,Female,23,2026-01-10,Social Media,0
+U02928,France,Female,32,2026-01-30,Social Media,0
+U02929,Italy,Female,31,2026-01-30,Paid Ads,1
+U02930,Netherlands,Male,25,2026-01-15,Organic Search,0
+U02931,Germany,Female,22,2026-01-08,Organic Search,0
+U02932,UK,Male,26,2026-02-06,Influencer,0
+U02933,Netherlands,Female,30,2026-01-22,Influencer,1
+U02934,Germany,Female,36,2026-01-16,Social Media,0
+U02935,France,Male,34,2026-01-04,Paid Ads,0
+U02936,France,Male,34,2026-01-19,Social Media,0
+U02937,Sweden,Male,30,2026-02-23,Influencer,1
+U02938,Germany,Female,37,2026-02-06,Social Media,0
+U02939,France,Female,31,2026-01-25,Paid Ads,0
+U02940,Germany,Female,24,2026-01-24,Organic Search,0
+U02941,Netherlands,Male,21,2026-02-23,App Store,1
+U02942,Italy,Female,25,2026-01-01,Social Media,0
+U02943,France,Female,19,2026-02-23,Organic Search,0
+U02944,Germany,Male,26,2026-01-12,Organic Search,0
+U02945,Germany,Female,24,2026-02-10,Organic Search,0
+U02946,Spain,Male,29,2026-01-14,Organic Search,0
+U02947,Netherlands,Male,36,2026-01-17,Organic Search,0
+U02948,UK,Female,24,2026-02-07,Social Media,0
+U02949,Poland,Female,16,2026-01-19,Influencer,0
+U02950,Austria,Female,31,2026-01-28,Social Media,0
+U02951,Germany,Male,26,2026-02-12,Organic Search,0
+U02952,Netherlands,Female,38,2026-02-14,Paid Ads,0
+U02953,Germany,Male,20,2026-01-27,Social Media,0
+U02954,Italy,Female,38,2026-01-16,Organic Search,0
+U02955,France,Male,24,2026-01-26,Social Media,0
+U02956,UK,Male,35,2026-01-09,Social Media,0
+U02957,UK,Female,23,2026-01-15,Influencer,1
+U02958,UK,Male,23,2026-01-09,App Store,0
+U02959,Germany,Female,35,2026-01-31,Paid Ads,0
+U02960,Netherlands,Male,21,2026-01-23,Social Media,0
+U02961,Sweden,Male,16,2026-01-09,Paid Ads,0
+U02962,Netherlands,Female,42,2026-02-23,App Store,0
+U02963,Germany,Male,33,2026-01-22,Social Media,0
+U02964,UK,Male,33,2026-01-26,Organic Search,0
+U02965,Spain,Male,25,2026-01-08,App Store,1
+U02966,Sweden,Female,22,2026-01-05,App Store,0
+U02967,Italy,Male,24,2026-01-10,App Store,0
+U02968,Poland,Male,23,2026-01-01,Influencer,0
+U02969,UK,Female,29,2026-01-08,Influencer,0
+U02970,Germany,Female,22,2026-01-16,Paid Ads,0
+U02971,Netherlands,Male,31,2026-01-14,Referral,0
+U02972,Germany,Female,37,2026-01-20,Social Media,0
+U02973,Belgium,Female,26,2026-02-23,App Store,0
+U02974,UK,Female,25,2026-01-26,Social Media,0
+U02975,Netherlands,Female,30,2026-02-08,App Store,0
+U02976,UK,Female,30,2026-01-14,Organic Search,0
+U02977,Germany,Female,19,2026-02-23,App Store,0
+U02978,Netherlands,Female,22,2026-01-29,Influencer,0
+U02979,Germany,Female,32,2026-01-03,Social Media,0
+U02980,Austria,Other,16,2026-02-23,Social Media,0
+U02981,France,Female,28,2026-02-23,Paid Ads,0
+U02982,Italy,Male,17,2026-01-26,Influencer,1
+U02983,Germany,Male,23,2026-01-13,Social Media,0
+U02984,Spain,Female,31,2026-01-15,Social Media,0
+U02985,Sweden,Male,34,2026-01-09,Referral,0
+U02986,Spain,Male,21,2026-01-10,Social Media,0
+U02987,Belgium,Male,31,2026-02-23,App Store,1
+U02988,Spain,Female,34,2026-01-01,Social Media,0
+U02989,Poland,Female,28,2026-02-07,Referral,0
+U02990,Poland,Female,17,2026-02-13,Social Media,0
+U02991,Poland,Male,16,2026-01-22,Paid Ads,1
+U02992,Poland,Male,28,2026-01-10,Organic Search,0
+U02993,Germany,Female,22,2026-01-30,Organic Search,0
+U02994,UK,Female,25,2026-01-22,Organic Search,0
+U02995,France,Male,29,2026-01-20,Social Media,0
+U02996,Sweden,Female,30,2026-01-31,App Store,0
+U02997,UK,Female,32,2026-02-02,Referral,0
+U02998,Germany,Male,23,2026-01-28,Referral,0
+U02999,Germany,Female,27,2026-01-19,App Store,0
+U03000,Belgium,Male,29,2026-01-18,Influencer,0
