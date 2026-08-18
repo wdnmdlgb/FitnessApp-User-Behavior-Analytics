@@ -252,6 +252,10 @@
 
             // 付费vs免费
             const premiumData = d.premium;
+            const freeUser = premiumData.find(function(x){ return x.type === '免费用户'; });
+            const premUser = premiumData.find(function(x){ return x.type === '付费用户'; });
+            const freeArr = freeUser ? [freeUser.session_duration, freeUser.workouts, freeUser.calories, freeUser.ai_usage*100, freeUser.plan_usage*100] : [];
+            const premArr = premUser ? [premUser.session_duration, premUser.workouts, premUser.calories, premUser.ai_usage*100, premUser.plan_usage*100] : [];
             charts.premium.setOption({
                 backgroundColor: 'transparent',
                 tooltip: { trigger: 'axis', triggerOn: 'click', renderMode: 'richText', confine: true },
@@ -260,8 +264,8 @@
                 xAxis: { type: 'category', data: ['会话时长(分)', '训练次数', '消耗卡路里', 'AI使用率(%)', '计划访问率(%)'], axisLabel: { fontSize: 10 } },
                 yAxis: { type: 'value', axisLabel: { fontSize: 11 } },
                 series: [
-                    { name: '免费用户', type: 'bar', data: premiumData.map(x => x.type === '免费用户' ? [x.session_duration, x.workouts, x.calories, x.ai_usage*100, x.plan_usage*100] : null)[0], itemStyle: { color: '#85CDCA' } },
-                    { name: '付费用户', type: 'bar', data: premiumData.map(x => x.type === '付费用户' ? [x.session_duration, x.workouts, x.calories, x.ai_usage*100, x.plan_usage*100] : null)[0], itemStyle: { color: '#2c5282' } }
+                    { name: '免费用户', type: 'bar', data: freeArr, itemStyle: { color: '#85CDCA' } },
+                    { name: '付费用户', type: 'bar', data: premArr, itemStyle: { color: '#2c5282' } }
                 ]
             });
 
