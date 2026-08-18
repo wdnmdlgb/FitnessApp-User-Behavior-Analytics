@@ -16,9 +16,12 @@
 
 | 文件 | 说明 | 链接 |
 |------|------|------|
+| 🖥️ **交互式数据看板** | 6个核心指标+5个联动图表，支持国家筛选 | [在线体验](https://wdnmdlgb.github.io/FitnessApp-User-Behavior-Analytics/dashboard/) |
 | 数据分析报告 | 完整分析报告（含5大发现+5条优化建议） | [查看报告](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/report/数据分析报告.md) |
 | SQL业务查询 | 15条真实业务场景SQL | [查看SQL](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/sql/business_analysis.sql) |
 | 数据字典 | 数据集字段说明 | [查看字典](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/data/DATA_DICTIONARY.md) |
+
+> 💡 交互式看板支持按国家筛选，DAU趋势和核心指标实时联动更新
 
 ---
 
@@ -49,11 +52,13 @@ FitnessApp-User-Behavior-Analytics/
 ├── sql/
 │   └── business_analysis.sql          # 15条SQL业务查询
 ├── dashboard/
-│   ├── 01_dau_trend.png               # DAU趋势图
-│   ├── 02_premium_vs_free.png         # 付费vs免费对比
-│   ├── 03_country_distribution.png    # 国家分布图
-│   ├── 04_feature_usage.png           # 功能使用率
-│   └── 05_weekday_activity.png        # 周内活跃度
+│   ├── index.html                   # 🖥️ 交互式数据看板（ECharts，支持国家筛选联动）
+│   ├── dashboard_data.json          # 看板聚合数据
+│   ├── 01_dau_trend.png             # DAU趋势图
+│   ├── 02_premium_vs_free.png       # 付费vs免费对比
+│   ├── 03_country_distribution.png  # 国家分布图
+│   ├── 04_feature_usage.png         # 功能使用率
+│   └── 05_weekday_activity.png      # 周内活跃度
 ├── report/
 │   └── 数据分析报告.md                 # 完整分析报告
 └── scripts/
