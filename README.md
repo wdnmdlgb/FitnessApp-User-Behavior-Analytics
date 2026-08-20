@@ -1,14 +1,16 @@
-# 健身APP用户行为数据分析 📊
+# 健身APP用户行为数据分析 + AI Coach产品设计 📊🏋️
 
-> Fitness App User Behavior Analytics | Python + SQL + 数据可视化
+> Fitness App User Behavior Analytics & AI Coach Product Design
 >
-> 个人数据分析项目，求职作品集
+> Python + SQL + 数据可视化 + 产品策划 + 高保真原型
+>
+> 个人数据分析+产品设计项目，求职作品集
 
 ---
 
 ## 🎯 项目目标
 
-基于AI健身APP（如Freeletics类产品）的用户行为数据，完整跑通**数据获取→清洗→SQL分析→可视化→产品优化建议**的数据分析全流程，挖掘用户活跃、留存、付费转化的核心规律，提出数据驱动的产品迭代方案。
+基于AI健身APP（如Freeletics类产品）的用户行为数据，完整跑通**数据获取→清洗→SQL分析→可视化→产品问题发现→产品功能策划→高保真原型**的全流程，从数据分析师视角升级为**数据驱动的产品设计师**。
 
 ---
 
@@ -16,12 +18,14 @@
 
 | 文件 | 说明 | 链接 |
 |------|------|------|
-| 🖥️ **交互式数据看板** | 6个核心指标+5个联动图表，支持国家筛选 | [在线体验](https://wdnmdlgb.github.io/FitnessApp-User-Behavior-Analytics/dashboard/) |
+| 🖥️ **交互式数据看板** | 8个核心指标+7个联动图表，支持国家筛选+深色模式 | [在线体验](https://wdnmdlgb.github.io/FitnessApp-User-Behavior-Analytics/dashboard/) |
+| 📓 **Jupyter Notebook** | 完整数据分析流程（42个单元格，数据读取→清洗→EDA→分群→建议） | [查看Notebook](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/notebooks/FitnessApp_User_Behavior_Analysis.ipynb) |
+| 🎨 **AI Coach产品原型** | 6页可交互高保真原型（首页→目标→频率→器械→生成→计划） | [在线体验](https://wdnmdlgb.github.io/FitnessApp-User-Behavior-Analytics/product/ai_coach_prototype.html) |
+| 📋 **AI Coach产品策划方案** | 数据发现→痛点假设→竞品分析→产品方案→功能流程→监控指标 | [查看方案](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/product/AI_Coach_产品策划方案.md) |
 | 数据分析报告 | 完整分析报告（含5大发现+5条优化建议） | [查看报告](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/report/数据分析报告.md) |
 | SQL业务查询 | 15条真实业务场景SQL | [查看SQL](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/sql/business_analysis.sql) |
-| 数据字典 | 数据集字段说明 | [查看字典](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics/blob/master/data/DATA_DICTIONARY.md) |
 
-> 💡 交互式看板支持按国家筛选，DAU趋势和核心指标实时联动更新
+> 💡 本项目已从"数据分析"升级为"**体育科技产品数据分析 + 产品设计**"，适合投递数据岗、产品岗、体育科技公司。
 
 ---
 
@@ -30,9 +34,12 @@
 | 工具 | 用途 |
 |------|------|
 | **Python Pandas** | 数据清洗、缺失值处理、衍生字段计算、统计分析 |
+| **Jupyter Notebook** | 完整数据分析流程展示（42个单元格，含代码+可视化+结论） |
 | **SQL** | 15条业务查询，覆盖活跃/留存/付费/功能/分群分析 |
+| **ECharts** | 交互式数据看板（7个图表，深色模式，国家筛选联动） |
+| **HTML/CSS/JS** | AI Coach功能高保真原型（6页可交互，移动端尺寸） |
 | **Matplotlib** | 5张数据可视化图表 |
-| **CSV** | 结构化数据存储 |
+| **产品策划** | 数据发现→痛点假设→竞品分析→产品方案→功能流程→监控指标 |
 
 ---
 
@@ -49,22 +56,24 @@ FitnessApp-User-Behavior-Analytics/
 │   ├── cleaned_user_daily_activity.csv # 清洗后行为数据
 │   ├── key_metrics.csv                # 核心指标汇总
 │   └── DATA_DICTIONARY.md             # 数据字典
+├── notebooks/
+│   └── FitnessApp_User_Behavior_Analysis.ipynb  # 📓 完整Jupyter Notebook（42单元格）
 ├── sql/
 │   └── business_analysis.sql          # 15条SQL业务查询
 ├── dashboard/
-│   ├── index.html                   # 🖥️ 交互式数据看板（ECharts，支持国家筛选联动）
-│   ├── dashboard_data.json          # 看板聚合数据
-│   ├── 01_dau_trend.png             # DAU趋势图
-│   ├── 02_premium_vs_free.png       # 付费vs免费对比
-│   ├── 03_country_distribution.png  # 国家分布图
-│   ├── 04_feature_usage.png         # 功能使用率
-│   └── 05_weekday_activity.png      # 周内活跃度
+│   ├── index.html                     # 🖥️ 交互式数据看板（ECharts，7图表+深色模式）
+│   ├── dashboard_data.json            # 看板聚合数据
+│   └── 01-05_*.png                   # 5张静态图表
+├── product/
+│   ├── AI_Coach_产品策划方案.md       # 📋 AI Coach完整产品策划文档
+│   └── ai_coach_prototype.html        # 🎨 AI Coach高保真交互原型（6页）
 ├── report/
 │   └── 数据分析报告.md                 # 完整分析报告
 └── scripts/
     ├── generate_dataset.py            # 数据集生成脚本
     ├── data_cleaning_analysis.py      # 数据清洗与分析脚本
-    └── (可扩展: Jupyter Notebook)
+    ├── generate_notebook.py           # Notebook生成脚本
+    └── generate_dashboard*.py         # 看板生成脚本
 ```
 
 ---

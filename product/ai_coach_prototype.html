@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Coach 功能原型 — Fitness App</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.header {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+.header h1 { font-size: 20px; margin-bottom: 4px; }
+.header p { font-size: 13px; opacity: 0.7; }
+.phone-frame {
+  width: 375px;
+  height: 760px;
+  background: #0f0f1a;
+  border-radius: 40px;
+  border: 8px solid #2a2a3e;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+.status-bar {
+  height: 44px;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 24px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+.screen {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  display: none;
+  padding: 0 20px 80px;
+}
+.screen.active { display: block; }
+.screen::-webkit-scrollbar { display: none; }
+
+/* 首页 */
+.greeting { color: white; margin-bottom: 16px; }
+.greeting h2 { font-size: 22px; margin-bottom: 4px; }
+.greeting p { font-size: 13px; opacity: 0.6; }
+.ai-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 16px;
+  position: relative;
+  overflow: hidden;
+}
+.ai-card::before {
+  content: '';
+  position: absolute;
+  top: -30px;
+  right: -30px;
+  width: 120px;
+  height: 120px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 50%;
+}
+.ai-badge {
+  display: inline-block;
+  background: rgba(255,255,255,0.2);
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+.ai-card h3 { font-size: 18px; margin-bottom: 6px; }
+.ai-card .meta { font-size: 12px; opacity: 0.85; margin-bottom: 14px; }
+.ai-card .meta span { margin-right: 12px; }
+.start-btn {
+  background: white;
+  color: #667eea;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.quick-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+.quick-btn {
+  background: #1e1e30;
+  border: 1px solid #2a2a40;
+  border-radius: 14px;
+  padding: 14px;
+  color: white;
+  text-align: left;
+  cursor: pointer;
+}
+.quick-btn .icon { font-size: 20px; margin-bottom: 6px; }
+.quick-btn .label { font-size: 13px; font-weight: 500; }
+.quick-btn .sub { font-size: 11px; opacity: 0.5; margin-top: 2px; }
+.section-title { color: white; font-size: 15px; margin-bottom: 10px; font-weight: 600; }
+.workout-item {
+  background: #1e1e30;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.workout-item .thumb {
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+.workout-item .info { flex: 1; color: white; }
+.workout-item .info h4 { font-size: 13px; margin-bottom: 2px; }
+.workout-item .info p { font-size: 11px; opacity: 0.5; }
+.bottom-nav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  background: rgba(15,15,26,0.95);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid #2a2a40;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.nav-item { color: #666; text-align: center; font-size: 10px; cursor: pointer; }
+.nav-item.active { color: #667eea; }
+.nav-item .icon { font-size: 20px; margin-bottom: 2px; }
+
+/* 引导页通用 */
+.guide-header { color: white; margin-bottom: 24px; padding-top: 10px; }
+.progress-bar { height: 4px; background: #2a2a40; border-radius: 2px; margin-bottom: 20px; overflow: hidden; }
+.progress-fill { height: 100%; background: linear-gradient(90deg, #667eea, #764ba2); border-radius: 2px; transition: width 0.3s; }
+.guide-header h2 { font-size: 24px; margin-bottom: 6px; }
+.guide-header p { font-size: 14px; opacity: 0.6; }
+.option-card {
+  background: #1e1e30;
+  border: 2px solid #2a2a40;
+  border-radius: 16px;
+  padding: 18px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.option-card:hover { border-color: #667eea; }
+.option-card.selected { border-color: #667eea; background: rgba(102,126,234,0.1); }
+.option-card .icon {
+  width: 48px;
+  height: 48px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  flex-shrink: 0;
+}
+.option-card .text { flex: 1; color: white; }
+.option-card .text h4 { font-size: 15px; margin-bottom: 3px; }
+.option-card .text p { font-size: 12px; opacity: 0.5; }
+.option-card .check {
+  width: 24px;
+  height: 24px;
+  border: 2px solid #444;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: transparent;
+}
+.option-card.selected .check { background: #667eea; border-color: #667eea; color: white; }
+.next-btn {
+  width: 100%;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 16px;
+  border-radius: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.next-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.back-btn {
+  background: none;
+  border: none;
+  color: #888;
+  font-size: 14px;
+  cursor: pointer;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* 器械多选 */
+.multi-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+.multi-card {
+  background: #1e1e30;
+  border: 2px solid #2a2a40;
+  border-radius: 14px;
+  padding: 16px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.multi-card.selected { border-color: #667eea; background: rgba(102,126,234,0.1); }
+.multi-card .icon { font-size: 28px; margin-bottom: 6px; }
+.multi-card .label { color: white; font-size: 13px; font-weight: 500; }
+
+/* 加载页 */
+.loading-screen { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: white; }
+.loading-spinner {
+  width: 60px;
+  height: 60px;
+  border: 4px solid #2a2a40;
+  border-top-color: #667eea;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 20px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-screen h3 { font-size: 18px; margin-bottom: 8px; }
+.loading-screen p { font-size: 13px; opacity: 0.6; }
+
+/* 计划详情页 */
+.plan-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 16px;
+}
+.plan-header h2 { font-size: 20px; margin-bottom: 8px; }
+.plan-stats { display: flex; gap: 20px; font-size: 13px; opacity: 0.9; }
+.exercise-list { margin-bottom: 16px; }
+.exercise-item {
+  background: #1e1e30;
+  border-radius: 12px;
+  padding: 14px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.exercise-item .num {
+  width: 32px;
+  height: 32px;
+  background: rgba(102,126,234,0.2);
+  color: #667eea;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+.exercise-item .info { flex: 1; color: white; }
+.exercise-item .info h4 { font-size: 14px; margin-bottom: 2px; }
+.exercise-item .info p { font-size: 11px; opacity: 0.5; }
+.exercise-item .sets { color: #667eea; font-size: 13px; font-weight: 600; }
+.tips-box {
+  background: rgba(102,126,234,0.1);
+  border: 1px solid rgba(102,126,234,0.3);
+  border-radius: 12px;
+  padding: 14px;
+  margin-bottom: 16px;
+}
+.tips-box h4 { color: #667eea; font-size: 13px; margin-bottom: 6px; }
+.tips-box p { color: white; font-size: 12px; opacity: 0.7; line-height: 1.5; }
+
+/* 页面导航提示 */
+.page-indicator {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+.page-dot {
+  padding: 6px 12px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 12px;
+  color: white;
+  font-size: 11px;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+.page-dot.active { background: #667eea; border-color: #667eea; }
+.page-dot:hover { border-color: #667eea; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🏋️ AI Coach 功能高保真原型</h1>
+  <p>基于用户行为数据分析的产品功能优化 — 可交互体验</p>
+</div>
+
+<div class="phone-frame">
+  <div class="status-bar">
+    <span>9:41</span>
+    <span>🔋 100%</span>
+  </div>
+
+  <!-- P1: 首页 -->
+  <div class="screen active" id="screen-home">
+    <div class="greeting">
+      <h2>早上好，Alex 👋</h2>
+      <p>今天是你坚持训练的第 12 天</p>
+    </div>
+    <div class="ai-card">
+      <span class="ai-badge">🤖 AI 智能推荐</span>
+      <h3>15分钟晨间燃脂训练</h3>
+      <div class="meta">
+        <span>⏱ 15分钟</span>
+        <span>🔥 180卡</span>
+        <span>💪 初级</span>
+      </div>
+      <button class="start-btn" onclick="showScreen('screen-goal')">开始训练 →</button>
+    </div>
+    <div class="quick-actions">
+      <div class="quick-btn" onclick="showScreen('screen-goal')">
+        <div class="icon">🎯</div>
+        <div class="label">AI定制计划</div>
+        <div class="sub">生成专属训练</div>
+      </div>
+      <div class="quick-btn">
+        <div class="icon">📊</div>
+        <div class="label">训练数据</div>
+        <div class="sub">查看进度统计</div>
+      </div>
+    </div>
+    <div class="section-title">🔥 热门训练</div>
+    <div class="workout-item">
+      <div class="thumb">🧘</div>
+      <div class="info"><h4>睡前放松拉伸</h4><p>10分钟 · 初级</p></div>
+    </div>
+    <div class="workout-item">
+      <div class="thumb" style="background:linear-gradient(135deg,#4facfe 0%,#00f2fe 100%)">💪</div>
+      <div class="info"><h4>无器械上肢训练</h4><p>20分钟 · 中级</p></div>
+    </div>
+    <div class="bottom-nav">
+      <div class="nav-item active"><div class="icon">🏠</div>首页</div>
+      <div class="nav-item"><div class="icon">📋</div>计划</div>
+      <div class="nav-item"><div class="icon">📊</div>数据</div>
+      <div class="nav-item"><div class="icon">👤</div>我的</div>
+    </div>
+  </div>
+
+  <!-- P2: 选择健身目标 -->
+  <div class="screen" id="screen-goal">
+    <button class="back-btn" onclick="showScreen('screen-home')">← 返回</button>
+    <div class="progress-bar"><div class="progress-fill" style="width:20%"></div></div>
+    <div class="guide-header">
+      <h2>你的健身目标是？</h2>
+      <p>AI将根据你的目标定制专属训练计划</p>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'goal')">
+      <div class="icon">🔥</div>
+      <div class="text"><h4>减脂塑形</h4><p>降低体脂，塑造紧致身材</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'goal')">
+      <div class="icon">💪</div>
+      <div class="text"><h4>增肌增重</h4><p>增加肌肉量，提升力量</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'goal')">
+      <div class="icon">🏃</div>
+      <div class="text"><h4>提升体能</h4><p>增强心肺功能和耐力</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'goal')">
+      <div class="icon">🧘</div>
+      <div class="text"><h4>健康维护</h4><p>保持运动习惯，改善亚健康</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'goal')">
+      <div class="icon">⚡</div>
+      <div class="text"><h4>专项提升</h4><p>针对特定部位或运动表现</p></div>
+      <div class="check">✓</div>
+    </div>
+    <button class="next-btn" id="btn-goal" disabled onclick="showScreen('screen-frequency')">下一步</button>
+  </div>
+
+  <!-- P3: 选择训练频率 -->
+  <div class="screen" id="screen-frequency">
+    <button class="back-btn" onclick="showScreen('screen-goal')">← 返回</button>
+    <div class="progress-bar"><div class="progress-fill" style="width:40%"></div></div>
+    <div class="guide-header">
+      <h2>每周能训练几次？</h2>
+      <p>选择适合你生活节奏的训练频率</p>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'freq')">
+      <div class="icon">🌱</div>
+      <div class="text"><h4>2-3次 / 周</h4><p>初学者友好，轻松坚持</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'freq')">
+      <div class="icon">🔥</div>
+      <div class="text"><h4>3-4次 / 周</h4><p>稳步提升，效果明显</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'freq')">
+      <div class="icon">💪</div>
+      <div class="text"><h4>5次以上 / 周</h4><p>高强度训练，快速进阶</p></div>
+      <div class="check">✓</div>
+    </div>
+    <button class="next-btn" id="btn-freq" disabled onclick="showScreen('screen-equipment')">下一步</button>
+  </div>
+
+  <!-- P4: 选择器械与场地 -->
+  <div class="screen" id="screen-equipment">
+    <button class="back-btn" onclick="showScreen('screen-frequency')">← 返回</button>
+    <div class="progress-bar"><div class="progress-fill" style="width:60%"></div></div>
+    <div class="guide-header">
+      <h2>你有哪些器械？</h2>
+      <p>可多选，AI会根据器械调整训练动作</p>
+    </div>
+    <div class="multi-grid">
+      <div class="multi-card" onclick="toggleMulti(this)">
+        <div class="icon">🚫</div>
+        <div class="label">无器械</div>
+      </div>
+      <div class="multi-card" onclick="toggleMulti(this)">
+        <div class="icon">🧘</div>
+        <div class="label">瑜伽垫</div>
+      </div>
+      <div class="multi-card" onclick="toggleMulti(this)">
+        <div class="icon">🔗</div>
+        <div class="label">弹力带</div>
+      </div>
+      <div class="multi-card" onclick="toggleMulti(this)">
+        <div class="icon">🏋️</div>
+        <div class="label">哑铃</div>
+      </div>
+      <div class="multi-card" onclick="toggleMulti(this)">
+        <div class="icon">🏠</div>
+        <div class="label">综合器械</div>
+      </div>
+      <div class="multi-card" onclick="toggleMulti(this)">
+        <div class="icon">⚖️</div>
+        <div class="label">壶铃</div>
+      </div>
+    </div>
+    <div class="guide-header" style="margin-top:8px">
+      <h2 style="font-size:18px">主要训练场地？</h2>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'place')">
+      <div class="icon">🏠</div>
+      <div class="text"><h4>家里</h4><p>居家训练，方便灵活</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'place')">
+      <div class="icon">💼</div>
+      <div class="text"><h4>办公室</h4><p>碎片时间，工位训练</p></div>
+      <div class="check">✓</div>
+    </div>
+    <div class="option-card" onclick="selectOption(this,'place')">
+      <div class="icon">🌳</div>
+      <div class="text"><h4>户外</h4><p>公园/小区，亲近自然</p></div>
+      <div class="check">✓</div>
+    </div>
+    <button class="next-btn" id="btn-place" disabled onclick="showScreen('screen-loading')">生成我的训练计划</button>
+  </div>
+
+  <!-- P5: 加载生成 -->
+  <div class="screen" id="screen-loading">
+    <div class="loading-screen">
+      <div class="loading-spinner"></div>
+      <h3>AI正在为你定制计划...</h3>
+      <p>分析你的目标、频率和器械偏好</p>
+      <p style="margin-top:8px;font-size:11px;opacity:0.4">预计需要 3 秒</p>
+    </div>
+  </div>
+
+  <!-- P6: 训练计划详情 -->
+  <div class="screen" id="screen-plan">
+    <button class="back-btn" onclick="showScreen('screen-home')">← 返回首页</button>
+    <div class="plan-header">
+      <span class="ai-badge">🤖 AI 定制计划</span>
+      <h2>减脂塑形 · 居家训练</h2>
+      <div class="plan-stats">
+        <span>📅 每周3次</span>
+        <span>⏱ 每次20分钟</span>
+        <span>🔥 约220卡</span>
+      </div>
+    </div>
+    <div class="section-title">📋 今日训练动作</div>
+    <div class="exercise-list">
+      <div class="exercise-item">
+        <div class="num">1</div>
+        <div class="info"><h4>开合跳</h4><p>热身激活 · 全身</p></div>
+        <div class="sets">45秒×3</div>
+      </div>
+      <div class="exercise-item">
+        <div class="num">2</div>
+        <div class="info"><h4>深蹲</h4><p>下肢力量 · 臀腿</p></div>
+        <div class="sets">15次×3</div>
+      </div>
+      <div class="exercise-item">
+        <div class="num">3</div>
+        <div class="info"><h4>俯卧撑（跪姿）</h4><p>上肢推力 · 胸肩</p></div>
+        <div class="sets">12次×3</div>
+      </div>
+      <div class="exercise-item">
+        <div class="num">4</div>
+        <div class="info"><h4>登山跑</h4><p>核心燃脂 · 全身</p></div>
+        <div class="sets">30秒×3</div>
+      </div>
+      <div class="exercise-item">
+        <div class="num">5</div>
+        <div class="info"><h4>平板支撑</h4><p>核心稳定 · 腹部</p></div>
+        <div class="sets">40秒×3</div>
+      </div>
+      <div class="exercise-item">
+        <div class="num">6</div>
+        <div class="info"><h4>拉伸放松</h4><p>恢复放松 · 全身</p></div>
+        <div class="sets">3分钟</div>
+      </div>
+    </div>
+    <div class="tips-box">
+      <h4>💡 AI训练建议</h4>
+      <p>根据你的数据，AI教练建议：训练前做2分钟动态热身；组间休息30-45秒；完成后记录感受，AI将自动调整下次训练强度。</p>
+    </div>
+    <button class="next-btn" onclick="alert('🎉 训练开始！跟练中...')">开始跟练 →</button>
+  </div>
+
+</div>
+
+<div class="page-indicator">
+  <div class="page-dot active" onclick="showScreen('screen-home')">P1 首页</div>
+  <div class="page-dot" onclick="showScreen('screen-goal')">P2 选择目标</div>
+  <div class="page-dot" onclick="showScreen('screen-frequency')">P3 选择频率</div>
+  <div class="page-dot" onclick="showScreen('screen-equipment')">P4 器械场地</div>
+  <div class="page-dot" onclick="showScreen('screen-loading')">P5 生成计划</div>
+  <div class="page-dot" onclick="showScreen('screen-plan')">P6 计划详情</div>
+</div>
+
+<script>
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  document.querySelectorAll('.page-dot').forEach(d => d.classList.remove('active'));
+  const map = {'screen-home':0,'screen-goal':1,'screen-frequency':2,'screen-equipment':3,'screen-loading':4,'screen-plan':5};
+  if (map[id] !== undefined) document.querySelectorAll('.page-dot')[map[id]].classList.add('active');
+  if (id === 'screen-loading') {
+    setTimeout(() => showScreen('screen-plan'), 2500);
+  }
+}
+function selectOption(el, group) {
+  const parent = el.parentElement;
+  parent.querySelectorAll('.option-card').forEach(c => c.classList.remove('selected'));
+  el.classList.add('selected');
+  document.getElementById('btn-' + group).disabled = false;
+}
+function toggleMulti(el) {
+  el.classList.toggle('selected');
+}
+</script>
+</body>
+</html>
