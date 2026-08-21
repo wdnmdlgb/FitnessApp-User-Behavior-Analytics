@@ -164,11 +164,3 @@ python scripts/data_cleaning_analysis.py
 
 ---
 
-## 🔗 关联项目
-
-- [项目1：Gymshark品牌深度研究](https://github.com/wdnmdlgb/Gymshark-Brand-Research) — 欧洲健身服饰DTC品牌竞品分析
-- 项目3：欧洲居家健身Ins账号模拟运营 — 海外社媒运营全流程
-
----
-
-*Made with Python & SQL for portfolio | 2026*
